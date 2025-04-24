@@ -34,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
     void HandleLegStretch()
     {
         
-        isStretching = Input.GetKey(KeyCode.W);
+        isStretching = Input.GetKey(KeyCode.Z);
 
         if (isStretching)
         {

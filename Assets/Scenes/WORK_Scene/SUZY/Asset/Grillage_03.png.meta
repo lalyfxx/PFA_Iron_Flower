@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fc83e05deb5d15f4a8f29c624c3c511c
+guid: a03561793ebc31944bbbe8a0e165b79c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5031742739713920464
-    second: fond_test_0
+      213: 5000827709386656542
+    second: Grillage_03_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond_test_0
+      name: Grillage_03_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1060
+        width: 32
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 032733633a8ab2ab0800000000000000
-      internalID: -5031742739713920464
+      spriteID: e1b0ce06e42866540800000000000000
+      internalID: 5000827709386656542
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      fond_test_0: -5031742739713920464
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

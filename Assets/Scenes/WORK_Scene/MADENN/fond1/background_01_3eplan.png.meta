@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: fd1a360316f4d6c458c910a06b48e133
+guid: bfbd8929a41066042987e1f5a4d74981
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2671374196479723466
-    second: fond1_3eplan_0
+      213: 2110609078502151901
+    second: background_01_3eplan_0
   - first:
-      213: 1636217338771771260
-    second: fond1_3eplan_1
+      213: -670129947285710035
+    second: background_01_3eplan_1
   - first:
-      213: 401162301832119995
-    second: fond1_3eplan_2
+      213: 4986158970993907426
+    second: background_01_3eplan_2
   - first:
-      213: 4448415723276047744
-    second: fond1_3eplan_3
+      213: -974522712852955989
+    second: background_01_3eplan_3
   - first:
-      213: -3715516356405248878
-    second: fond1_3eplan_4
+      213: -4778673706006663725
+    second: background_01_3eplan_4
   - first:
-      213: -6286122905734149268
-    second: fond1_3eplan_5
+      213: -6832323683431044589
+    second: background_01_3eplan_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_3eplan_0
+      name: background_01_3eplan_0
       rect:
         serializedVersion: 2
         x: 9
@@ -130,14 +130,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac7815b9da0a21520800000000000000
-      internalID: 2671374196479723466
+      spriteID: dd6d5df36c36a4d10800000000000000
+      internalID: 2110609078502151901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_1
+      name: background_01_3eplan_1
       rect:
         serializedVersion: 2
         x: 101
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7f83d4200305b610800000000000000
-      internalID: 1636217338771771260
+      spriteID: d2b1faa0d5833b6f0800000000000000
+      internalID: -670129947285710035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_2
+      name: background_01_3eplan_2
       rect:
         serializedVersion: 2
         x: 140
@@ -174,14 +174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb64bf1fcf6319500800000000000000
-      internalID: 401162301832119995
+      spriteID: 2e618b39a25623540800000000000000
+      internalID: 4986158970993907426
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_3
+      name: background_01_3eplan_3
       rect:
         serializedVersion: 2
         x: 588
@@ -196,14 +196,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08591271882fbbd30800000000000000
-      internalID: 4448415723276047744
+      spriteID: bac79d281ccc972f0800000000000000
+      internalID: -974522712852955989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_4
+      name: background_01_3eplan_4
       rect:
         serializedVersion: 2
         x: 857
@@ -218,14 +218,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29cbf4b3f85df6cc0800000000000000
-      internalID: -3715516356405248878
+      spriteID: 3dd29f7359dbeadb0800000000000000
+      internalID: -4778673706006663725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_5
+      name: background_01_3eplan_5
       rect:
         serializedVersion: 2
         x: 888
@@ -240,8 +240,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c6b0545c58433c8a0800000000000000
-      internalID: -6286122905734149268
+      spriteID: 31aaa922fc5be21a0800000000000000
+      internalID: -6832323683431044589
       vertices: []
       indices: 
       edges: []

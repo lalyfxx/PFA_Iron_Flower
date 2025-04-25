@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 9ead50b9379e86349bf3dbe34066c927
+guid: eb12a3afc9546bb47874a942a139338b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 261313325160499005
-    second: fond1_2eplan_0
-  - first:
-      213: -6654504506867500245
-    second: fond1_2eplan_1
-  - first:
-      213: -5830648497741384469
-    second: fond1_2eplan_2
-  - first:
-      213: 6705893382562032516
-    second: fond1_2eplan_3
-  - first:
-      213: 7016078668435142999
-    second: fond1_2eplan_4
+      213: 7899484781348001490
+    second: background_01_soleil_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_2eplan_0
+      name: background_01_soleil_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 205
-        height: 258
+        x: 153
+        y: 106
+        width: 71
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d378441b51f50a300800000000000000
-      internalID: 261313325160499005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_2eplan_1
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 0
-        width: 52
-        height: 79
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2b3de7786376a3a0800000000000000
-      internalID: -6654504506867500245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_2eplan_2
-      rect:
-        serializedVersion: 2
-        x: 365
-        y: 0
-        width: 313
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be4b5f95510651fa0800000000000000
-      internalID: -5830648497741384469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_2eplan_3
-      rect:
-        serializedVersion: 2
-        x: 723
-        y: 0
-        width: 75
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48ba049808e101d50800000000000000
-      internalID: 6705893382562032516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_2eplan_4
-      rect:
-        serializedVersion: 2
-        x: 838
-        y: 0
-        width: 122
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 759b54c406e1e5160800000000000000
-      internalID: 7016078668435142999
+      spriteID: 2d61adc2e8b90ad60800000000000000
+      internalID: 7899484781348001490
       vertices: []
       indices: 
       edges: []

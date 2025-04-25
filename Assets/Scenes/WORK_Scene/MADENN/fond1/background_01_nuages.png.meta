@@ -1,22 +1,34 @@
 fileFormatVersion: 2
-guid: 47e52d640b41d2a48b37cd3d5b803054
+guid: 3f72c3f5c7c232f49b63c590352392be
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6631827774030042352
-    second: fond1_oiseau_0
+      213: -8931289072303616113
+    second: background_01_nuages_0
   - first:
-      213: -7831168649321137591
-    second: fond1_oiseau_1
+      213: 2779099514908386647
+    second: background_01_nuages_1
   - first:
-      213: 3250977815206462273
-    second: fond1_oiseau_2
+      213: -7285584380942761668
+    second: background_01_nuages_2
   - first:
-      213: 6582854590899448597
-    second: fond1_oiseau_3
+      213: -5429827811710186156
+    second: background_01_nuages_3
   - first:
-      213: 7545541277416424954
-    second: fond1_oiseau_4
+      213: -4575506618354889414
+    second: background_01_nuages_4
+  - first:
+      213: -6826725460687073430
+    second: background_01_nuages_5
+  - first:
+      213: -8771652452316436911
+    second: background_01_nuages_6
+  - first:
+      213: 2607008283314996029
+    second: background_01_nuages_7
+  - first:
+      213: 8487553456026769930
+    second: background_01_nuages_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,12 +124,188 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_oiseau_0
+      name: background_01_nuages_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 215
-        width: 16
+        x: 0
+        y: 0
+        width: 282
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc303a8efad0480800000000000000
+      internalID: -8931289072303616113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 212
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7552395d848519620800000000000000
+      internalID: 2779099514908386647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 207
+        width: 247
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c5c03b9764ea90800000000000000
+      internalID: -7285584380942761668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 214
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d4a7baf5065a4b0800000000000000
+      internalID: -5429827811710186156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 168
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d028109f88080c0800000000000000
+      internalID: -4575506618354889414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 411
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc1a0fc599241a0800000000000000
+      internalID: -6826725460687073430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 92
+        width: 226
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156ae7e9194d44680800000000000000
+      internalID: -8771652452316436911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_7
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 125
+        width: 117
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33cd7d9834fd2420800000000000000
+      internalID: 2607008283314996029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_nuages_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 57
         height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -127,96 +315,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f451aa393cf80c50800000000000000
-      internalID: 6631827774030042352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_1
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 211
-        width: 11
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94ab901da99125390800000000000000
-      internalID: -7831168649321137591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_2
-      rect:
-        serializedVersion: 2
-        x: 791
-        y: 185
-        width: 24
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1438e08391bcd1d20800000000000000
-      internalID: 3250977815206462273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_3
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 160
-        width: 20
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51b6c9a7f5ffa5b50800000000000000
-      internalID: 6582854590899448597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_4
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 157
-        width: 13
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af5047650d527b860800000000000000
-      internalID: 7545541277416424954
+      spriteID: a0a5d9636e8d9c570800000000000000
+      internalID: 8487553456026769930
       vertices: []
       indices: 
       edges: []

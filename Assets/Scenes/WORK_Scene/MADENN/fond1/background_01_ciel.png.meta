@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 1b0e393fa07a6414c8cd3af6f194a21a
+guid: 19afc7efc64ed7e4482c22b9db82b942
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4228148108120839032
-    second: fond1_1erplan_0
-  - first:
-      213: 9130322188897391140
-    second: fond1_1erplan_1
-  - first:
-      213: 4300059413977261906
-    second: fond1_1erplan_2
-  - first:
-      213: 258129160449012405
-    second: fond1_1erplan_3
-  - first:
-      213: -595543963064479409
-    second: fond1_1erplan_4
+      213: 6028360974278622395
+    second: background_01_ciel_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_1erplan_0
+      name: background_01_ciel_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 106
+        width: 960
         height: 265
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 873584a7d466daa30800000000000000
-      internalID: 4228148108120839032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_1erplan_1
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 199
-        width: 150
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 422981208ab65be70800000000000000
-      internalID: 9130322188897391140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_1erplan_2
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 0
-        width: 381
-        height: 265
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 257603b1141ecab30800000000000000
-      internalID: 4300059413977261906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_1erplan_3
-      rect:
-        serializedVersion: 2
-        x: 680
-        y: 240
-        width: 177
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b2bbb29a1f059300800000000000000
-      internalID: 258129160449012405
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_1erplan_4
-      rect:
-        serializedVersion: 2
-        x: 860
-        y: 0
-        width: 100
-        height: 265
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f41d961cbe33cb7f0800000000000000
-      internalID: -595543963064479409
+      spriteID: bbc74b1dd5a09a350800000000000000
+      internalID: 6028360974278622395
       vertices: []
       indices: 
       edges: []

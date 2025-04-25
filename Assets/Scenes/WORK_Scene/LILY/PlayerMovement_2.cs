@@ -4,17 +4,35 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public Rigidbody2D rb;              
-    public float moveSpeed = 5f;        
+    public float moveSpeed = 5f;   
+    public KeyCode key = KeyCode.Space ; 
+    public float scaledY = 2f;
+    private Vector3 originalScale ; 
 
+    void Start (){
+
+        originalScale = transform.localScale;
+
+    }
   
 
-    void FixedUpdate()
+    void Update()
     {
         
         float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.fixedDeltaTime;
         MovePlayer(horizontalMovement);
 
+        if (Input.GetKey(key))
+        {
+            transform.localScale = new Vector3(originalScale.x, scaledY, originalScale.z);
+            print("j'appuie");
+        }
+        else
+        {
+            transform.localScale = originalScale;
+        }
         
+
   
     }
 
@@ -25,10 +43,5 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = targetVelocity;
     }
 
-    void LegsExtended ()
-    {
-        
-
-    }
 
 }

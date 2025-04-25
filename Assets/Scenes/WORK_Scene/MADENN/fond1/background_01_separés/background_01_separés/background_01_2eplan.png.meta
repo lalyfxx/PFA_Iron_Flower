@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 9ead50b9379e86349bf3dbe34066c927
+guid: 75deb0eb4a1c2c848ae9bd720e02fa56
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 261313325160499005
-    second: fond1_2eplan_0
+      213: 8684353866215136314
+    second: background_01_2eplan_0
   - first:
-      213: -6654504506867500245
-    second: fond1_2eplan_1
+      213: -7395055120334333468
+    second: background_01_2eplan_1
   - first:
-      213: -5830648497741384469
-    second: fond1_2eplan_2
+      213: 5861840982158205209
+    second: background_01_2eplan_2
   - first:
-      213: 6705893382562032516
-    second: fond1_2eplan_3
+      213: 4019854377993627046
+    second: background_01_2eplan_3
   - first:
-      213: 7016078668435142999
-    second: fond1_2eplan_4
+      213: 6558570632703822355
+    second: background_01_2eplan_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,11 +108,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_2eplan_0
+      name: background_01_2eplan_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d378441b51f50a300800000000000000
-      internalID: 261313325160499005
+      spriteID: a3c1b8364d5058870800000000000000
+      internalID: 8684353866215136314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_2eplan_1
+      name: background_01_2eplan_1
       rect:
         serializedVersion: 2
         x: 306
@@ -149,14 +162,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2b3de7786376a3a0800000000000000
-      internalID: -6654504506867500245
+      spriteID: 4e9d90a7c8c7f5990800000000000000
+      internalID: -7395055120334333468
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_2eplan_2
+      name: background_01_2eplan_2
       rect:
         serializedVersion: 2
         x: 365
@@ -171,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be4b5f95510651fa0800000000000000
-      internalID: -5830648497741384469
+      spriteID: 911ed5fd051795150800000000000000
+      internalID: 5861840982158205209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_2eplan_3
+      name: background_01_2eplan_3
       rect:
         serializedVersion: 2
         x: 723
@@ -193,14 +206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48ba049808e101d50800000000000000
-      internalID: 6705893382562032516
+      spriteID: 6a5eb19324469c730800000000000000
+      internalID: 4019854377993627046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_2eplan_4
+      name: background_01_2eplan_4
       rect:
         serializedVersion: 2
         x: 838
@@ -215,8 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 759b54c406e1e5160800000000000000
-      internalID: 7016078668435142999
+      spriteID: 31ace9cdd39b40b50800000000000000
+      internalID: 6558570632703822355
       vertices: []
       indices: 
       edges: []

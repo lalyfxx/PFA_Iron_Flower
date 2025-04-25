@@ -1,25 +1,22 @@
 fileFormatVersion: 2
-guid: fd1a360316f4d6c458c910a06b48e133
+guid: 9027afbda7d14a5479a0969bcd1a1071
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2671374196479723466
-    second: fond1_3eplan_0
+      213: 4674734670529812847
+    second: background_01_oiseau_0
   - first:
-      213: 1636217338771771260
-    second: fond1_3eplan_1
+      213: -1622710545569332804
+    second: background_01_oiseau_1
   - first:
-      213: 401162301832119995
-    second: fond1_3eplan_2
+      213: -5873461478609178661
+    second: background_01_oiseau_2
   - first:
-      213: 4448415723276047744
-    second: fond1_3eplan_3
+      213: 7400335478217837752
+    second: background_01_oiseau_3
   - first:
-      213: -3715516356405248878
-    second: fond1_3eplan_4
-  - first:
-      213: -6286122905734149268
-    second: fond1_3eplan_5
+      213: 8934244121265246947
+    second: background_01_oiseau_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -111,17 +108,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_3eplan_0
+      name: background_01_oiseau_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 0
-        width: 95
-        height: 96
+        x: 78
+        y: 215
+        width: 16
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac7815b9da0a21520800000000000000
-      internalID: 2671374196479723466
+      spriteID: f69d1204a6effd040800000000000000
+      internalID: 4674734670529812847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_1
+      name: background_01_oiseau_1
       rect:
         serializedVersion: 2
-        x: 101
-        y: 0
-        width: 34
-        height: 12
+        x: 91
+        y: 211
+        width: 11
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7f83d4200305b610800000000000000
-      internalID: 1636217338771771260
+      spriteID: cb14f063b59fa79e0800000000000000
+      internalID: -1622710545569332804
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_2
+      name: background_01_oiseau_2
       rect:
         serializedVersion: 2
-        x: 140
-        y: 0
-        width: 411
-        height: 123
+        x: 791
+        y: 185
+        width: 24
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb64bf1fcf6319500800000000000000
-      internalID: 401162301832119995
+      spriteID: bdf2f8577e54d7ea0800000000000000
+      internalID: -5873461478609178661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_3
+      name: background_01_oiseau_3
       rect:
         serializedVersion: 2
-        x: 588
-        y: 0
-        width: 264
-        height: 112
+        x: 241
+        y: 160
+        width: 20
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08591271882fbbd30800000000000000
-      internalID: 4448415723276047744
+      spriteID: 8bc05e5a8e543b660800000000000000
+      internalID: 7400335478217837752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fond1_3eplan_4
+      name: background_01_oiseau_4
       rect:
         serializedVersion: 2
-        x: 857
-        y: 0
-        width: 34
-        height: 12
+        x: 259
+        y: 157
+        width: 13
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,30 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29cbf4b3f85df6cc0800000000000000
-      internalID: -3715516356405248878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_3eplan_5
-      rect:
-        serializedVersion: 2
-        x: 888
-        y: 0
-        width: 72
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6b0545c58433c8a0800000000000000
-      internalID: -6286122905734149268
+      spriteID: 3e213a051bfccfb70800000000000000
+      internalID: 8934244121265246947
       vertices: []
       indices: 
       edges: []
@@ -260,12 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fond1_3eplan_0: 2671374196479723466
-      fond1_3eplan_1: 1636217338771771260
-      fond1_3eplan_2: 401162301832119995
-      fond1_3eplan_3: 4448415723276047744
-      fond1_3eplan_4: -3715516356405248878
-      fond1_3eplan_5: -6286122905734149268
+      fond1_oiseau_0: 6631827774030042352
+      fond1_oiseau_1: -7831168649321137591
+      fond1_oiseau_2: 3250977815206462273
+      fond1_oiseau_3: 6582854590899448597
+      fond1_oiseau_4: 7545541277416424954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

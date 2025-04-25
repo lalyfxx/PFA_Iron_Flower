@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 47e52d640b41d2a48b37cd3d5b803054
+guid: 1291e5a3023953e469aa02e4e3710cf3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6631827774030042352
-    second: fond1_oiseau_0
-  - first:
-      213: -7831168649321137591
-    second: fond1_oiseau_1
-  - first:
-      213: 3250977815206462273
-    second: fond1_oiseau_2
-  - first:
-      213: 6582854590899448597
-    second: fond1_oiseau_3
-  - first:
-      213: 7545541277416424954
-    second: fond1_oiseau_4
+      213: 7899484781348001490
+    second: background_01_soleil_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -108,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_oiseau_0
+      name: background_01_soleil_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 215
-        width: 16
-        height: 9
+        x: 153
+        y: 106
+        width: 71
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f451aa393cf80c50800000000000000
-      internalID: 6631827774030042352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_1
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 211
-        width: 11
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94ab901da99125390800000000000000
-      internalID: -7831168649321137591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_2
-      rect:
-        serializedVersion: 2
-        x: 791
-        y: 185
-        width: 24
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1438e08391bcd1d20800000000000000
-      internalID: 3250977815206462273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_3
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 160
-        width: 20
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51b6c9a7f5ffa5b50800000000000000
-      internalID: 6582854590899448597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fond1_oiseau_4
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 157
-        width: 13
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af5047650d527b860800000000000000
-      internalID: 7545541277416424954
+      spriteID: 2d61adc2e8b90ad60800000000000000
+      internalID: 7899484781348001490
       vertices: []
       indices: 
       edges: []
@@ -235,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fond1_oiseau_0: 6631827774030042352
-      fond1_oiseau_1: -7831168649321137591
-      fond1_oiseau_2: 3250977815206462273
-      fond1_oiseau_3: 6582854590899448597
-      fond1_oiseau_4: 7545541277416424954
+      fond1_soleil_0: -7877011064868396850
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

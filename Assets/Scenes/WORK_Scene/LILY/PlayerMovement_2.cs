@@ -16,41 +16,21 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        // 1. Déplacement horizontal
+        
         float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed * Time.fixedDeltaTime;
         MovePlayer(horizontalMovement);
 
-        // 2. Extension et rétraction des jambes
+        
         HandleLegStretch();
     }
 
     void MovePlayer(float _horizontalMovement)
     {
-        // Déplacement horizontal avec Rigidbody2D (le Rigidbody des jambes)
+        
         Vector2 targetVelocity = new Vector2(_horizontalMovement, rb.linearVelocity.y);
         rb.linearVelocity = targetVelocity;
     }
 
-    void HandleLegStretch()
-    {
-        
-        isStretching = Input.GetKey(KeyCode.Z);
+    void LegsExtended
 
-        if (isStretching)
-        {
-            currentHeight += stretchSpeed * Time.fixedDeltaTime;
-        }
-        else
-        {
-            currentHeight -= retractSpeed * Time.fixedDeltaTime;
-        }
-
-        currentHeight = Mathf.Clamp(currentHeight, 0f, maxStretchHeight);
-
-        legs.localPosition = new Vector3(0, -currentHeight / 2f, 0);
-        legs.localScale = new Vector3(1, currentHeight, 1);
-
-
-        body.localPosition = new Vector3(0, currentHeight / 2f, 0); 
-    }
 }

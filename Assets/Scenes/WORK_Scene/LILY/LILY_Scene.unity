@@ -268,8 +268,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: 32
-  growSpeed: 0.1
-  maxYScale: 2
+  growSpeed: 8
+  shrinkSpeed: 5
+  maxYScale: 8
   minYScale: 1
 --- !u!1 &87137797
 GameObject:

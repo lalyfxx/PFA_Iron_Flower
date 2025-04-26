@@ -3,8 +3,8 @@ using UnityEngine;
 public class FakeJump : MonoBehaviour
 {
     public KeyCode key = KeyCode.Space;
-    public float growSpeed = 2f; // Vitesse de montée (unités/sec)
-    public float shrinkSpeed = 5f; // Vitesse de descente (unités/sec)
+    public float growSpeed = 2f; 
+    public float shrinkSpeed = 5f; 
     public float maxYScale = 2f;
     public float minYScale = 1f;
 
@@ -21,13 +21,13 @@ public class FakeJump : MonoBehaviour
 
         if (Input.GetKey(key))
         {
-            // On augmente progressivement sur Y
+            
             scale.y += growSpeed * Time.deltaTime;
             scale.y = Mathf.Min(scale.y, maxYScale);
         }
         else
         {
-            // On diminue plus rapidement (ou lentement selon shrinkSpeed)
+            
             scale.y -= shrinkSpeed * Time.deltaTime;
             scale.y = Mathf.Max(scale.y, minYScale);
         }

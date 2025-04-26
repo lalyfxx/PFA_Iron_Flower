@@ -1171,13 +1171,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 358676646}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 317992fd73cf9bd4e91481846f355778, type: 3}
+  m_Script: {fileID: 11500000, guid: 8a60b021cdab6ec4b808f320764e843c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 358676649}
   moveSpeed: 5
-  key: 32
-  scaledY: 2
+  rb: {fileID: 358676649}
 --- !u!1 &435979316
 GameObject:
   m_ObjectHideFlags: 0

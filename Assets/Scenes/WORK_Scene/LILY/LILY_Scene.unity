@@ -269,7 +269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   key: 32
   growSpeed: 8
-  shrinkSpeed: 5
+  shrinkSpeed: 20
   maxYScale: 8
   minYScale: 1
 --- !u!1 &87137797

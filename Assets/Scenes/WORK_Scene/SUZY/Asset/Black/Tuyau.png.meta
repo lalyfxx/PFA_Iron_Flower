@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 845fdb05b13ca6d40a6619914a0eda0d
+guid: 92f0a886852f0b848a074cdadb4a079b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6298959684669982097
-    second: fond1_correction_couleur1_0
+      213: -953005613708528388
+    second: Tuyau_0
+  - first:
+      213: 8863112972485499097
+    second: Tuyau_1
+  - first:
+      213: 7105318576035628237
+    second: Tuyau_2
+  - first:
+      213: -3842020921681004901
+    second: Tuyau_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_correction_couleur1_0
+      name: Tuyau_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2880
-        height: 795
+        y: 24
+        width: 33
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6a3db44a899598a0800000000000000
-      internalID: -6298959684669982097
+      spriteID: cf433fd817e36c2f0800000000000000
+      internalID: -953005613708528388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuyau_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d897292a4a100b70800000000000000
+      internalID: 8863112972485499097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuyau_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4869c69992b9260800000000000000
+      internalID: 7105318576035628237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuyau_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96b59fd3566eaac0800000000000000
+      internalID: -3842020921681004901
       vertices: []
       indices: 
       edges: []
@@ -134,8 +209,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      fond1_correction_couleur1_0: -6298959684669982097
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

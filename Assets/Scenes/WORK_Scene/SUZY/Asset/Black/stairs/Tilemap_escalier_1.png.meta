@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 845fdb05b13ca6d40a6619914a0eda0d
+guid: 2393766295aef114faf11a8a590b75db
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6298959684669982097
-    second: fond1_correction_couleur1_0
+      213: -962690820812938751
+    second: Tilemap_escalier_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fond1_correction_couleur1_0
+      name: Tilemap_escalier_1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 2880
-        height: 795
+        width: 64
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6a3db44a899598a0800000000000000
-      internalID: -6298959684669982097
+      spriteID: 1026aec8cc5d3a2f0800000000000000
+      internalID: -962690820812938751
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      fond1_correction_couleur1_0: -6298959684669982097
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

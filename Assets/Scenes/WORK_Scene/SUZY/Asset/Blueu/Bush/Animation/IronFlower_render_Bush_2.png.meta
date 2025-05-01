@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: d3ebe06492e4dfa4fba7341ecf0c9ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6910961551936524080
+    second: IronFlower_render_Bush_2_0
+  - first:
+      213: -1730806169301544448
+    second: IronFlower_render_Bush_2_1
+  - first:
+      213: 3274087853827923570
+    second: IronFlower_render_Bush_2_2
+  - first:
+      213: 3719144954872010712
+    second: IronFlower_render_Bush_2_3
+  - first:
+      213: 1268482490665461242
+    second: IronFlower_render_Bush_2_4
+  - first:
+      213: 7036501812282273293
+    second: IronFlower_render_Bush_2_5
+  - first:
+      213: 7217955258429274065
+    second: IronFlower_render_Bush_2_6
+  - first:
+      213: 3366696012562664913
+    second: IronFlower_render_Bush_2_7
+  - first:
+      213: -4333770470223347728
+    second: IronFlower_render_Bush_2_8
+  - first:
+      213: 2333124420192275546
+    second: IronFlower_render_Bush_2_9
+  - first:
+      213: -3903709208378228688
+    second: IronFlower_render_Bush_2_10
+  - first:
+      213: -5233123392242084841
+    second: IronFlower_render_Bush_2_11
+  - first:
+      213: 7127262172357799106
+    second: IronFlower_render_Bush_2_12
+  - first:
+      213: 3015778363843164858
+    second: IronFlower_render_Bush_2_13
+  - first:
+      213: 6091788215369793841
+    second: IronFlower_render_Bush_2_14
+  - first:
+      213: -9176737424405424369
+    second: IronFlower_render_Bush_2_15
+  - first:
+      213: 5200427645780795015
+    second: IronFlower_render_Bush_2_16
+  - first:
+      213: -2363274070144589726
+    second: IronFlower_render_Bush_2_17
+  - first:
+      213: -8613804849542421712
+    second: IronFlower_render_Bush_2_18
+  - first:
+      213: 1575273560509609606
+    second: IronFlower_render_Bush_2_19
+  - first:
+      213: 7620981693636834900
+    second: IronFlower_render_Bush_2_20
+  - first:
+      213: 5832528703142149850
+    second: IronFlower_render_Bush_2_21
+  - first:
+      213: 2720391798562506198
+    second: IronFlower_render_Bush_2_22
+  - first:
+      213: -7929448446492234395
+    second: IronFlower_render_Bush_2_23
+  - first:
+      213: 7217705022533748553
+    second: IronFlower_render_Bush_2_24
+  - first:
+      213: -5737611441039748575
+    second: IronFlower_render_Bush_2_25
+  - first:
+      213: -6399404844317148038
+    second: IronFlower_render_Bush_2_26
+  - first:
+      213: -4975789271595320067
+    second: IronFlower_render_Bush_2_27
+  - first:
+      213: 4313025068880924938
+    second: IronFlower_render_Bush_2_28
+  - first:
+      213: 5400604598889009754
+    second: IronFlower_render_Bush_2_29
+  - first:
+      213: -2561817951837531884
+    second: IronFlower_render_Bush_2_30
+  - first:
+      213: -6345388213703845772
+    second: IronFlower_render_Bush_2_31
+  - first:
+      213: 5189106261008120384
+    second: IronFlower_render_Bush_2_32
+  - first:
+      213: 2629995775772007083
+    second: IronFlower_render_Bush_2_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 686
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f0f876aeaa8ef50800000000000000
+      internalID: 6910961551936524080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 686
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021abf85f0faf7e0800000000000000
+      internalID: -1730806169301544448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 686
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e95d26e85ef6d20800000000000000
+      internalID: 3274087853827923570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 686
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7155fa1ae0d9330800000000000000
+      internalID: 3719144954872010712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 686
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5eae3ca1e8a9110800000000000000
+      internalID: 1268482490665461242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 686
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e2a760e1da6a160800000000000000
+      internalID: 7036501812282273293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 558
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7f65fa0145b2460800000000000000
+      internalID: 7217955258429274065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 558
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd85879f28e8be20800000000000000
+      internalID: 3366696012562664913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 558
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff7248f7ba5bd3c0800000000000000
+      internalID: -4333770470223347728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 558
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c895a7c4ce06020800000000000000
+      internalID: 2333124420192275546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_10
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 558
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030c130682d33d9c0800000000000000
+      internalID: -3903709208378228688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 558
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149f9340063067b0800000000000000
+      internalID: -5233123392242084841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 430
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc27741f2f19e260800000000000000
+      internalID: 7127262172357799106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 430
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3e2291723ad920800000000000000
+      internalID: 3015778363843164858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 430
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13107003b116a8450800000000000000
+      internalID: 6091788215369793841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 430
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f071845deeda5a080800000000000000
+      internalID: -9176737424405424369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 430
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e92ea0461ab2840800000000000000
+      internalID: 5200427645780795015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 430
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260e32e11c6f33fd0800000000000000
+      internalID: -2363274070144589726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 302
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033ac72902e957880800000000000000
+      internalID: -8613804849542421712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 302
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6867d3605fe7cd510800000000000000
+      internalID: 1575273560509609606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 302
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4567af0097a23c960800000000000000
+      internalID: 7620981693636834900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 302
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebe0514fd41f050800000000000000
+      internalID: 5832528703142149850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 302
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d544337de5c0c520800000000000000
+      internalID: 2720391798562506198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 302
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dae0266a0f4f190800000000000000
+      internalID: -7929448446492234395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474da91a707a2460800000000000000
+      internalID: 7217705022533748553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122db952bc8ef50b0800000000000000
+      internalID: -5737611441039748575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cff88133fb037a0800000000000000
+      internalID: -6399404844317148038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc7c55350272fab0800000000000000
+      internalID: -4975789271595320067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019002e271fadb30800000000000000
+      internalID: 4313025068880924938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_29
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 174
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52de11e44dc2fa40800000000000000
+      internalID: 5400604598889009754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 46
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41151895528927cd0800000000000000
+      internalID: -2561817951837531884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 46
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4785b38f907a0f7a0800000000000000
+      internalID: -6345388213703845772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 46
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af42db6a8630840800000000000000
+      internalID: 5189106261008120384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Bush_2_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 46
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa1ba7493f9f7420800000000000000
+      internalID: 2629995775772007083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IronFlower_render_Bush_2_0: 6910961551936524080
+      IronFlower_render_Bush_2_1: -1730806169301544448
+      IronFlower_render_Bush_2_10: -3903709208378228688
+      IronFlower_render_Bush_2_11: -5233123392242084841
+      IronFlower_render_Bush_2_12: 7127262172357799106
+      IronFlower_render_Bush_2_13: 3015778363843164858
+      IronFlower_render_Bush_2_14: 6091788215369793841
+      IronFlower_render_Bush_2_15: -9176737424405424369
+      IronFlower_render_Bush_2_16: 5200427645780795015
+      IronFlower_render_Bush_2_17: -2363274070144589726
+      IronFlower_render_Bush_2_18: -8613804849542421712
+      IronFlower_render_Bush_2_19: 1575273560509609606
+      IronFlower_render_Bush_2_2: 3274087853827923570
+      IronFlower_render_Bush_2_20: 7620981693636834900
+      IronFlower_render_Bush_2_21: 5832528703142149850
+      IronFlower_render_Bush_2_22: 2720391798562506198
+      IronFlower_render_Bush_2_23: -7929448446492234395
+      IronFlower_render_Bush_2_24: 7217705022533748553
+      IronFlower_render_Bush_2_25: -5737611441039748575
+      IronFlower_render_Bush_2_26: -6399404844317148038
+      IronFlower_render_Bush_2_27: -4975789271595320067
+      IronFlower_render_Bush_2_28: 4313025068880924938
+      IronFlower_render_Bush_2_29: 5400604598889009754
+      IronFlower_render_Bush_2_3: 3719144954872010712
+      IronFlower_render_Bush_2_30: -2561817951837531884
+      IronFlower_render_Bush_2_31: -6345388213703845772
+      IronFlower_render_Bush_2_32: 5189106261008120384
+      IronFlower_render_Bush_2_33: 2629995775772007083
+      IronFlower_render_Bush_2_4: 1268482490665461242
+      IronFlower_render_Bush_2_5: 7036501812282273293
+      IronFlower_render_Bush_2_6: 7217955258429274065
+      IronFlower_render_Bush_2_7: 3366696012562664913
+      IronFlower_render_Bush_2_8: -4333770470223347728
+      IronFlower_render_Bush_2_9: 2333124420192275546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

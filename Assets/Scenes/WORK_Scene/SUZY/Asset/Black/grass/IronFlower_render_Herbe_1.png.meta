@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: 06c76e5598399db42b3d55c3159492c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4364855886810971300
+    second: IronFlower_render_Herbe_1_0
+  - first:
+      213: 7966657645739425070
+    second: IronFlower_render_Herbe_1_1
+  - first:
+      213: 1309294651770663991
+    second: IronFlower_render_Herbe_1_2
+  - first:
+      213: 1072248408840480173
+    second: IronFlower_render_Herbe_1_3
+  - first:
+      213: 3726613790719747329
+    second: IronFlower_render_Herbe_1_4
+  - first:
+      213: -3814052012360638483
+    second: IronFlower_render_Herbe_1_5
+  - first:
+      213: -4583000280060794571
+    second: IronFlower_render_Herbe_1_6
+  - first:
+      213: 2663103985884525720
+    second: IronFlower_render_Herbe_1_7
+  - first:
+      213: 7842760924405916039
+    second: IronFlower_render_Herbe_1_8
+  - first:
+      213: 2070315376931262213
+    second: IronFlower_render_Herbe_1_9
+  - first:
+      213: -8178237770708694579
+    second: IronFlower_render_Herbe_1_10
+  - first:
+      213: 6690567900853840681
+    second: IronFlower_render_Herbe_1_11
+  - first:
+      213: 3574855191157300747
+    second: IronFlower_render_Herbe_1_12
+  - first:
+      213: 5797935536597484074
+    second: IronFlower_render_Herbe_1_13
+  - first:
+      213: -6059437872575927277
+    second: IronFlower_render_Herbe_1_14
+  - first:
+      213: -8486997333211049647
+    second: IronFlower_render_Herbe_1_15
+  - first:
+      213: -1017238077949178676
+    second: IronFlower_render_Herbe_1_16
+  - first:
+      213: 7482178280509238496
+    second: IronFlower_render_Herbe_1_17
+  - first:
+      213: -2816660270408986677
+    second: IronFlower_render_Herbe_1_18
+  - first:
+      213: 8330546703343045106
+    second: IronFlower_render_Herbe_1_19
+  - first:
+      213: -4433173068195965381
+    second: IronFlower_render_Herbe_1_20
+  - first:
+      213: -5748187599528119504
+    second: IronFlower_render_Herbe_1_21
+  - first:
+      213: -8609201191072162311
+    second: IronFlower_render_Herbe_1_22
+  - first:
+      213: 4896628887235848997
+    second: IronFlower_render_Herbe_1_23
+  - first:
+      213: 6160170235584012416
+    second: IronFlower_render_Herbe_1_24
+  - first:
+      213: -6990582100628866571
+    second: IronFlower_render_Herbe_1_25
+  - first:
+      213: -6632828100465890480
+    second: IronFlower_render_Herbe_1_26
+  - first:
+      213: -8129183480319125712
+    second: IronFlower_render_Herbe_1_27
+  - first:
+      213: -1122017922929511250
+    second: IronFlower_render_Herbe_1_28
+  - first:
+      213: 2502514878472535567
+    second: IronFlower_render_Herbe_1_29
+  - first:
+      213: 6167069696525924883
+    second: IronFlower_render_Herbe_1_30
+  - first:
+      213: 81172760657990639
+    second: IronFlower_render_Herbe_1_31
+  - first:
+      213: -714452411764476910
+    second: IronFlower_render_Herbe_1_32
+  - first:
+      213: -6376677851013267237
+    second: IronFlower_render_Herbe_1_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530cda62baec63c0800000000000000
+      internalID: -4364855886810971300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db27d6be04f8e60800000000000000
+      internalID: 7966657645739425070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734fb118c8c8b2210800000000000000
+      internalID: 1309294651770663991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52aef2f3461ee00800000000000000
+      internalID: 1072248408840480173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1052cea8f7797b330800000000000000
+      internalID: 3726613790719747329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 686
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def516807e3c11bc0800000000000000
+      internalID: -3814052012360638483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 558
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539e57de689e560c0800000000000000
+      internalID: -4583000280060794571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 558
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894f29627fe35f420800000000000000
+      internalID: 2663103985884525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 558
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781678d028517dc60800000000000000
+      internalID: 7842760924405916039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 558
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f4407cddc3bbc10800000000000000
+      internalID: 2070315376931262213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_10
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9c934e310118e80800000000000000
+      internalID: -8178237770708694579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 558
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2604ce0ca9dc50800000000000000
+      internalID: 6690567900853840681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e54602bdf6c9130800000000000000
+      internalID: 3574855191157300747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c189d6a7667050800000000000000
+      internalID: 5797935536597484074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2092fb5d88eba0800000000000000
+      internalID: -6059437872575927277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151944834e0283a80800000000000000
+      internalID: -8486997333211049647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc86df8b5b02e1f0800000000000000
+      internalID: -1017238077949178676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_17
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 430
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec65ebf08906d760800000000000000
+      internalID: 7482178280509238496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 302
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf0159486639e8d0800000000000000
+      internalID: -2816660270408986677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 302
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9409de61c0c9370800000000000000
+      internalID: 8330546703343045106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 302
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d95a15943a72c0800000000000000
+      internalID: -4433173068195965381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 302
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03332db55d55a30b0800000000000000
+      internalID: -5748187599528119504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 302
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd16465129f58880800000000000000
+      internalID: -8609201191072162311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_23
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 302
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52beb9c870254f340800000000000000
+      internalID: 4896628887235848997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0806be7f0325d7550800000000000000
+      internalID: 6160170235584012416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ffcefd967cfe90800000000000000
+      internalID: -6990582100628866571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b608f1cf573f3a0800000000000000
+      internalID: -6632828100465890480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 174
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037da95e1b65f2f80800000000000000
+      internalID: -8129183480319125712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 174
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43a20d4aacd60f0800000000000000
+      internalID: -1122017922929511250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_29
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 174
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3c78e508bab220800000000000000
+      internalID: 2502514878472535567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31af086e635d59550800000000000000
+      internalID: 6167069696525924883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3157c1232602100800000000000000
+      internalID: 81172760657990639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2147bdb1151c516f0800000000000000
+      internalID: -714452411764476910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Herbe_1_33
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0c043974d7187a0800000000000000
+      internalID: -6376677851013267237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

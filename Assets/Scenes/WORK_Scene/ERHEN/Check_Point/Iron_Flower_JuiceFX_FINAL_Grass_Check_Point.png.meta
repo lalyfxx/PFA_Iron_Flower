@@ -1,0 +1,2795 @@
+fileFormatVersion: 2
+guid: fe07c2ae75d42e84cb1bd75e20636134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8391769183277711226
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_0
+  - first:
+      213: 3744624666074953036
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_1
+  - first:
+      213: 3807531892528024212
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_2
+  - first:
+      213: -8296581246100187805
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_3
+  - first:
+      213: 6929558327001270055
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_4
+  - first:
+      213: 6706818051457592222
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_5
+  - first:
+      213: -82134166090205363
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_6
+  - first:
+      213: -8322430504974605003
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_7
+  - first:
+      213: 2149715198048733389
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_8
+  - first:
+      213: -6499771594787714705
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_9
+  - first:
+      213: 7770042850208549696
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_10
+  - first:
+      213: 7164234207478280781
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_11
+  - first:
+      213: -8718247582966453351
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_12
+  - first:
+      213: -2927352511171673795
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_13
+  - first:
+      213: -4288875510324842110
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_14
+  - first:
+      213: -7906362480588576202
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_15
+  - first:
+      213: 1179778891889865770
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_16
+  - first:
+      213: -29802034623616106
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_17
+  - first:
+      213: -6020835913923773231
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_18
+  - first:
+      213: 688772421696055851
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_19
+  - first:
+      213: -8304978918363193
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_20
+  - first:
+      213: 4753891988104211226
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_21
+  - first:
+      213: 2540691605493265964
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_22
+  - first:
+      213: 6099414421851735779
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_23
+  - first:
+      213: -5428959688653494234
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_24
+  - first:
+      213: 5791672002549366165
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_25
+  - first:
+      213: -4711865796774949752
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_26
+  - first:
+      213: 6411538472025949670
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_27
+  - first:
+      213: 4442094305252091684
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_28
+  - first:
+      213: 4672705857650439258
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_29
+  - first:
+      213: -3905451995092045907
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_30
+  - first:
+      213: -5058523056925514948
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_31
+  - first:
+      213: -6195706983510591057
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_32
+  - first:
+      213: -6112143933520822221
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_33
+  - first:
+      213: -3723816597833305940
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_34
+  - first:
+      213: 3766190380179142669
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_35
+  - first:
+      213: -8905340267050611566
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_36
+  - first:
+      213: -6614239112113205838
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_37
+  - first:
+      213: 1930421417510095590
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_38
+  - first:
+      213: -3486970572127387002
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_39
+  - first:
+      213: 3562776748934075456
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_40
+  - first:
+      213: 2524050679230850201
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_41
+  - first:
+      213: 1998129488534442979
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_42
+  - first:
+      213: 1701377495520538144
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_43
+  - first:
+      213: -5212816656930040466
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_44
+  - first:
+      213: 3554891596418101466
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_45
+  - first:
+      213: -513622392460146627
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_46
+  - first:
+      213: 1190194197393448579
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_47
+  - first:
+      213: 8631391451447647424
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_48
+  - first:
+      213: -6039754849532239564
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_49
+  - first:
+      213: 1541430640793300070
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_50
+  - first:
+      213: -2918459933514514581
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_51
+  - first:
+      213: -399066769106104503
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_52
+  - first:
+      213: -6222502286852864317
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_53
+  - first:
+      213: 6624052031108710712
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_54
+  - first:
+      213: -9178745424715526388
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_55
+  - first:
+      213: -1297461850426211873
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_56
+  - first:
+      213: -5319392725966664702
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_57
+  - first:
+      213: -3647497552181045181
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_58
+  - first:
+      213: -6335839354263413938
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_59
+  - first:
+      213: 1865390254804792732
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_60
+  - first:
+      213: 4622076348592134523
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_61
+  - first:
+      213: -362025246533445110
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_62
+  - first:
+      213: 1251493873663551015
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_63
+  - first:
+      213: 2239032039284496389
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_64
+  - first:
+      213: 1780497915567745249
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_65
+  - first:
+      213: -1215319574678339160
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_66
+  - first:
+      213: -3216873016002232217
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_67
+  - first:
+      213: -8123265744598283673
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_68
+  - first:
+      213: 139484627506103423
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_69
+  - first:
+      213: -6351948354636482739
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_70
+  - first:
+      213: 9099833114944972832
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_71
+  - first:
+      213: 8199242716852498254
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_72
+  - first:
+      213: 3817243693841306926
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_73
+  - first:
+      213: -4760273962840321215
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_74
+  - first:
+      213: -8633757564397054431
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_75
+  - first:
+      213: -6194304031628486689
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_76
+  - first:
+      213: -3718574586447528903
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_77
+  - first:
+      213: 4727691484014179576
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_78
+  - first:
+      213: -5400220186709390093
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_79
+  - first:
+      213: -6257752931567310872
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_80
+  - first:
+      213: 8657281456965269050
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_81
+  - first:
+      213: -7332834201972609092
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_82
+  - first:
+      213: -5972682927544023024
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_83
+  - first:
+      213: -6745578021286341030
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_84
+  - first:
+      213: 7289536320986465790
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_85
+  - first:
+      213: 3332787103800604266
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_86
+  - first:
+      213: -9141000496382016121
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_87
+  - first:
+      213: -3496356388527790089
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_88
+  - first:
+      213: 1679987240859111387
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_89
+  - first:
+      213: -6474810652738373771
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_90
+  - first:
+      213: 1146997866916958598
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_91
+  - first:
+      213: 5346307900485431527
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_92
+  - first:
+      213: 8870946825491501540
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_93
+  - first:
+      213: -7535089934723310210
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_94
+  - first:
+      213: 8778334811190768969
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_95
+  - first:
+      213: -5056326093365686388
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_96
+  - first:
+      213: 9016931330618305445
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_97
+  - first:
+      213: 1920830522691650050
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_98
+  - first:
+      213: -3896518314607157601
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_99
+  - first:
+      213: 6819813260656571901
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_100
+  - first:
+      213: 9162550974593161747
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_101
+  - first:
+      213: -7517469189859022042
+    second: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 479
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f76565c9d857470800000000000000
+      internalID: 8391769183277711226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45309e3b4497f330800000000000000
+      internalID: 3744624666074953036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 479
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a8a15451217d430800000000000000
+      internalID: 3807531892528024212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 479
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365d708505f9cdc80800000000000000
+      internalID: -8296581246100187805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727c243859cba2060800000000000000
+      internalID: 6929558327001270055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 479
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bae4acb77631d50800000000000000
+      internalID: 6706818051457592222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47354e39633cdef0800000000000000
+      internalID: -82134166090205363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 479
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5352d13cc89c08c80800000000000000
+      internalID: -8322430504974605003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 479
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc804fb359255dd10800000000000000
+      internalID: 2149715198048733389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69018bfb2c2cc5a0800000000000000
+      internalID: -6499771594787714705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 479
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8e380eccb4db60800000000000000
+      internalID: 7770042850208549696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 479
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42f170dd097c6360800000000000000
+      internalID: 7164234207478280781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 479
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b6069b300920780800000000000000
+      internalID: -8718247582966453351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 479
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c34f9664ff57d0800000000000000
+      internalID: -2927352511171673795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 479
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2813731627ada74c0800000000000000
+      internalID: -4288875510324842110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 479
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aaa0fa635f64290800000000000000
+      internalID: -7906362480588576202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 479
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a247994c6aa6f5010800000000000000
+      internalID: 1179778891889865770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 479
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69beca8153f169ff0800000000000000
+      internalID: -29802034623616106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 479
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcb8a3d2a1b17ca0800000000000000
+      internalID: -6020835913923773231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_19
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 479
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a67464ed20f8900800000000000000
+      internalID: 688772421696055851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_20
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 479
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf24b96aae72eff0800000000000000
+      internalID: -8304978918363193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 479
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be683739739f140800000000000000
+      internalID: 4753891988104211226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 383
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c263e35dd89524320800000000000000
+      internalID: 2540691605493265964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e60e50c91975a450800000000000000
+      internalID: 6099414421851735779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 383
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628a4e15de578a4b0800000000000000
+      internalID: -5428959688653494234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 383
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59db78f2007206050800000000000000
+      internalID: 5791672002549366165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 383
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c8ae9b5071c9eb0800000000000000
+      internalID: -4711865796774949752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e58bd0454c5af850800000000000000
+      internalID: 6411538472025949670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 383
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42726534c3d75ad30800000000000000
+      internalID: 4442094305252091684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5434217839c8d040800000000000000
+      internalID: 4672705857650439258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa2393a1c0dc9c0800000000000000
+      internalID: -3905451995092045907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 383
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e4d7b4148cc9b0800000000000000
+      internalID: -5058523056925514948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 383
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9b173235d640aa0800000000000000
+      internalID: -6195706983510591057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 383
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ce6ad97d4d2ba0800000000000000
+      internalID: -6112143933520822221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 383
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0317da888525cc0800000000000000
+      internalID: -3723816597833305940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 383
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0832175232344430800000000000000
+      internalID: 3766190380179142669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_36
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 383
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c477aa530e96480800000000000000
+      internalID: -8905340267050611566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 383
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4ffe32908534a0800000000000000
+      internalID: -6614239112113205838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 383
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eace792d0c3aca10800000000000000
+      internalID: 1930421417510095590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 383
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6824b1a4dbacb9fc0800000000000000
+      internalID: -3486970572127387002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 383
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449c36a396817130800000000000000
+      internalID: 3562776748934075456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 383
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99463a248ba370320800000000000000
+      internalID: 2524050679230850201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 383
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3145bee28cabb10800000000000000
+      internalID: 1998129488534442979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e685161d18c9710800000000000000
+      internalID: 1701377495520538144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_44
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 287
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6512748eda58a7b0800000000000000
+      internalID: -5212816656930040466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b5838213855130800000000000000
+      internalID: 3554891596418101466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d380ab4c72f3fd8f0800000000000000
+      internalID: -513622392460146627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e1e5d015b648010800000000000000
+      internalID: 1190194197393448579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_48
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 287
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc51e44bccd8c770800000000000000
+      internalID: 8631391451447647424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431203fd6fa7e2ca0800000000000000
+      internalID: -6039754849532239564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c236e3003446510800000000000000
+      internalID: 1541430640793300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f38a3372c8f77d0800000000000000
+      internalID: -2918459933514514581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f84c943ea367af0800000000000000
+      internalID: -399066769106104503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 287
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6441a632b35a9a0800000000000000
+      internalID: -6222502286852864317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 287
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83180fff93c5deb50800000000000000
+      internalID: 6624052031108710712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc614daab8e9080800000000000000
+      internalID: -9178745424715526388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd189bf325d7efde0800000000000000
+      internalID: -1297461850426211873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 287
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cc5f3cf78bd26b0800000000000000
+      internalID: -5319392725966664702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_58
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 287
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34854233d4c716dc0800000000000000
+      internalID: -3647497552181045181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b503f0da39218a0800000000000000
+      internalID: -6335839354263413938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_60
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 287
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c957d11bd8233e910800000000000000
+      internalID: 1865390254804792732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_61
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 287
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79919243f9e42040800000000000000
+      internalID: 4622076348592134523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_62
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a96a4d4f3d9faf0800000000000000
+      internalID: -362025246533445110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_63
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 287
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7262b422c033e5110800000000000000
+      internalID: 1251493873663551015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_64
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 191
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508554ed6c3a21f10800000000000000
+      internalID: 2239032039284496389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e82db4bb6995b810800000000000000
+      internalID: 1780497915567745249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a108be2941522fe0800000000000000
+      internalID: -1215319574678339160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760c5a1290f5b53d0800000000000000
+      internalID: -3216873016002232217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 191
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ace1d18dc544f80800000000000000
+      internalID: -8123265744598283673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74012a978c8fe100800000000000000
+      internalID: 139484627506103423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47f34220a859d7a0800000000000000
+      internalID: -6351948354636482739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_71
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a1ab410a194e70800000000000000
+      internalID: 9099833114944972832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 191
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fa33d3fcf89c170800000000000000
+      internalID: 8199242716852498254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25d2883ae299f430800000000000000
+      internalID: 3817243693841306926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_74
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1439c534d0c10fdb0800000000000000
+      internalID: -4760273962840321215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_75
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12695412d3bbe2880800000000000000
+      internalID: -8633757564397054431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 191
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd793045d49690aa0800000000000000
+      internalID: -6194304031628486689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cffff8d18f46cc0800000000000000
+      internalID: -3718574586447528903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_78
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4fd483b522c9140800000000000000
+      internalID: 4727691484014179576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_79
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 191
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0b4e0a509e05b0800000000000000
+      internalID: -5400220186709390093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_80
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e765cd1ddef729a0800000000000000
+      internalID: -6257752931567310872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_81
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36bdfaed97d42870800000000000000
+      internalID: 8657281456965269050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_82
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf6692f42a8c3a90800000000000000
+      internalID: -7332834201972609092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 191
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c2b3a584cc1da0800000000000000
+      internalID: -5972682927544023024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_84
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a569b8c7784e262a0800000000000000
+      internalID: -6745578021286341030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_85
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c4bd89a2a92560800000000000000
+      internalID: 7289536320986465790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66b90a8630704e20800000000000000
+      internalID: 3332787103800604266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7850b79ca74a42180800000000000000
+      internalID: -9141000496382016121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f722ad93627a7fc0800000000000000
+      internalID: -3496356388527790089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_89
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf889e9e73805710800000000000000
+      internalID: 1679987240859111387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_90
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 95
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5773d9f240ad426a0800000000000000
+      internalID: -6474810652738373771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68157bf9b74faef00800000000000000
+      internalID: 1146997866916958598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_92
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07c44a5b6e13a40800000000000000
+      internalID: 5346307900485431527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1dcc2332feb1b70800000000000000
+      internalID: 8870946825491501540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d123280abfd6790800000000000000
+      internalID: -7535089934723310210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b87c4009e2d970800000000000000
+      internalID: 8778334811190768969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_96
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f4668253254d9b0800000000000000
+      internalID: -5056326093365686388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_97
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab289d7543922d70800000000000000
+      internalID: 9016931330618305445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_98
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20283c2fe2928aa10800000000000000
+      internalID: 1920830522691650050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_99
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 95
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e590dcc39cce9c0800000000000000
+      internalID: -3896518314607157601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_100
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5fee31708d4ae50800000000000000
+      internalID: 6819813260656571901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_101
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad80de09be72f70800000000000000
+      internalID: 9162550974593161747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_102
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 95
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6280e9959ca790800000000000000
+      internalID: -7517469189859022042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_0: 8391769183277711226
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_1: 3744624666074953036
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_10: 7770042850208549696
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_100: 6819813260656571901
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_101: 9162550974593161747
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_102: -7517469189859022042
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_11: 7164234207478280781
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_12: -8718247582966453351
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_13: -2927352511171673795
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_14: -4288875510324842110
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_15: -7906362480588576202
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_16: 1179778891889865770
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_17: -29802034623616106
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_18: -6020835913923773231
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_19: 688772421696055851
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_2: 3807531892528024212
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_20: -8304978918363193
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_21: 4753891988104211226
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_22: 2540691605493265964
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_23: 6099414421851735779
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_24: -5428959688653494234
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_25: 5791672002549366165
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_26: -4711865796774949752
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_27: 6411538472025949670
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_28: 4442094305252091684
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_29: 4672705857650439258
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_3: -8296581246100187805
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_30: -3905451995092045907
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_31: -5058523056925514948
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_32: -6195706983510591057
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_33: -6112143933520822221
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_34: -3723816597833305940
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_35: 3766190380179142669
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_36: -8905340267050611566
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_37: -6614239112113205838
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_38: 1930421417510095590
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_39: -3486970572127387002
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_4: 6929558327001270055
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_40: 3562776748934075456
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_41: 2524050679230850201
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_42: 1998129488534442979
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_43: 1701377495520538144
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_44: -5212816656930040466
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_45: 3554891596418101466
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_46: -513622392460146627
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_47: 1190194197393448579
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_48: 8631391451447647424
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_49: -6039754849532239564
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_5: 6706818051457592222
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_50: 1541430640793300070
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_51: -2918459933514514581
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_52: -399066769106104503
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_53: -6222502286852864317
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_54: 6624052031108710712
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_55: -9178745424715526388
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_56: -1297461850426211873
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_57: -5319392725966664702
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_58: -3647497552181045181
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_59: -6335839354263413938
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_6: -82134166090205363
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_60: 1865390254804792732
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_61: 4622076348592134523
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_62: -362025246533445110
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_63: 1251493873663551015
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_64: 2239032039284496389
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_65: 1780497915567745249
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_66: -1215319574678339160
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_67: -3216873016002232217
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_68: -8123265744598283673
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_69: 139484627506103423
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_7: -8322430504974605003
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_70: -6351948354636482739
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_71: 9099833114944972832
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_72: 8199242716852498254
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_73: 3817243693841306926
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_74: -4760273962840321215
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_75: -8633757564397054431
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_76: -6194304031628486689
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_77: -3718574586447528903
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_78: 4727691484014179576
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_79: -5400220186709390093
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_8: 2149715198048733389
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_80: -6257752931567310872
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_81: 8657281456965269050
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_82: -7332834201972609092
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_83: -5972682927544023024
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_84: -6745578021286341030
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_85: 7289536320986465790
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_86: 3332787103800604266
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_87: -9141000496382016121
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_88: -3496356388527790089
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_89: 1679987240859111387
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_9: -6499771594787714705
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_90: -6474810652738373771
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_91: 1146997866916958598
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_92: 5346307900485431527
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_93: 8870946825491501540
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_94: -7535089934723310210
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_95: 8778334811190768969
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_96: -5056326093365686388
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_97: 9016931330618305445
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_98: 1920830522691650050
+      Iron_Flower_JuiceFX_FINAL_Grass_Check_Point_99: -3896518314607157601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

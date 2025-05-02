@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 5aadafb0560f7a24aa9f78439b453918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7995749426554023477
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_0
+  - first:
+      213: -5178726671300027439
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_1
+  - first:
+      213: 1435221996923646076
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_2
+  - first:
+      213: 7192569526375931945
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_3
+  - first:
+      213: 6034480159138057088
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_4
+  - first:
+      213: 8465722135708259703
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_5
+  - first:
+      213: 4778453865228673941
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_6
+  - first:
+      213: -2227921237505320977
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_7
+  - first:
+      213: -1593821508091638922
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_8
+  - first:
+      213: 9114249729789304085
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_9
+  - first:
+      213: -3976177716777854475
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_10
+  - first:
+      213: -8033536776945984465
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_11
+  - first:
+      213: 3458120379331392304
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_12
+  - first:
+      213: 8930793226790829284
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_13
+  - first:
+      213: 5853818562190729079
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_14
+  - first:
+      213: 1330191270311562436
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_15
+  - first:
+      213: 5906342942511245989
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_16
+  - first:
+      213: -4455961309372561798
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_17
+  - first:
+      213: 5572396969434177916
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_18
+  - first:
+      213: -5321093698985485086
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_19
+  - first:
+      213: -5121644254735105762
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_20
+  - first:
+      213: 7164605509346349509
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_21
+  - first:
+      213: -1915606727082114240
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_22
+  - first:
+      213: -119051439975861636
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_23
+  - first:
+      213: 5294963209487826237
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_24
+  - first:
+      213: 5322116292440710390
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_25
+  - first:
+      213: -1075046375688232130
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_26
+  - first:
+      213: -2954931517542450663
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_27
+  - first:
+      213: -6218539051693880962
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_28
+  - first:
+      213: 3965969629356123967
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_29
+  - first:
+      213: 7016614830495356361
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_30
+  - first:
+      213: -1829184193879945527
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_31
+  - first:
+      213: 3184946367650332255
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_32
+  - first:
+      213: 241996752795938668
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_33
+  - first:
+      213: 8680683374733623263
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_34
+  - first:
+      213: -8120810007096709397
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_35
+  - first:
+      213: -7877906895610238600
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_36
+  - first:
+      213: -3630922932483545450
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_37
+  - first:
+      213: -8809513460674580780
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_38
+  - first:
+      213: -7804247038820972391
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_39
+  - first:
+      213: -566461797683703128
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_40
+  - first:
+      213: 5587899559640709559
+    second: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e29ca7dbb96fe60800000000000000
+      internalID: 7995749426554023477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db1250d7877128b0800000000000000
+      internalID: -5178726671300027439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f5745dceeae310800000000000000
+      internalID: 1435221996923646076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920efe950e321d360800000000000000
+      internalID: 7192569526375931945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 65
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b01919bb7ceb350800000000000000
+      internalID: 6034480159138057088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7755d0add694c7570800000000000000
+      internalID: 8465722135708259703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5932c8c197a705240800000000000000
+      internalID: 4778453865228673941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe752f24075d411e0800000000000000
+      internalID: -2227921237505320977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b02d668cb91e9e0800000000000000
+      internalID: -1593821508091638922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d9a4207d15c7e70800000000000000
+      internalID: 9114249729789304085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d1abee67c1d8c0800000000000000
+      internalID: -3976177716777854475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c19186dd4238090800000000000000
+      internalID: -8033536776945984465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0333690c926bdff20800000000000000
+      internalID: 3458120379331392304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf4555f1d80fb70800000000000000
+      internalID: 8930793226790829284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_14
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f57faa7f0fc3150800000000000000
+      internalID: 5853818562190729079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc0f36a9e9c57210800000000000000
+      internalID: 1330191270311562436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaa402fc9b87f150800000000000000
+      internalID: 5906342942511245989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_17
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c6fd3cce3922c0800000000000000
+      internalID: -4455961309372561798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7166961581255d40800000000000000
+      internalID: 5572396969434177916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec966f197da726b0800000000000000
+      internalID: -5321093698985485086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_20
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11089a9fa34ce8b0800000000000000
+      internalID: -5121644254735105762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1556440cacd6360800000000000000
+      internalID: 7164605509346349509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_22
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0430ceeb4d56a65e0800000000000000
+      internalID: -1915606727082114240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_23
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727d3a985b095ef0800000000000000
+      internalID: -119051439975861636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3db8403cfc7b7940800000000000000
+      internalID: 5294963209487826237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_25
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc5f38f194fbd940800000000000000
+      internalID: 5322116292440710390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_26
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e332804640ba411f0800000000000000
+      internalID: -1075046375688232130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 41
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ab641d079fdf6d0800000000000000
+      internalID: -2954931517542450663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_28
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7944e10eaf43b9a0800000000000000
+      internalID: -6218539051693880962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_29
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3762c38d54f90730800000000000000
+      internalID: 3965969629356123967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d9614306006160800000000000000
+      internalID: 7016614830495356361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_31
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cec607caae6d96e0800000000000000
+      internalID: -1829184193879945527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_32
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ef778c8d3333c20800000000000000
+      internalID: 3184946367650332255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 37
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2337b3cebb5300800000000000000
+      internalID: 241996752795938668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_34
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdff2ae798bf77870800000000000000
+      internalID: 8680683374733623263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_35
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 0
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee209e03561d4f80800000000000000
+      internalID: -8120810007096709397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_36
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8792d89da6d0ca290800000000000000
+      internalID: -7877906895610238600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_37
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 0
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696af7294de5c9dc0800000000000000
+      internalID: -3630922932483545450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_38
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de287cae225eb580800000000000000
+      internalID: -8809513460674580780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_39
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 0
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988ea7baaeb1b390800000000000000
+      internalID: -7804247038820972391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_40
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2db3a0ff58328f0800000000000000
+      internalID: -566461797683703128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_41
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b932f42b053c8d40800000000000000
+      internalID: 5587899559640709559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_0: 7995749426554023477
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_1: -5178726671300027439
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_10: -3976177716777854475
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_11: -8033536776945984465
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_12: 3458120379331392304
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_13: 8930793226790829284
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_14: 5853818562190729079
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_15: 1330191270311562436
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_16: 5906342942511245989
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_17: -4455961309372561798
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_18: 5572396969434177916
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_19: -5321093698985485086
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_2: 1435221996923646076
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_20: -5121644254735105762
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_21: 7164605509346349509
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_22: -1915606727082114240
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_23: -119051439975861636
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_24: 5294963209487826237
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_25: 5322116292440710390
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_26: -1075046375688232130
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_27: -2954931517542450663
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_28: -6218539051693880962
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_29: 3965969629356123967
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_3: 7192569526375931945
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_30: 7016614830495356361
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_31: -1829184193879945527
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_32: 3184946367650332255
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_33: 241996752795938668
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_34: 8680683374733623263
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_35: -8120810007096709397
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_36: -7877906895610238600
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_37: -3630922932483545450
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_38: -8809513460674580780
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_39: -7804247038820972391
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_4: 6034480159138057088
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_40: -566461797683703128
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_41: 5587899559640709559
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_5: 8465722135708259703
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_6: 4778453865228673941
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_7: -2227921237505320977
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_8: -1593821508091638922
+      Iron_Flower_Aseprite_FINAL_Sparkles_Check_Point_9: 9114249729789304085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

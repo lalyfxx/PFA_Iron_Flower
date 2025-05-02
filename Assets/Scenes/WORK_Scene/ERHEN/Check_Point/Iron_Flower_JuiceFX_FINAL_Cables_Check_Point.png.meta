@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: dce44ce9477878e42b7520602b90cc99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2572347653067480514
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_0
+  - first:
+      213: -4960094221798593632
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_1
+  - first:
+      213: -4497345580005341079
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_2
+  - first:
+      213: -1111225630562200997
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_3
+  - first:
+      213: -8579278194079340021
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_4
+  - first:
+      213: -3027319556107737129
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_5
+  - first:
+      213: -7220842631864394802
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_6
+  - first:
+      213: 8432235011076231980
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_7
+  - first:
+      213: 3686827288815614772
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_8
+  - first:
+      213: -8509109494837804310
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_9
+  - first:
+      213: -5074603714719380133
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_10
+  - first:
+      213: 8440994504070933430
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_11
+  - first:
+      213: -6519933089651876798
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_12
+  - first:
+      213: -8633190885679463527
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_13
+  - first:
+      213: 6882821806367466246
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_14
+  - first:
+      213: -8538019573154497445
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_15
+  - first:
+      213: 3389251933561880727
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_16
+  - first:
+      213: -4112096381540262044
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_17
+  - first:
+      213: -8768226935992195184
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_18
+  - first:
+      213: 7465650023076070422
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_19
+  - first:
+      213: -2666911154510457978
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_20
+  - first:
+      213: -2570600868053787409
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_21
+  - first:
+      213: -6562071562184516315
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_22
+  - first:
+      213: -1143307875836029880
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_23
+  - first:
+      213: 8760439365778980854
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_24
+  - first:
+      213: -7929594452585407259
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_25
+  - first:
+      213: 4432250168652218285
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_26
+  - first:
+      213: -8512138345499562699
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_27
+  - first:
+      213: -9055725391773655232
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_28
+  - first:
+      213: -2702779430585681843
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_29
+  - first:
+      213: 187005143468050100
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_30
+  - first:
+      213: 8711326172970562073
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_31
+  - first:
+      213: 8766102651881330839
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_32
+  - first:
+      213: 7218859099759045276
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_33
+  - first:
+      213: 8940679234880081362
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_34
+  - first:
+      213: -2456477390584564326
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_35
+  - first:
+      213: -6140094220115315565
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_36
+  - first:
+      213: -8416826518949183798
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_37
+  - first:
+      213: -467210865052053082
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_38
+  - first:
+      213: 7858065589022135032
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_39
+  - first:
+      213: 5883387209015502176
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_40
+  - first:
+      213: -1277095943428211869
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_41
+  - first:
+      213: -2586591660477374626
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_42
+  - first:
+      213: -4509831428670683397
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_43
+  - first:
+      213: 2289554549190158080
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_44
+  - first:
+      213: -8659452189774559833
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_45
+  - first:
+      213: 3619085001283754581
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_46
+  - first:
+      213: -5271500519636004581
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_47
+  - first:
+      213: -2256999111033444625
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_48
+  - first:
+      213: 3203486166020297581
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_49
+  - first:
+      213: -2505013085283490709
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_50
+  - first:
+      213: -7895715763528999418
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_51
+  - first:
+      213: 1237011177601038259
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_52
+  - first:
+      213: 6769502931146470041
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_53
+  - first:
+      213: -5341962615585851895
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_54
+  - first:
+      213: -5998163720926790613
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_55
+  - first:
+      213: 5295993627699230549
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_56
+  - first:
+      213: -5378729016393972056
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_57
+  - first:
+      213: -6111654112775074643
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_58
+  - first:
+      213: -3282660232739071736
+    second: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 513
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd95e3cf80d2b320800000000000000
+      internalID: 2572347653067480514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 513
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab2a31c5943a2bb0800000000000000
+      internalID: -4960094221798593632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 513
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cb9fd5083691c0800000000000000
+      internalID: -4497345580005341079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 519
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52d7013d222490f0800000000000000
+      internalID: -1111225630562200997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 513
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a65acffe740f880800000000000000
+      internalID: -8579278194079340021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 513
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ea9437ecccf5d0800000000000000
+      internalID: -3027319556107737129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 513
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbd9bc42e96acb90800000000000000
+      internalID: -7220842631864394802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 421
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239fc11111550570800000000000000
+      internalID: 8432235011076231980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 417
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3212b2ed3a2330800000000000000
+      internalID: 3686827288815614772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 430
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae20a456ff199e980800000000000000
+      internalID: -8509109494837804310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 427
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d0640dec26399b0800000000000000
+      internalID: -5074603714719380133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 417
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb2c2677cf642570800000000000000
+      internalID: 8440994504070933430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 417
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c1cf7266b8485a0800000000000000
+      internalID: -6519933089651876798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 438
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9938fec41aeb03880800000000000000
+      internalID: -8633190885679463527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 417
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60368d457f1b48f50800000000000000
+      internalID: 6882821806367466246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 440
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c3bc04f6cd28980800000000000000
+      internalID: -8538019573154497445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 417
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79003423daa090f20800000000000000
+      internalID: 3389251933561880727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_17
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 442
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9f18b026eee6c0800000000000000
+      internalID: -4112096381540262044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 417
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0976c2ace00015680800000000000000
+      internalID: -8768226935992195184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 431
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61406da24215b9760800000000000000
+      internalID: 7465650023076070422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 428
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68390e35f6a3dfad0800000000000000
+      internalID: -2666911154510457978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 347
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecd7505124635cd0800000000000000
+      internalID: -2570600868053787409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 345
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d9c497ea6dee4a0800000000000000
+      internalID: -6562071562184516315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 321
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84413ef5b872220f0800000000000000
+      internalID: -1143307875836029880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 348
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffba993035539970800000000000000
+      internalID: 8760439365778980854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 346
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1db0bbdb64f190800000000000000
+      internalID: -7929594452585407259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 321
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3e2a9b04828d30800000000000000
+      internalID: 4432250168652218285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 348
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d6485264fced980800000000000000
+      internalID: -8512138345499562699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 346
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f98d74cb9935280800000000000000
+      internalID: -9055725391773655232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 321
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4835b58d6ccd7ad0800000000000000
+      internalID: -2702779430585681843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 348
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6859bef20689200800000000000000
+      internalID: 187005143468050100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 346
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912397eeff8d4e870800000000000000
+      internalID: 8711326172970562073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 321
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7981ff5cae377a970800000000000000
+      internalID: 8766102651881330839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 348
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aebb4aa1a8e2460800000000000000
+      internalID: 7218859099759045276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 346
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd0db5f46ca31c70800000000000000
+      internalID: 8940679234880081362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_35
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 321
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bd6704d6d8edd0800000000000000
+      internalID: -2456477390584564326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 347
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394f892a6d00acaa0800000000000000
+      internalID: -6140094220115315565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_37
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 345
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace32f110ec613b80800000000000000
+      internalID: -8416826518949183798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 321
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a19e5191322489f0800000000000000
+      internalID: -467210865052053082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 250
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29267f4057d0d60800000000000000
+      internalID: 7858065589022135032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 225
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065227dbe7df5a150800000000000000
+      internalID: 5883387209015502176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 239
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7edb7108d64ee0800000000000000
+      internalID: -1277095943428211869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 236
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f1242d6949a1cd0800000000000000
+      internalID: -2586591660477374626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_43
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 248
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf60131b53cd961c0800000000000000
+      internalID: -4509831428670683397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 225
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007eb5e5bb126cf10800000000000000
+      internalID: 2289554549190158080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 246
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54207fc1273d780800000000000000
+      internalID: -8659452189774559833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 225
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a567942a2993230800000000000000
+      internalID: 3619085001283754581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 225
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111fcdf43ed7d6b0800000000000000
+      internalID: -5271500519636004581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 238
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6aa7044478da0e0800000000000000
+      internalID: -2256999111033444625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_49
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 235
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d639488f1b1157c20800000000000000
+      internalID: 3203486166020297581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 225
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e8fdfed76c3dd0800000000000000
+      internalID: -2505013085283490709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_51
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 229
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ed66ba858cc6290800000000000000
+      internalID: -7895715763528999418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 225
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7f810bc1fba2110800000000000000
+      internalID: 1237011177601038259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 129
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99273fcac0b12fd50800000000000000
+      internalID: 6769502931146470041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 129
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b696dd498dd5b0800000000000000
+      internalID: -5341962615585851895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 129
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf58d10ed32cca0800000000000000
+      internalID: -5998163720926790613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 129
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557bebf15262f7940800000000000000
+      internalID: 5295993627699230549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_57
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 135
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a640c2157aea55b0800000000000000
+      internalID: -5378729016393972056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 129
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac8cf127fa0f2ba0800000000000000
+      internalID: -6111654112775074643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 129
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809594d19e5a172d0800000000000000
+      internalID: -3282660232739071736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_0: 2572347653067480514
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_1: -4960094221798593632
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_10: -5074603714719380133
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_11: 8440994504070933430
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_12: -6519933089651876798
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_13: -8633190885679463527
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_14: 6882821806367466246
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_15: -8538019573154497445
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_16: 3389251933561880727
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_17: -4112096381540262044
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_18: -8768226935992195184
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_19: 7465650023076070422
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_2: -4497345580005341079
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_20: -2666911154510457978
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_21: -2570600868053787409
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_22: -6562071562184516315
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_23: -1143307875836029880
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_24: 8760439365778980854
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_25: -7929594452585407259
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_26: 4432250168652218285
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_27: -8512138345499562699
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_28: -9055725391773655232
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_29: -2702779430585681843
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_3: -1111225630562200997
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_30: 187005143468050100
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_31: 8711326172970562073
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_32: 8766102651881330839
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_33: 7218859099759045276
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_34: 8940679234880081362
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_35: -2456477390584564326
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_36: -6140094220115315565
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_37: -8416826518949183798
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_38: -467210865052053082
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_39: 7858065589022135032
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_4: -8579278194079340021
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_40: 5883387209015502176
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_41: -1277095943428211869
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_42: -2586591660477374626
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_43: -4509831428670683397
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_44: 2289554549190158080
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_45: -8659452189774559833
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_46: 3619085001283754581
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_47: -5271500519636004581
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_48: -2256999111033444625
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_49: 3203486166020297581
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_5: -3027319556107737129
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_50: -2505013085283490709
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_51: -7895715763528999418
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_52: 1237011177601038259
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_53: 6769502931146470041
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_54: -5341962615585851895
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_55: -5998163720926790613
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_56: 5295993627699230549
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_57: -5378729016393972056
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_58: -6111654112775074643
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_59: -3282660232739071736
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_6: -7220842631864394802
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_7: 8432235011076231980
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_8: 3686827288815614772
+      Iron_Flower_JuiceFX_FINAL_Cables_Check_Point_9: -8509109494837804310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 31ba83dec7abf6b42b7f0973fa2fbf07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -976905365411470956
+    second: IronFlower_render_Chaine_1_0
+  - first:
+      213: -3061967510987702038
+    second: IronFlower_render_Chaine_1_1
+  - first:
+      213: -1652205450444155918
+    second: IronFlower_render_Chaine_1_2
+  - first:
+      213: -5671657648518259771
+    second: IronFlower_render_Chaine_1_3
+  - first:
+      213: -5642351293844202937
+    second: IronFlower_render_Chaine_1_4
+  - first:
+      213: 1893670240448714633
+    second: IronFlower_render_Chaine_1_5
+  - first:
+      213: -189156018095057834
+    second: IronFlower_render_Chaine_1_6
+  - first:
+      213: 1707969582565791003
+    second: IronFlower_render_Chaine_1_7
+  - first:
+      213: 5248906673266398245
+    second: IronFlower_render_Chaine_1_8
+  - first:
+      213: -6693036216975275237
+    second: IronFlower_render_Chaine_1_9
+  - first:
+      213: -7295553342386674373
+    second: IronFlower_render_Chaine_1_10
+  - first:
+      213: 2863732506081160293
+    second: IronFlower_render_Chaine_1_11
+  - first:
+      213: 6053934952114113402
+    second: IronFlower_render_Chaine_1_12
+  - first:
+      213: 3647056675419824251
+    second: IronFlower_render_Chaine_1_13
+  - first:
+      213: 6925877199483655506
+    second: IronFlower_render_Chaine_1_14
+  - first:
+      213: -7769623965015568439
+    second: IronFlower_render_Chaine_1_15
+  - first:
+      213: 7207873397386896704
+    second: IronFlower_render_Chaine_1_16
+  - first:
+      213: 9193109468578871229
+    second: IronFlower_render_Chaine_1_17
+  - first:
+      213: 3623870833553944520
+    second: IronFlower_render_Chaine_1_18
+  - first:
+      213: 5051733721676278544
+    second: IronFlower_render_Chaine_1_19
+  - first:
+      213: -1182468703543155221
+    second: IronFlower_render_Chaine_1_20
+  - first:
+      213: -4580278801838487021
+    second: IronFlower_render_Chaine_1_21
+  - first:
+      213: 8343065692871550929
+    second: IronFlower_render_Chaine_1_22
+  - first:
+      213: -822402706537975632
+    second: IronFlower_render_Chaine_1_23
+  - first:
+      213: 4772854235796632913
+    second: IronFlower_render_Chaine_1_24
+  - first:
+      213: -8330173645939777703
+    second: IronFlower_render_Chaine_1_25
+  - first:
+      213: -1329614219851195824
+    second: IronFlower_render_Chaine_1_26
+  - first:
+      213: 6581402456767656296
+    second: IronFlower_render_Chaine_1_27
+  - first:
+      213: 5855352407213254856
+    second: IronFlower_render_Chaine_1_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 687
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491e97bfeb55172f0800000000000000
+      internalID: -976905365411470956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 687
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae08ac195c4b185d0800000000000000
+      internalID: -3061967510987702038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 687
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3df4685ef2219e0800000000000000
+      internalID: -1652205450444155918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 687
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb117c1b693a41b0800000000000000
+      internalID: -5671657648518259771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 687
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a5378846752b1b0800000000000000
+      internalID: -5642351293844202937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 687
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9879ca3fc0ba74a10800000000000000
+      internalID: 1893670240448714633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 559
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654115e8a9bff5df0800000000000000
+      internalID: -189156018095057834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 559
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159100494de3b710800000000000000
+      internalID: 1707969582565791003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 559
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52498373fccd7d840800000000000000
+      internalID: 5248906673266398245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 559
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b4d5a950f8d13a0800000000000000
+      internalID: -6693036216975275237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_10
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 559
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35e02b73ecf0ca90800000000000000
+      internalID: -7295553342386674373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_11
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 559
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ce4b4aa850eb720800000000000000
+      internalID: 2863732506081160293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 431
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b451a83c5e30450800000000000000
+      internalID: 6053934952114113402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 303
+        width: 6
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70ad1e29b2fc9230800000000000000
+      internalID: 3647056675419824251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 303
+        width: 7
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25553393e98ad1060800000000000000
+      internalID: 6925877199483655506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_15
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 303
+        width: 7
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf82e64b20cc2490800000000000000
+      internalID: -7769623965015568439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 431
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045eb3d7aa2870460800000000000000
+      internalID: 7207873397386896704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 431
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db77cefba5c749f70800000000000000
+      internalID: 9193109468578871229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 303
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa1e1b2539a4230800000000000000
+      internalID: 3623870833553944520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 303
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b606cfd0d5b1640800000000000000
+      internalID: 5051733721676278544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_20
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 303
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be52b47aaf6079fe0800000000000000
+      internalID: -1182468703543155221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 175
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a4a2472b49f60c0800000000000000
+      internalID: -4580278801838487021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 175
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76b515b0688c370800000000000000
+      internalID: 8343065692871550929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 47
+        width: 7
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0fb7e781d3694f0800000000000000
+      internalID: -822402706537975632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_24
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 47
+        width: 7
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1557069c3a59c3240800000000000000
+      internalID: 4772854235796632913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 175
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f50744437456c80800000000000000
+      internalID: -8330173645939777703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_26
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 175
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a167169e24c8de0800000000000000
+      internalID: -1329614219851195824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861f4872aa6d55b50800000000000000
+      internalID: 6581402456767656296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_render_Chaine_1_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8acaacdf3624150800000000000000
+      internalID: 5855352407213254856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IronFlower_render_Chaine_1_0: -976905365411470956
+      IronFlower_render_Chaine_1_1: -3061967510987702038
+      IronFlower_render_Chaine_1_10: -7295553342386674373
+      IronFlower_render_Chaine_1_11: 2863732506081160293
+      IronFlower_render_Chaine_1_12: 6053934952114113402
+      IronFlower_render_Chaine_1_13: 3647056675419824251
+      IronFlower_render_Chaine_1_14: 6925877199483655506
+      IronFlower_render_Chaine_1_15: -7769623965015568439
+      IronFlower_render_Chaine_1_16: 7207873397386896704
+      IronFlower_render_Chaine_1_17: 9193109468578871229
+      IronFlower_render_Chaine_1_18: 3623870833553944520
+      IronFlower_render_Chaine_1_19: 5051733721676278544
+      IronFlower_render_Chaine_1_2: -1652205450444155918
+      IronFlower_render_Chaine_1_20: -1182468703543155221
+      IronFlower_render_Chaine_1_21: -4580278801838487021
+      IronFlower_render_Chaine_1_22: 8343065692871550929
+      IronFlower_render_Chaine_1_23: -822402706537975632
+      IronFlower_render_Chaine_1_24: 4772854235796632913
+      IronFlower_render_Chaine_1_25: -8330173645939777703
+      IronFlower_render_Chaine_1_26: -1329614219851195824
+      IronFlower_render_Chaine_1_27: 6581402456767656296
+      IronFlower_render_Chaine_1_28: 5855352407213254856
+      IronFlower_render_Chaine_1_3: -5671657648518259771
+      IronFlower_render_Chaine_1_4: -5642351293844202937
+      IronFlower_render_Chaine_1_5: 1893670240448714633
+      IronFlower_render_Chaine_1_6: -189156018095057834
+      IronFlower_render_Chaine_1_7: 1707969582565791003
+      IronFlower_render_Chaine_1_8: 5248906673266398245
+      IronFlower_render_Chaine_1_9: -6693036216975275237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

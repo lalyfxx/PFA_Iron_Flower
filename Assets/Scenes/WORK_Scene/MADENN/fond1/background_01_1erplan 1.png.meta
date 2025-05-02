@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 02610480f2d718844b7bd561aeb4fed6
+guid: 243028bce1d1c874c84f6ffd08ae838f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3480489371490258728
-    second: background_01_1erplan_0
+      213: 2365712474045275904
+    second: background_01_1erplan 1_0
   - first:
-      213: -1893512387821330109
-    second: background_01_1erplan_1
+      213: 6765820754361688090
+    second: background_01_1erplan 1_1
   - first:
-      213: 45706714891221153
-    second: background_01_1erplan_2
+      213: -5661782749019175571
+    second: background_01_1erplan 1_2
   - first:
-      213: 7509971239693974763
-    second: background_01_1erplan_3
+      213: 5088983103487573630
+    second: background_01_1erplan 1_3
   - first:
-      213: -4467347027143257502
-    second: background_01_1erplan_4
+      213: -1393454159542196279
+    second: background_01_1erplan 1_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,7 +112,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background_01_1erplan_0
+      name: background_01_1erplan 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -127,14 +127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d0fcc76b51d2bfc0800000000000000
-      internalID: -3480489371490258728
+      spriteID: 00fdd2806f2b4d020800000000000000
+      internalID: 2365712474045275904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: background_01_1erplan_1
+      name: background_01_1erplan 1_1
       rect:
         serializedVersion: 2
         x: 75
@@ -149,14 +149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 341ab1af384e8b5e0800000000000000
-      internalID: -1893512387821330109
+      spriteID: a10a1b5112605ed50800000000000000
+      internalID: 6765820754361688090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: background_01_1erplan_2
+      name: background_01_1erplan 1_2
       rect:
         serializedVersion: 2
         x: 313
@@ -171,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a8f0f8d30262a000800000000000000
-      internalID: 45706714891221153
+      spriteID: d650741569e4d61b0800000000000000
+      internalID: -5661782749019175571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: background_01_1erplan_3
+      name: background_01_1erplan 1_3
       rect:
         serializedVersion: 2
         x: 680
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: becfb5f8d07c83860800000000000000
-      internalID: 7509971239693974763
+      spriteID: e7e77578b23bf9640800000000000000
+      internalID: 5088983103487573630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: background_01_1erplan_4
+      name: background_01_1erplan 1_4
       rect:
         serializedVersion: 2
         x: 860
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2629abe3c8bc002c0800000000000000
-      internalID: -4467347027143257502
+      spriteID: 9c762b123d479ace0800000000000000
+      internalID: -1393454159542196279
       vertices: []
       indices: 
       edges: []
@@ -234,12 +234,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      background_01_1erplan_0: -3480489371490258728
-      background_01_1erplan_1: -1893512387821330109
-      background_01_1erplan_2: 45706714891221153
-      background_01_1erplan_3: 7509971239693974763
-      background_01_1erplan_4: -4467347027143257502
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

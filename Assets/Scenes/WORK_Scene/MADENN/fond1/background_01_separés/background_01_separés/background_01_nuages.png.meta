@@ -120,6 +120,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -334,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background_01_nuages_0: -8931289072303616113
+      background_01_nuages_1: 2779099514908386647
+      background_01_nuages_2: -7285584380942761668
+      background_01_nuages_3: -5429827811710186156
+      background_01_nuages_4: -4575506618354889414
+      background_01_nuages_5: -6826725460687073430
+      background_01_nuages_6: -8771652452316436911
+      background_01_nuages_7: 2607008283314996029
+      background_01_nuages_8: 8487553456026769930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

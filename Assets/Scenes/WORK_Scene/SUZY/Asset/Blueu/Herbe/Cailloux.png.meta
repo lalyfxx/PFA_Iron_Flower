@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 310f4779efe0c7643aa7a0e76fb05c09
+guid: 9607f6e3a4410a74caaf67ded8d26c2b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6028360974278622395
-    second: background_01_ciel_0
+      213: 7592782271583118183
+    second: Cailloux_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background_01_ciel_0
+      name: Cailloux_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 6
         y: 0
-        width: 960
-        height: 265
+        width: 11
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbc74b1dd5a09a350800000000000000
-      internalID: 6028360974278622395
+      spriteID: 763689a6f3bfe5960800000000000000
+      internalID: 7592782271583118183
       vertices: []
       indices: 
       edges: []
@@ -147,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      fond1_ciel_0: 8249755457071216989
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

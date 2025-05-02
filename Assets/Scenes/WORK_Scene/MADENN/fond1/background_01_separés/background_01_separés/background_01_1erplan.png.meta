@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 1291e5a3023953e469aa02e4e3710cf3
+guid: d2b8b16f1adfdaf4eb2b5b742b259e49
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7899484781348001490
-    second: background_01_soleil_0
+      213: -3480489371490258728
+    second: background_01_1erplan_0
+  - first:
+      213: -1893512387821330109
+    second: background_01_1erplan_1
+  - first:
+      213: 45706714891221153
+    second: background_01_1erplan_2
+  - first:
+      213: 7509971239693974763
+    second: background_01_1erplan_3
+  - first:
+      213: -4467347027143257502
+    second: background_01_1erplan_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,30 +108,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background_01_soleil_0
+      name: background_01_1erplan_0
       rect:
         serializedVersion: 2
-        x: 153
-        y: 106
-        width: 71
-        height: 71
+        x: 0
+        y: 0
+        width: 106
+        height: 265
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +127,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d61adc2e8b90ad60800000000000000
-      internalID: 7899484781348001490
+      spriteID: 8d0fcc76b51d2bfc0800000000000000
+      internalID: -3480489371490258728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_1erplan_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 199
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341ab1af384e8b5e0800000000000000
+      internalID: -1893512387821330109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_1erplan_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 381
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f0f8d30262a000800000000000000
+      internalID: 45706714891221153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_1erplan_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 240
+        width: 177
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becfb5f8d07c83860800000000000000
+      internalID: 7509971239693974763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_01_1erplan_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 100
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2629abe3c8bc002c0800000000000000
+      internalID: -4467347027143257502
       vertices: []
       indices: 
       edges: []
@@ -147,8 +234,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      fond1_soleil_0: -7877011064868396850
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

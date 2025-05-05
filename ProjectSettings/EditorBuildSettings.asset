@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/WORK_Scene/LILY/LILY_Scene.unity
     guid: 429bd0e3792822b42b1d1f4a6f6a8f1b
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: c14d6cd7c2198ab4cabf4f83105a8627
+  - enabled: 1
     path: Assets/Scenes/WORK_Scene/NOEMY/NOEMY_Scene.unity
     guid: d75ef83cbb61abd4d9d979a6d6577d39
   m_configObjects:

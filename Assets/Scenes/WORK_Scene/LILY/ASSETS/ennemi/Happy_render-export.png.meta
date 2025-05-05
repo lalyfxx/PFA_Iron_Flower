@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3c585e2fc5e6993409777d4c50a75470
+guid: 6229ac71cb14e2748955d0ceda7281c9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6931020941039420532
-    second: test_pixelart_haut-export_0
+      213: -6649781388962805761
+    second: Happy_render-export_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: test_pixelart_haut-export_0
+      name: Happy_render-export_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 0
-        width: 29
-        height: 62
+        x: 15
+        y: 28
+        width: 28
+        height: 31
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 474c271e2deef2060800000000000000
-      internalID: 6931020941039420532
+      spriteID: ff74edc0f0b37b3a0800000000000000
+      internalID: -6649781388962805761
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: dd57c17e48b1a62439b9e03c13f74d4b
+    spriteID: 27d02691c046b2a4d8704db709e7e6a0
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      test_pixelart_haut-export_0: 6931020941039420532
+      Happy_render-export_0: -6649781388962805761
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

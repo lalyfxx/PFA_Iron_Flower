@@ -12,19 +12,15 @@ public class FakeJump : MonoBehaviour
     private Vector3 scale;
     private bool wasAboveMinY = false;
 
-    private Rigidbody2D rbParent; // Rigidbody2D du parent
+    private Rigidbody2D rbParent; 
 
     void Start()
     {
         scale = transform.localScale;
 
-        // On récupère le Rigidbody2D sur le parent
+        
         rbParent = GetComponentInParent<Rigidbody2D>();
 
-        if (rbParent == null)
-        {
-            Debug.LogError("Aucun Rigidbody2D trouvé sur le parent !");
-        }
     }
 
     void Update()
@@ -33,13 +29,11 @@ public class FakeJump : MonoBehaviour
 
         if (Input.GetKey(key))
         {
-            // Grandir
             scale.y += growSpeed * Time.deltaTime;
             scale.y = Mathf.Min(scale.y, maxYScale);
         }
         else
         {
-            // Revenir à la taille normale
             if (scale.y > minYScale)
             {
                 wasAboveMinY = true;

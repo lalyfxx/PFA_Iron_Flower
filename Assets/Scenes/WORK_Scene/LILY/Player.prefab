@@ -271,10 +271,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   key: 32
   growSpeed: 30
-  shrinkSpeed: 100
+  shrinkSpeed: 200
   maxYScale: 30
   minYScale: 1
-  jumpForce: 8.54
+  jumpForce: 5
 --- !u!61 &6678812738690936861
 BoxCollider2D:
   m_ObjectHideFlags: 0

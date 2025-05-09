@@ -13,6 +13,9 @@ public class FakeJump : MonoBehaviour
     private bool wasAboveMinY = false;
     private Rigidbody2D rbParent;
     private bool isGrounded = false;
+    private float groundGraceTime = 0.2f; // délai de tolérance après avoir quitté le sol
+    private float lastTimeOnGround;
+
 
     void Start()
     {
@@ -21,48 +24,57 @@ public class FakeJump : MonoBehaviour
     }
 
     void Update()
+{
+    scale = transform.localScale;
+
+    if (Input.GetKey(key))
     {
-        scale = transform.localScale;
-
-        if (Input.GetKey(key))
+        scale.y += growSpeed * Time.deltaTime;
+        scale.y = Mathf.Min(scale.y, maxYScale);
+    }
+    else
+    {
+        if (scale.y > minYScale + 0.01f)
         {
-            scale.y += growSpeed * Time.deltaTime;
-            scale.y = Mathf.Min(scale.y, maxYScale);
+            wasAboveMinY = true;
         }
-        else
+
+        scale.y -= shrinkSpeed * Time.deltaTime;
+
+        bool canJump = Time.time - lastTimeOnGround <= groundGraceTime;
+
+        if (wasAboveMinY && scale.y <= minYScale + 0.01f && canJump)
         {
-            if (scale.y > minYScale)
-            {
-                wasAboveMinY = true;
-            }
-
-            scale.y -= shrinkSpeed * Time.deltaTime;
-
-            if (wasAboveMinY && scale.y <= minYScale + 0.01f && isGrounded)
+            if (rbParent != null)
             {
                 rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-                wasAboveMinY = false;
+                Debug.Log("Jump triggered!");
             }
 
-            scale.y = Mathf.Max(scale.y, minYScale);
+            wasAboveMinY = false;
         }
 
-        transform.localScale = scale;
+        scale.y = Mathf.Max(scale.y, minYScale);
     }
 
+    transform.localScale = scale;
+}
     void OnTriggerEnter2D(Collider2D collision)
+{
+    if (collision.CompareTag("Ground"))
     {
-        if (collision.CompareTag("Ground"))
-        {
-            isGrounded = true;
-        }
+        isGrounded = true;
+        lastTimeOnGround = Time.time;
     }
+}
 
-    void OnTriggerExit2D(Collider2D collision)
+void OnTriggerExit2D(Collider2D collision)
+{
+    if (collision.CompareTag("Ground"))
     {
-        if (collision.CompareTag("Ground"))
-        {
-            isGrounded = false;
-        }
+        isGrounded = false;
+        lastTimeOnGround = Time.time; // important aussi ici
     }
+}
+
 }

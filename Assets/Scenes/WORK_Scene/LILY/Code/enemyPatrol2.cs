@@ -15,7 +15,6 @@ public class EnemyPatrol2 : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
         _currentPoint = pointB.transform;
-        _animator.SetBool("isMoving", true);
     }
 
     void FixedUpdate()

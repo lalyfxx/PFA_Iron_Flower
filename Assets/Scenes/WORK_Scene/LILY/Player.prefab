@@ -82,7 +82,7 @@ SpriteRenderer:
   m_SortingOrder: 3
   m_Sprite: {fileID: -6649781388962805761, guid: 6229ac71cb14e2748955d0ceda7281c9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -180,7 +180,7 @@ GameObject:
   - component: {fileID: 2545812837638436345}
   - component: {fileID: 965967345743183410}
   - component: {fileID: 6678812738690936861}
-  - component: {fileID: 4231926992293387989}
+  - component: {fileID: 6908095269095337490}
   m_Layer: 0
   m_Name: Legs
   m_TagString: Player
@@ -322,7 +322,7 @@ BoxCollider2D:
   m_AutoTiling: 1
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!61 &4231926992293387989
+--- !u!61 &6908095269095337490
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

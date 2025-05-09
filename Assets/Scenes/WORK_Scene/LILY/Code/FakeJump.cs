@@ -12,7 +12,6 @@ public class FakeJump : MonoBehaviour
     private Vector3 scale;
     private bool wasAboveMinY = false;
     private Rigidbody2D rbParent;
-
     private bool isGrounded = false;
 
     void Start()
@@ -51,10 +50,9 @@ public class FakeJump : MonoBehaviour
         transform.localScale = scale;
     }
 
-    // Détection de contact avec le sol
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Ground")) // Assure-toi que le sol a bien ce tag
+        if (collision.CompareTag("Ground"))
         {
             isGrounded = true;
         }

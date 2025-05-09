@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 1812e5216f166c646ba7e5d814d59bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9037655656678989743
+    second: Iron_Flower_Background2_Clouds_0
+  - first:
+      213: -1728213779425885388
+    second: Iron_Flower_Background2_Clouds_1
+  - first:
+      213: 8947349756582569624
+    second: Iron_Flower_Background2_Clouds_2
+  - first:
+      213: -7613910233950313106
+    second: Iron_Flower_Background2_Clouds_3
+  - first:
+      213: -9082610161529297592
+    second: Iron_Flower_Background2_Clouds_4
+  - first:
+      213: 6440821866033320672
+    second: Iron_Flower_Background2_Clouds_5
+  - first:
+      213: -7881386462285628125
+    second: Iron_Flower_Background2_Clouds_6
+  - first:
+      213: -4434867698540206494
+    second: Iron_Flower_Background2_Clouds_7
+  - first:
+      213: -1356302331852255094
+    second: Iron_Flower_Background2_Clouds_8
+  - first:
+      213: 430912167437824604
+    second: Iron_Flower_Background2_Clouds_9
+  - first:
+      213: 5236077028029642559
+    second: Iron_Flower_Background2_Clouds_10
+  - first:
+      213: -4966508309274915800
+    second: Iron_Flower_Background2_Clouds_11
+  - first:
+      213: -8340676717671174111
+    second: Iron_Flower_Background2_Clouds_12
+  - first:
+      213: 8054287380246378231
+    second: Iron_Flower_Background2_Clouds_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 289
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf96aaafe33c6d70800000000000000
+      internalID: 9037655656678989743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 283
+        width: 328
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433826d59b62408e0800000000000000
+      internalID: -1728213779425885388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 292
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8962842d23f5b2c70800000000000000
+      internalID: 8947349756582569624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 289
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e652ea18bf4f55690800000000000000
+      internalID: -7613910233950313106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 283
+        width: 329
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84561b80e2614f180800000000000000
+      internalID: -9082610161529297592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_5
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 292
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e21c7abc55626950800000000000000
+      internalID: 6440821866033320672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 109
+        width: 244
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d74e915c0bf9290800000000000000
+      internalID: -7881386462285628125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 130
+        width: 300
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26628aa335f2472c0800000000000000
+      internalID: -4434867698540206494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 174
+        width: 156
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8099e517327d2de0800000000000000
+      internalID: -1356302331852255094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 109
+        width: 243
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52768d4558eaf500800000000000000
+      internalID: 430912167437824604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_10
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 130
+        width: 301
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f373a48a0584aa840800000000000000
+      internalID: 5236077028029642559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_11
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 174
+        width: 155
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c84a3a10b631bb0800000000000000
+      internalID: -4966508309274915800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 116
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b6d057b6ff3c80800000000000000
+      internalID: -8340676717671174111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Background2_Clouds_13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 116
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f63f7ae2b396cf60800000000000000
+      internalID: 8054287380246378231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_Background2_Clouds_0: 9037655656678989743
+      Iron_Flower_Background2_Clouds_1: -1728213779425885388
+      Iron_Flower_Background2_Clouds_10: 5236077028029642559
+      Iron_Flower_Background2_Clouds_11: -4966508309274915800
+      Iron_Flower_Background2_Clouds_12: -8340676717671174111
+      Iron_Flower_Background2_Clouds_13: 8054287380246378231
+      Iron_Flower_Background2_Clouds_2: 8947349756582569624
+      Iron_Flower_Background2_Clouds_3: -7613910233950313106
+      Iron_Flower_Background2_Clouds_4: -9082610161529297592
+      Iron_Flower_Background2_Clouds_5: 6440821866033320672
+      Iron_Flower_Background2_Clouds_6: -7881386462285628125
+      Iron_Flower_Background2_Clouds_7: -4434867698540206494
+      Iron_Flower_Background2_Clouds_8: -1356302331852255094
+      Iron_Flower_Background2_Clouds_9: 430912167437824604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

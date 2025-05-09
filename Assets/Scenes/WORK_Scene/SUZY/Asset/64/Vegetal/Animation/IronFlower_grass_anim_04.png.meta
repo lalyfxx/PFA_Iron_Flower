@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 5c54d90d9a7f7a942b4513e7c7a8d5e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3716484906743100826
+    second: IronFlower_grass_anim_04_0
+  - first:
+      213: -3547677209320538972
+    second: IronFlower_grass_anim_04_1
+  - first:
+      213: 8522328968632937428
+    second: IronFlower_grass_anim_04_2
+  - first:
+      213: -659965016173575359
+    second: IronFlower_grass_anim_04_3
+  - first:
+      213: -5237488514098559139
+    second: IronFlower_grass_anim_04_4
+  - first:
+      213: 981683094570137511
+    second: IronFlower_grass_anim_04_5
+  - first:
+      213: 6029165953279996555
+    second: IronFlower_grass_anim_04_6
+  - first:
+      213: 5658207197269153991
+    second: IronFlower_grass_anim_04_7
+  - first:
+      213: -5573155128847191549
+    second: IronFlower_grass_anim_04_8
+  - first:
+      213: -6663231680838707561
+    second: IronFlower_grass_anim_04_9
+  - first:
+      213: 6944076916148248548
+    second: IronFlower_grass_anim_04_10
+  - first:
+      213: -5214913189291089496
+    second: IronFlower_grass_anim_04_11
+  - first:
+      213: 4024764763629183826
+    second: IronFlower_grass_anim_04_12
+  - first:
+      213: -8726916801536939554
+    second: IronFlower_grass_anim_04_13
+  - first:
+      213: -1997964470012242098
+    second: IronFlower_grass_anim_04_14
+  - first:
+      213: 1463656958637370665
+    second: IronFlower_grass_anim_04_15
+  - first:
+      213: -6124001116092389822
+    second: IronFlower_grass_anim_04_16
+  - first:
+      213: -2747636702148609536
+    second: IronFlower_grass_anim_04_17
+  - first:
+      213: 7509389728382769273
+    second: IronFlower_grass_anim_04_18
+  - first:
+      213: 1783478792981148029
+    second: IronFlower_grass_anim_04_19
+  - first:
+      213: 7756085499060234608
+    second: IronFlower_grass_anim_04_20
+  - first:
+      213: 2061608769110043948
+    second: IronFlower_grass_anim_04_21
+  - first:
+      213: 6626766979415967095
+    second: IronFlower_grass_anim_04_22
+  - first:
+      213: 7878912889972253224
+    second: IronFlower_grass_anim_04_23
+  - first:
+      213: 3662250535679920686
+    second: IronFlower_grass_anim_04_24
+  - first:
+      213: 1950631618195446725
+    second: IronFlower_grass_anim_04_25
+  - first:
+      213: 2886263898054703876
+    second: IronFlower_grass_anim_04_26
+  - first:
+      213: 7878548312130987247
+    second: IronFlower_grass_anim_04_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 670
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a0a780ba46c6cc0800000000000000
+      internalID: -3716484906743100826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 670
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac33b0ef5e14cec0800000000000000
+      internalID: -3547677209320538972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 670
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db23623b05654670800000000000000
+      internalID: 8522328968632937428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 670
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430ace705557d6f0800000000000000
+      internalID: -659965016173575359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 670
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5787f122f3b057b0800000000000000
+      internalID: -5237488514098559139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 670
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7fbd5c293af9d00800000000000000
+      internalID: 981683094570137511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 542
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8232299d76eba350800000000000000
+      internalID: 6029165953279996555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 542
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c859caa77df58e40800000000000000
+      internalID: 5658207197269153991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 542
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302baea20fc28a2b0800000000000000
+      internalID: -5573155128847191549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 542
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796da7fe6127783a0800000000000000
+      internalID: -6663231680838707561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 542
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef9108f9215e5060800000000000000
+      internalID: 6944076916148248548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_11
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 542
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a12ec98518e0a7b0800000000000000
+      internalID: -5214913189291089496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25360a87a36dad730800000000000000
+      internalID: 4024764763629183826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9a00cf763c3e680800000000000000
+      internalID: -8726916801536939554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47911376edc544e0800000000000000
+      internalID: -1997964470012242098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_15
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92deb94cf34ff4410800000000000000
+      internalID: 1463656958637370665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a7376e6d230ba0800000000000000
+      internalID: -6124001116092389822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 414
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a3b9c1afe6ed9d0800000000000000
+      internalID: -2747636702148609536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 286
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d838eb26b63860800000000000000
+      internalID: 7509389728382769273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 286
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717510538030c810800000000000000
+      internalID: 1783478792981148029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 286
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0792b0bfaa623ab60800000000000000
+      internalID: 7756085499060234608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 286
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d62aca04e4c9c10800000000000000
+      internalID: 2061608769110043948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 286
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758069257107fb50800000000000000
+      internalID: 6626766979415967095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 286
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822ea077785875d60800000000000000
+      internalID: 7878912889972253224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 158
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a8fa1757de2d230800000000000000
+      internalID: 3662250535679920686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_25
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 158
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5f223f19021b10800000000000000
+      internalID: 1950631618195446725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb59329b11e0820800000000000000
+      internalID: 2886263898054703876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_grass_anim_04_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4225292f9365d60800000000000000
+      internalID: 7878548312130987247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IronFlower_grass_anim_04_0: -3716484906743100826
+      IronFlower_grass_anim_04_1: -3547677209320538972
+      IronFlower_grass_anim_04_10: 6944076916148248548
+      IronFlower_grass_anim_04_11: -5214913189291089496
+      IronFlower_grass_anim_04_12: 4024764763629183826
+      IronFlower_grass_anim_04_13: -8726916801536939554
+      IronFlower_grass_anim_04_14: -1997964470012242098
+      IronFlower_grass_anim_04_15: 1463656958637370665
+      IronFlower_grass_anim_04_16: -6124001116092389822
+      IronFlower_grass_anim_04_17: -2747636702148609536
+      IronFlower_grass_anim_04_18: 7509389728382769273
+      IronFlower_grass_anim_04_19: 1783478792981148029
+      IronFlower_grass_anim_04_2: 8522328968632937428
+      IronFlower_grass_anim_04_20: 7756085499060234608
+      IronFlower_grass_anim_04_21: 2061608769110043948
+      IronFlower_grass_anim_04_22: 6626766979415967095
+      IronFlower_grass_anim_04_23: 7878912889972253224
+      IronFlower_grass_anim_04_24: 3662250535679920686
+      IronFlower_grass_anim_04_25: 1950631618195446725
+      IronFlower_grass_anim_04_26: 2886263898054703876
+      IronFlower_grass_anim_04_27: 7878548312130987247
+      IronFlower_grass_anim_04_3: -659965016173575359
+      IronFlower_grass_anim_04_4: -5237488514098559139
+      IronFlower_grass_anim_04_5: 981683094570137511
+      IronFlower_grass_anim_04_6: 6029165953279996555
+      IronFlower_grass_anim_04_7: 5658207197269153991
+      IronFlower_grass_anim_04_8: -5573155128847191549
+      IronFlower_grass_anim_04_9: -6663231680838707561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: c6afcaa5d17ff174f8010b11d62b32bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8099609965291458008
+    second: IronFlower_anim_chaine_04_0
+  - first:
+      213: 1851217859599721195
+    second: IronFlower_anim_chaine_04_1
+  - first:
+      213: -925189611937649639
+    second: IronFlower_anim_chaine_04_2
+  - first:
+      213: -6446940882926495145
+    second: IronFlower_anim_chaine_04_3
+  - first:
+      213: -9183648678006675270
+    second: IronFlower_anim_chaine_04_4
+  - first:
+      213: 8716912839754050067
+    second: IronFlower_anim_chaine_04_5
+  - first:
+      213: 2533128324586804003
+    second: IronFlower_anim_chaine_04_6
+  - first:
+      213: -8854304530333820285
+    second: IronFlower_anim_chaine_04_7
+  - first:
+      213: -1943293216909487263
+    second: IronFlower_anim_chaine_04_8
+  - first:
+      213: 431242988676323381
+    second: IronFlower_anim_chaine_04_9
+  - first:
+      213: -2842008768337913394
+    second: IronFlower_anim_chaine_04_10
+  - first:
+      213: -4480738436474425198
+    second: IronFlower_anim_chaine_04_11
+  - first:
+      213: 6585702139676966081
+    second: IronFlower_anim_chaine_04_12
+  - first:
+      213: -9109302616642280498
+    second: IronFlower_anim_chaine_04_13
+  - first:
+      213: -5823533755857452203
+    second: IronFlower_anim_chaine_04_14
+  - first:
+      213: 2270109853188362331
+    second: IronFlower_anim_chaine_04_15
+  - first:
+      213: -5364678451306677067
+    second: IronFlower_anim_chaine_04_16
+  - first:
+      213: 6834591154802121781
+    second: IronFlower_anim_chaine_04_17
+  - first:
+      213: -6493805549772459401
+    second: IronFlower_anim_chaine_04_18
+  - first:
+      213: -3980172113615741066
+    second: IronFlower_anim_chaine_04_19
+  - first:
+      213: -4549710033681320655
+    second: IronFlower_anim_chaine_04_20
+  - first:
+      213: -841611895419239960
+    second: IronFlower_anim_chaine_04_21
+  - first:
+      213: 2314544443164438354
+    second: IronFlower_anim_chaine_04_22
+  - first:
+      213: -5832608165639888130
+    second: IronFlower_anim_chaine_04_23
+  - first:
+      213: -4811342535809357346
+    second: IronFlower_anim_chaine_04_24
+  - first:
+      213: -7156967582076462531
+    second: IronFlower_anim_chaine_04_25
+  - first:
+      213: 4368529251295312393
+    second: IronFlower_anim_chaine_04_26
+  - first:
+      213: -6132491267964086658
+    second: IronFlower_anim_chaine_04_27
+  - first:
+      213: 6274515147034749052
+    second: IronFlower_anim_chaine_04_28
+  - first:
+      213: -8192600050041952087
+    second: IronFlower_anim_chaine_04_29
+  - first:
+      213: 799402991199636409
+    second: IronFlower_anim_chaine_04_30
+  - first:
+      213: -7525458984973649094
+    second: IronFlower_anim_chaine_04_31
+  - first:
+      213: 5352402706727866711
+    second: IronFlower_anim_chaine_04_32
+  - first:
+      213: -5146174764521609852
+    second: IronFlower_anim_chaine_04_33
+  - first:
+      213: -5336112754740827906
+    second: IronFlower_anim_chaine_04_34
+  - first:
+      213: 3219321179116030276
+    second: IronFlower_anim_chaine_04_35
+  - first:
+      213: -6967103590665744977
+    second: IronFlower_anim_chaine_04_36
+  - first:
+      213: -1756784318277512375
+    second: IronFlower_anim_chaine_04_37
+  - first:
+      213: 6990427571424458230
+    second: IronFlower_anim_chaine_04_38
+  - first:
+      213: 8503131245360746314
+    second: IronFlower_anim_chaine_04_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 686
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822b69f66a7689f80800000000000000
+      internalID: -8099609965291458008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 686
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ec4bc5d8d0b910800000000000000
+      internalID: 1851217859599721195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 686
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c239623f01923f0800000000000000
+      internalID: -925189611937649639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 686
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a1931ac6dd786a0800000000000000
+      internalID: -6446940882926495145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 686
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab82d653f202d8080800000000000000
+      internalID: -9183648678006675270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 686
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae4972b02b8f870800000000000000
+      internalID: 8716912839754050067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 558
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3231a754aca772320800000000000000
+      internalID: 2533128324586804003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 558
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a125811f03f1580800000000000000
+      internalID: -8854304530333820285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 558
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1631faf7d190805e0800000000000000
+      internalID: -1943293216909487263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 561
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5381eef96351cf500800000000000000
+      internalID: 431242988676323381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 558
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec95ca235182f88d0800000000000000
+      internalID: -2842008768337913394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 561
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290b08ac12831d1c0800000000000000
+      internalID: -4480738436474425198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 558
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb9f7143d156b50800000000000000
+      internalID: 6585702139676966081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 558
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec320878881459180800000000000000
+      internalID: -9109302616642280498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 430
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ce9847e6ae2fa0800000000000000
+      internalID: -5823533755857452203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 430
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50186842ec018f10800000000000000
+      internalID: 2270109853188362331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 430
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc3caf2f55dc85b0800000000000000
+      internalID: -5364678451306677067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 430
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd10fa17859de50800000000000000
+      internalID: 6834591154802121781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_18
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 430
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723a55124e51e5a0800000000000000
+      internalID: -6493805549772459401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_19
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 430
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f940fec8693c8c0800000000000000
+      internalID: -3980172113615741066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f46b64de2cd0c0800000000000000
+      internalID: -4549710033681320655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 302
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e10bcea07ef154f0800000000000000
+      internalID: -841611895419239960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 302
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25faba778e9ee1020800000000000000
+      internalID: 2314544443164438354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 302
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2edfc96c96e0fa0800000000000000
+      internalID: -5832608165639888130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 302
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed92b5c847daa3db0800000000000000
+      internalID: -4811342535809357346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_25
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 302
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a985147e75dac90800000000000000
+      internalID: -7156967582076462531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 174
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3c56653220ac30800000000000000
+      internalID: 4368529251295312393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 174
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76d0d0eea305eaa0800000000000000
+      internalID: -6132491267964086658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 174
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7860dc484e831750800000000000000
+      internalID: 6274515147034749052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_29
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 174
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8e66629a90e4e80800000000000000
+      internalID: -8192600050041952087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_30
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 174
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc6daf8cc081b00800000000000000
+      internalID: 799402991199636409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_31
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 174
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bbfdcbce2309790800000000000000
+      internalID: -7525458984973649094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_32
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 177
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7519a5d47ed874a40800000000000000
+      internalID: 5352402706727866711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 46
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4852c98315d1598b0800000000000000
+      internalID: -5146174764521609852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8ed34b8b152f5b0800000000000000
+      internalID: -5336112754740827906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 46
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4494a134e835dac20800000000000000
+      internalID: 3219321179116030276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 46
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad05059230ef4f90800000000000000
+      internalID: -6967103590665744977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 46
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943971a68f5ae97e0800000000000000
+      internalID: -1756784318277512375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_38
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 46
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f9ded6dcf20160800000000000000
+      internalID: 6990427571424458230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IronFlower_anim_chaine_04_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 46
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f804ee0d0310670800000000000000
+      internalID: 8503131245360746314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IronFlower_anim_chaine_04_0: -8099609965291458008
+      IronFlower_anim_chaine_04_1: 1851217859599721195
+      IronFlower_anim_chaine_04_10: -2842008768337913394
+      IronFlower_anim_chaine_04_11: -4480738436474425198
+      IronFlower_anim_chaine_04_12: 6585702139676966081
+      IronFlower_anim_chaine_04_13: -9109302616642280498
+      IronFlower_anim_chaine_04_14: -5823533755857452203
+      IronFlower_anim_chaine_04_15: 2270109853188362331
+      IronFlower_anim_chaine_04_16: -5364678451306677067
+      IronFlower_anim_chaine_04_17: 6834591154802121781
+      IronFlower_anim_chaine_04_18: -6493805549772459401
+      IronFlower_anim_chaine_04_19: -3980172113615741066
+      IronFlower_anim_chaine_04_2: -925189611937649639
+      IronFlower_anim_chaine_04_20: -4549710033681320655
+      IronFlower_anim_chaine_04_21: -841611895419239960
+      IronFlower_anim_chaine_04_22: 2314544443164438354
+      IronFlower_anim_chaine_04_23: -5832608165639888130
+      IronFlower_anim_chaine_04_24: -4811342535809357346
+      IronFlower_anim_chaine_04_25: -7156967582076462531
+      IronFlower_anim_chaine_04_26: 4368529251295312393
+      IronFlower_anim_chaine_04_27: -6132491267964086658
+      IronFlower_anim_chaine_04_28: 6274515147034749052
+      IronFlower_anim_chaine_04_29: -8192600050041952087
+      IronFlower_anim_chaine_04_3: -6446940882926495145
+      IronFlower_anim_chaine_04_30: 799402991199636409
+      IronFlower_anim_chaine_04_31: -7525458984973649094
+      IronFlower_anim_chaine_04_32: 5352402706727866711
+      IronFlower_anim_chaine_04_33: -5146174764521609852
+      IronFlower_anim_chaine_04_34: -5336112754740827906
+      IronFlower_anim_chaine_04_35: 3219321179116030276
+      IronFlower_anim_chaine_04_36: -6967103590665744977
+      IronFlower_anim_chaine_04_37: -1756784318277512375
+      IronFlower_anim_chaine_04_38: 6990427571424458230
+      IronFlower_anim_chaine_04_39: 8503131245360746314
+      IronFlower_anim_chaine_04_4: -9183648678006675270
+      IronFlower_anim_chaine_04_5: 8716912839754050067
+      IronFlower_anim_chaine_04_6: 2533128324586804003
+      IronFlower_anim_chaine_04_7: -8854304530333820285
+      IronFlower_anim_chaine_04_8: -1943293216909487263
+      IronFlower_anim_chaine_04_9: 431242988676323381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

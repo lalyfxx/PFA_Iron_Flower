@@ -11,16 +11,14 @@ public class FakeJump : MonoBehaviour
 
     private Vector3 scale;
     private bool wasAboveMinY = false;
+    private Rigidbody2D rbParent;
 
-    private Rigidbody2D rbParent; 
+    private bool isGrounded = false;
 
     void Start()
     {
         scale = transform.localScale;
-
-        
         rbParent = GetComponentInParent<Rigidbody2D>();
-
     }
 
     void Update()
@@ -41,13 +39,9 @@ public class FakeJump : MonoBehaviour
 
             scale.y -= shrinkSpeed * Time.deltaTime;
 
-            // Saut au moment précis où les jambes reviennent à leur taille normale
-            if (wasAboveMinY && scale.y <= minYScale + 0.01f)
+            if (wasAboveMinY && scale.y <= minYScale + 0.01f && isGrounded)
             {
-                if (rbParent != null)
-                {
-                    rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-                }
+                rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
                 wasAboveMinY = false;
             }
 
@@ -55,5 +49,22 @@ public class FakeJump : MonoBehaviour
         }
 
         transform.localScale = scale;
+    }
+
+    // Détection de contact avec le sol
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ground")) // Assure-toi que le sol a bien ce tag
+        {
+            isGrounded = true;
+        }
+    }
+
+    void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Ground"))
+        {
+            isGrounded = false;
+        }
     }
 }

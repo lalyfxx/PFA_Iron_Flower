@@ -1,0 +1,929 @@
+fileFormatVersion: 2
+guid: 0e12cb120404a124dafb00bbdf71b6f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8500966629300325624
+    second: anim_Herbe_03_0
+  - first:
+      213: 4311406491299430192
+    second: anim_Herbe_03_1
+  - first:
+      213: 9178306421116556598
+    second: anim_Herbe_03_2
+  - first:
+      213: 5763716032388672168
+    second: anim_Herbe_03_3
+  - first:
+      213: -6899425996102023767
+    second: anim_Herbe_03_4
+  - first:
+      213: -5530773026505301769
+    second: anim_Herbe_03_5
+  - first:
+      213: 5579470498296646551
+    second: anim_Herbe_03_6
+  - first:
+      213: 5185665785017685778
+    second: anim_Herbe_03_7
+  - first:
+      213: -8570445360920530132
+    second: anim_Herbe_03_8
+  - first:
+      213: 1602326260091338705
+    second: anim_Herbe_03_9
+  - first:
+      213: -1474193188413426122
+    second: anim_Herbe_03_10
+  - first:
+      213: -6826784319083023167
+    second: anim_Herbe_03_11
+  - first:
+      213: -7420202166500943314
+    second: anim_Herbe_03_12
+  - first:
+      213: 7500918792489611721
+    second: anim_Herbe_03_13
+  - first:
+      213: -7842051464916235673
+    second: anim_Herbe_03_14
+  - first:
+      213: 3171488602779737691
+    second: anim_Herbe_03_15
+  - first:
+      213: 3289293634548586009
+    second: anim_Herbe_03_16
+  - first:
+      213: 6755622121902017325
+    second: anim_Herbe_03_17
+  - first:
+      213: 2344224342837286403
+    second: anim_Herbe_03_18
+  - first:
+      213: 4892926176515094682
+    second: anim_Herbe_03_19
+  - first:
+      213: 2305481242749576956
+    second: anim_Herbe_03_20
+  - first:
+      213: 6153822898890351346
+    second: anim_Herbe_03_21
+  - first:
+      213: 3760283653007243507
+    second: anim_Herbe_03_22
+  - first:
+      213: -7994521468451565046
+    second: anim_Herbe_03_23
+  - first:
+      213: 1041728954568519916
+    second: anim_Herbe_03_24
+  - first:
+      213: -8622574002563402067
+    second: anim_Herbe_03_25
+  - first:
+      213: 3506882042502521797
+    second: anim_Herbe_03_26
+  - first:
+      213: -3093869551697452924
+    second: anim_Herbe_03_27
+  - first:
+      213: 3798268893611885381
+    second: anim_Herbe_03_28
+  - first:
+      213: -432737135045066463
+    second: anim_Herbe_03_29
+  - first:
+      213: 596068605524871480
+    second: anim_Herbe_03_30
+  - first:
+      213: 1125715107756190166
+    second: anim_Herbe_03_31
+  - first:
+      213: -4159952281972956652
+    second: anim_Herbe_03_32
+  - first:
+      213: 1070174720116178721
+    second: anim_Herbe_03_33
+  - first:
+      213: 3253804760762296794
+    second: anim_Herbe_03_34
+  - first:
+      213: 2873916101991933604
+    second: anim_Herbe_03_35
+  - first:
+      213: -4736038698494229341
+    second: anim_Herbe_03_36
+  - first:
+      213: 8404817501549618275
+    second: anim_Herbe_03_37
+  - first:
+      213: 6590944458367139275
+    second: anim_Herbe_03_38
+  - first:
+      213: 6173132817680951736
+    second: anim_Herbe_03_39
+  - first:
+      213: -6800789124943477026
+    second: anim_Herbe_03_40
+  - first:
+      213: -3284323130099930624
+    second: anim_Herbe_03_41
+  - first:
+      213: 2228051297881614054
+    second: anim_Herbe_03_42
+  - first:
+      213: -1217863036033702894
+    second: anim_Herbe_03_43
+  - first:
+      213: 6867437897450892302
+    second: anim_Herbe_03_44
+  - first:
+      213: -3800855622905533789
+    second: anim_Herbe_03_45
+  - first:
+      213: 6567926871475435668
+    second: anim_Herbe_03_46
+  - first:
+      213: -2720954237988524317
+    second: anim_Herbe_03_47
+  - first:
+      213: -5973627249305489684
+    second: anim_Herbe_03_48
+  - first:
+      213: 4451348136720996690
+    second: anim_Herbe_03_49
+  - first:
+      213: -7232144065004314985
+    second: anim_Herbe_03_50
+  - first:
+      213: 4889226948024321173
+    second: anim_Herbe_03_51
+  - first:
+      213: -2041228148890609539
+    second: anim_Herbe_03_52
+  - first:
+      213: -8350827620598049246
+    second: anim_Herbe_03_53
+  - first:
+      213: 183314170298891964
+    second: anim_Herbe_03_54
+  - first:
+      213: 4715210969665100758
+    second: anim_Herbe_03_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim_Herbe_03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc45eafb1089f570800000000000000
+      internalID: 8500966629300325624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f373c6c5135db30800000000000000
+      internalID: 4311406491299430192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d65eaf05ef5f70800000000000000
+      internalID: 9178306421116556598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa20c8a135dcff40800000000000000
+      internalID: 5763716032388672168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a54e3c7c905040a0800000000000000
+      internalID: -6899425996102023767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0e6d55c3fbe33b0800000000000000
+      internalID: -5530773026505301769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b4ebd5bd24e6d40800000000000000
+      internalID: 5579470498296646551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21750ef7e8f27f740800000000000000
+      internalID: 5185665785017685778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23ff673a59af0980800000000000000
+      internalID: -8570445360920530132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df360b7e3b9c3610800000000000000
+      internalID: 1602326260091338705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63631521b1d9a8be0800000000000000
+      internalID: -1474193188413426122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c479d6e4d36241a0800000000000000
+      internalID: -6826784319083023167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a90288175260990800000000000000
+      internalID: -7420202166500943314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1356376ed981860800000000000000
+      internalID: 7500918792489611721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a065bddbf6b2390800000000000000
+      internalID: -7842051464916235673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed2e9b414630c20800000000000000
+      internalID: 3171488602779737691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916d839122be5ad20800000000000000
+      internalID: 3289293634548586009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b8dbce68ac0cd50800000000000000
+      internalID: 6755622121902017325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d3ac9e9b588020800000000000000
+      internalID: 2344224342837286403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9874670f6a27e340800000000000000
+      internalID: 4892926176515094682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf62a6ea9f6beff10800000000000000
+      internalID: 2305481242749576956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2260b7255c66550800000000000000
+      internalID: 6153822898890351346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f874304f063f2430800000000000000
+      internalID: 3760283653007243507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02d5bbc411cd0190800000000000000
+      internalID: -7994521468451565046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0bb4107f6f47e00800000000000000
+      internalID: 1041728954568519916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b0b701a6765880800000000000000
+      internalID: -8622574002563402067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c32f8c23a2faa030800000000000000
+      internalID: 3506882042502521797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_Herbe_03_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4802da5e80e5015d0800000000000000
+      internalID: -3093869551697452924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 990e8ea948dd6cb4bac4212936017105
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anim_Herbe_03_0: 8500966629300325624
+      anim_Herbe_03_1: 4311406491299430192
+      anim_Herbe_03_10: -1474193188413426122
+      anim_Herbe_03_11: -6826784319083023167
+      anim_Herbe_03_12: -7420202166500943314
+      anim_Herbe_03_13: 7500918792489611721
+      anim_Herbe_03_14: -7842051464916235673
+      anim_Herbe_03_15: 3171488602779737691
+      anim_Herbe_03_16: 3289293634548586009
+      anim_Herbe_03_17: 6755622121902017325
+      anim_Herbe_03_18: 2344224342837286403
+      anim_Herbe_03_19: 4892926176515094682
+      anim_Herbe_03_2: 9178306421116556598
+      anim_Herbe_03_20: 2305481242749576956
+      anim_Herbe_03_21: 6153822898890351346
+      anim_Herbe_03_22: 3760283653007243507
+      anim_Herbe_03_23: -7994521468451565046
+      anim_Herbe_03_24: 1041728954568519916
+      anim_Herbe_03_25: -8622574002563402067
+      anim_Herbe_03_26: 3506882042502521797
+      anim_Herbe_03_27: -3093869551697452924
+      anim_Herbe_03_3: 5763716032388672168
+      anim_Herbe_03_4: -6899425996102023767
+      anim_Herbe_03_5: -5530773026505301769
+      anim_Herbe_03_6: 5579470498296646551
+      anim_Herbe_03_7: 5185665785017685778
+      anim_Herbe_03_8: -8570445360920530132
+      anim_Herbe_03_9: 1602326260091338705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

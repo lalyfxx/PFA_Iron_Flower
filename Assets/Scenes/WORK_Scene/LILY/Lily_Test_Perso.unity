@@ -390,8 +390,8 @@ Transform:
   m_GameObject: {fileID: 461270907}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.19, y: -5.08, z: 0}
-  m_LocalScale: {x: 69.61523, y: 2.5009875, z: 1.6894}
+  m_LocalPosition: {x: 7.19, y: -6.08, z: 0}
+  m_LocalScale: {x: 69.61523, y: 5.001975, z: 1.6894}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -538,7 +538,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: -1
   m_CullingMask:
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e392074c46a8e0c43a70aba573fdf1f9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 1926959391}
+  target: {fileID: 1037812311}
   offset: {x: 1.5, y: -1.15, z: -10}
   smoothTime: 0.3
   minY: 0.9
@@ -716,7 +716,7 @@ Transform:
   m_GameObject: {fileID: 645363526}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.4, y: 1.75, z: 0}
+  m_LocalPosition: {x: 21.4, y: 2.75, z: 0}
   m_LocalScale: {x: 4.8, y: 4.8, z: 4.8}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -803,12 +803,17 @@ Transform:
   m_GameObject: {fileID: 698576264}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.64, y: 1.75, z: 0}
+  m_LocalPosition: {x: -1.64, y: 2.75, z: 0}
   m_LocalScale: {x: 4.8, y: 4.8, z: 4.8}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1037812311 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7863178412668835414, guid: 179350cac89091a46ac6a158720fca23, type: 3}
+  m_PrefabInstance: {fileID: 2226799243611434621}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1763806315
 GameObject:
   m_ObjectHideFlags: 0
@@ -1075,11 +1080,6 @@ Transform:
   - {fileID: 234368445}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &1926959391 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 932359086244369091, guid: 179350cac89091a46ac6a158720fca23, type: 3}
-  m_PrefabInstance: {fileID: 2226799243611434621}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2226799243611434621
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1094,7 +1094,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 932359086244369091, guid: 179350cac89091a46ac6a158720fca23, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.73
+      value: -1.73
       objectReference: {fileID: 0}
     - target: {fileID: 932359086244369091, guid: 179350cac89091a46ac6a158720fca23, type: 3}
       propertyPath: m_LocalPosition.z

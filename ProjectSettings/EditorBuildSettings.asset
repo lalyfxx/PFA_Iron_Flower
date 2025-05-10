@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: c14d6cd7c2198ab4cabf4f83105a8627
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WORK_Scene/NOEMY/NOEMY_Scene.unity
     guid: d75ef83cbb61abd4d9d979a6d6577d39
+  - enabled: 1
+    path: Assets/Scenes/WORK_Scene/NOEMY/NOEMY_Test.unity
+    guid: 52eaec5317456e0429a8f09f226ed6a1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

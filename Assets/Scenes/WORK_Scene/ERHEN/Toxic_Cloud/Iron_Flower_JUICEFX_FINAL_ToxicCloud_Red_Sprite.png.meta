@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: addd4e670c2b7904c8bdac3e3312443f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 335980220614868002
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_0
+  - first:
+      213: 564318802411054744
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_1
+  - first:
+      213: 3222780588485066873
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_2
+  - first:
+      213: 9010323807958038124
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_3
+  - first:
+      213: -1785157161897655080
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_4
+  - first:
+      213: -5876204084961242347
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_5
+  - first:
+      213: -6490227656080583838
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_6
+  - first:
+      213: -2681181216918159488
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_7
+  - first:
+      213: -5661102916010390627
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_8
+  - first:
+      213: 374035895974816957
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_9
+  - first:
+      213: -4362719729012094933
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_10
+  - first:
+      213: 4975449336398991291
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_11
+  - first:
+      213: -6925983994715149068
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_12
+  - first:
+      213: 7721405215753533570
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_13
+  - first:
+      213: 5988440945127591316
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_14
+  - first:
+      213: 8081811312338239034
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_15
+  - first:
+      213: 7800019482543515883
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_16
+  - first:
+      213: -3633611260571426654
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_17
+  - first:
+      213: -5776565047760333394
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_18
+  - first:
+      213: -941622673982248931
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_19
+  - first:
+      213: -2881595569618878095
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_20
+  - first:
+      213: -6099895036525375325
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_21
+  - first:
+      213: -5081212526736732755
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_22
+  - first:
+      213: 3707588702140440428
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_23
+  - first:
+      213: 529880746574737983
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_24
+  - first:
+      213: 4717747240214033400
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_25
+  - first:
+      213: 7890471668986111654
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_26
+  - first:
+      213: -5611611871052431167
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_27
+  - first:
+      213: 4045257490275751647
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_28
+  - first:
+      213: -1431317741883109916
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_29
+  - first:
+      213: 3313868700930821639
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_30
+  - first:
+      213: 5467701090928373020
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_31
+  - first:
+      213: -9180895995380113809
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_32
+  - first:
+      213: 1860589352258316979
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_33
+  - first:
+      213: 1593701835918501757
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_34
+  - first:
+      213: 8417357820182066590
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_35
+  - first:
+      213: 4221571896470391580
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_36
+  - first:
+      213: 4927491534826276859
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_37
+  - first:
+      213: 3625985244563811877
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_38
+  - first:
+      213: 7936956631334706300
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_39
+  - first:
+      213: -7547465490177969238
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_40
+  - first:
+      213: 1320905540134406517
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_41
+  - first:
+      213: -4738360946364101935
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_42
+  - first:
+      213: -2474111626835017909
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_43
+  - first:
+      213: -3757240268234548503
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_44
+  - first:
+      213: -8896477502248464436
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_45
+  - first:
+      213: -5181746789478354160
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_46
+  - first:
+      213: -5157920019891482787
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_47
+  - first:
+      213: 1715647602621948400
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_48
+  - first:
+      213: -3226101774095962138
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_49
+  - first:
+      213: -5697467258914763578
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_50
+  - first:
+      213: 2552307933775434760
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_51
+  - first:
+      213: -7559411980198087320
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_52
+  - first:
+      213: -2281340698427803514
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_53
+  - first:
+      213: -2574261356091225578
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_54
+  - first:
+      213: -4470901836726650203
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_55
+  - first:
+      213: 7038197480178590876
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_56
+  - first:
+      213: -3204318110993376798
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_57
+  - first:
+      213: 5050907766035987719
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_58
+  - first:
+      213: 6907019424622304418
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_59
+  - first:
+      213: 8917899897925805368
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_60
+  - first:
+      213: 7495789623146153574
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_61
+  - first:
+      213: 8950419415591910293
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_62
+  - first:
+      213: 5707875776873553678
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_63
+  - first:
+      213: -668887368302020976
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_64
+  - first:
+      213: -5068766396691370836
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_65
+  - first:
+      213: -4409521829072992365
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_66
+  - first:
+      213: 8812439337938302530
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_67
+  - first:
+      213: 5799569178096100488
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_68
+  - first:
+      213: -3150458006027220051
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_69
+  - first:
+      213: 8837587831159397025
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_70
+  - first:
+      213: 578065706578591066
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_71
+  - first:
+      213: 5506693207764265705
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_72
+  - first:
+      213: 8926044815849570322
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_73
+  - first:
+      213: 2027950314061228813
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_74
+  - first:
+      213: -6285719237738381826
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_75
+  - first:
+      213: -5221773117475940757
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_76
+  - first:
+      213: 1423012310055646004
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_77
+  - first:
+      213: 1134701669966920317
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_78
+  - first:
+      213: 6037739451096902039
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_79
+  - first:
+      213: 2035888342225202565
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_80
+  - first:
+      213: 1801230545675016573
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_81
+  - first:
+      213: 5558489107489023866
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_82
+  - first:
+      213: -1213442763843873063
+    second: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 597
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c7e450b34a9a400800000000000000
+      internalID: 335980220614868002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 597
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e8cdf5fcd4d700800000000000000
+      internalID: 564318802411054744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 597
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9704da5cedd99bc20800000000000000
+      internalID: 3222780588485066873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 597
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66759cb3c91b0d70800000000000000
+      internalID: 9010323807958038124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 597
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d488d8f409d937e0800000000000000
+      internalID: -1785157161897655080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 596
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5139f28a487837ea0800000000000000
+      internalID: -5876204084961242347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 596
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26396ef55541ee5a0800000000000000
+      internalID: -6490227656080583838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 596
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fb42383e78acad0800000000000000
+      internalID: -2681181216918159488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 596
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc54644e8bf61b0800000000000000
+      internalID: -5661102916010390627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 596
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce2d86aa7d03500800000000000000
+      internalID: 374035895974816957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2845a965818473c0800000000000000
+      internalID: -4362719729012094933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc3067fc85c0540800000000000000
+      internalID: 4975449336398991291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc66f29046f1ef90800000000000000
+      internalID: -6925983994715149068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28876db4221f72b60800000000000000
+      internalID: 7721405215753533570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0cbcbf473b1350800000000000000
+      internalID: 5988440945127591316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e77adb19c582070800000000000000
+      internalID: 8081811312338239034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 532
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8e122a46c3f3c60800000000000000
+      internalID: 7800019482543515883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 531
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e7c96fc1d29dc0800000000000000
+      internalID: -3633611260571426654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 531
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5de42d1b485dfa0800000000000000
+      internalID: -5776565047760333394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 531
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a5dcba2faee2f0800000000000000
+      internalID: -941622673982248931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710786c8148208d0800000000000000
+      internalID: -2881595569618878095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a09cbc68c1d85ba0800000000000000
+      internalID: -6099895036525375325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad879bd028eb79b0800000000000000
+      internalID: -5081212526736732755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f155ce740047330800000000000000
+      internalID: 3707588702140440428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32f7e84bb38a5700800000000000000
+      internalID: 529880746574737983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f379098e1ec87140800000000000000
+      internalID: 4717747240214033400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6633c6d26908d60800000000000000
+      internalID: 7890471668986111654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00e802cbc8f12b0800000000000000
+      internalID: -5611611871052431167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6dfd43144a32830800000000000000
+      internalID: 4045257490275751647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 467
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edc752e810f22ce0800000000000000
+      internalID: -1431317741883109916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e444f960a3dfd20800000000000000
+      internalID: 3313868700930821639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d2dce4c2d21eb40800000000000000
+      internalID: 5467701090928373020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6edf831cb7e69080800000000000000
+      internalID: -9180895995380113809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba2b36782422d910800000000000000
+      internalID: 1860589352258316979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d776fcf3067fd1610800000000000000
+      internalID: 1593701835918501757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95fe43275670d470800000000000000
+      internalID: 8417357820182066590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc3e2e549069a30800000000000000
+      internalID: 4221571896470391580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78017a177f16440800000000000000
+      internalID: 4927491534826276859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ea80f5e56125230800000000000000
+      internalID: 3625985244563811877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 403
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd260210cb52e60800000000000000
+      internalID: 7936956631334706300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33c67ff14024790800000000000000
+      internalID: -7547465490177969238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 339
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798e8d179cc45210800000000000000
+      internalID: 1320905540134406517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 339
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da426ef2d5fd3eb0800000000000000
+      internalID: -4738360946364101935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 339
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fb5d375903aadd0800000000000000
+      internalID: -2474111626835017909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 340
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea161cf1e99bdbc0800000000000000
+      internalID: -3757240268234548503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 340
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfc936e8dc598480800000000000000
+      internalID: -8896477502248464436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 340
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0133f11cfbcb618b0800000000000000
+      internalID: -5181746789478354160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 340
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f0e7ad1136b68b0800000000000000
+      internalID: -5157920019891482787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 340
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1280a97643fc710800000000000000
+      internalID: 1715647602621948400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 340
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efa0c177859a33d0800000000000000
+      internalID: -3226101774095962138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc87f8e6b78ee0b0800000000000000
+      internalID: -5697467258914763578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 276
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80498160b8e9b6320800000000000000
+      internalID: 2552307933775434760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 276
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f5710bd2971790800000000000000
+      internalID: -7559411980198087320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 276
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688b19ac8bc0750e0800000000000000
+      internalID: -2281340698427803514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 276
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aca278fe2664cd0800000000000000
+      internalID: -2574261356091225578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 276
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa3444a77a24f1c0800000000000000
+      internalID: -4470901836726650203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 277
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9428197153bca160800000000000000
+      internalID: 7038197480178590876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 277
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e993eeb7a9f783d0800000000000000
+      internalID: -3204318110993376798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 277
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d36d33add681640800000000000000
+      internalID: 5050907766035987719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 277
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd55d5299aadf50800000000000000
+      internalID: 6907019424622304418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 213
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8352c5645beb2cb70800000000000000
+      internalID: 8917899897925805368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 213
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6668fa6a2f4660860800000000000000
+      internalID: 7495789623146153574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 213
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b7d118907463c70800000000000000
+      internalID: 8950419415591910293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 213
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fda9607c2763f40800000000000000
+      internalID: 5707875776873553678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 213
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096bc918b72a7b6f0800000000000000
+      internalID: -668887368302020976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 214
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac26c351df18a9b0800000000000000
+      internalID: -5068766396691370836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 214
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39706c4524b3ec2c0800000000000000
+      internalID: -4409521829072992365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 214
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246bd7633e21c4a70800000000000000
+      internalID: 8812439337938302530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 214
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e8b6a0753c7050800000000000000
+      internalID: 5799569178096100488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 214
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab46f6a2235744d0800000000000000
+      internalID: -3150458006027220051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa12931f4b65aa70800000000000000
+      internalID: 8837587831159397025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5db37982b3b50800800000000000000
+      internalID: 578065706578591066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea68d7fb44bb6c40800000000000000
+      internalID: 5506693207764265705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104ee1c77eafdb70800000000000000
+      internalID: 8926044815849570322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0be2cbe01ab42c10800000000000000
+      internalID: 2027950314061228813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb3cc08a3a4c8a0800000000000000
+      internalID: -6285719237738381826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 150
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66992b04098887b0800000000000000
+      internalID: -5221773117475940757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 151
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433ffd3182e8fb310800000000000000
+      internalID: 1423012310055646004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 151
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7abb6c28254fbf00800000000000000
+      internalID: 1134701669966920317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 151
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992efc9a0c5ac350800000000000000
+      internalID: 6037739451096902039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 87
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d21b029ade04c10800000000000000
+      internalID: 2035888342225202565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 87
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79da8153a14ff810800000000000000
+      internalID: 1801230545675016573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 87
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77e2c3a468b32d40800000000000000
+      internalID: 5558489107489023866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 87
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d651d14c3cf82fe0800000000000000
+      internalID: -1213442763843873063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_0: 335980220614868002
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_1: 564318802411054744
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_10: -4362719729012094933
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_11: 4975449336398991291
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_12: -6925983994715149068
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_13: 7721405215753533570
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_14: 5988440945127591316
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_15: 8081811312338239034
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_16: 7800019482543515883
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_17: -3633611260571426654
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_18: -5776565047760333394
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_19: -941622673982248931
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_2: 3222780588485066873
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_20: -2881595569618878095
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_21: -6099895036525375325
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_22: -5081212526736732755
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_23: 3707588702140440428
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_24: 529880746574737983
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_25: 4717747240214033400
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_26: 7890471668986111654
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_27: -5611611871052431167
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_28: 4045257490275751647
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_29: -1431317741883109916
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_3: 9010323807958038124
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_30: 3313868700930821639
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_31: 5467701090928373020
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_32: -9180895995380113809
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_33: 1860589352258316979
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_34: 1593701835918501757
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_35: 8417357820182066590
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_36: 4221571896470391580
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_37: 4927491534826276859
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_38: 3625985244563811877
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_39: 7936956631334706300
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_4: -1785157161897655080
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_40: -7547465490177969238
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_41: 1320905540134406517
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_42: -4738360946364101935
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_43: -2474111626835017909
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_44: -3757240268234548503
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_45: -8896477502248464436
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_46: -5181746789478354160
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_47: -5157920019891482787
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_48: 1715647602621948400
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_49: -3226101774095962138
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_5: -5876204084961242347
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_50: -5697467258914763578
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_51: 2552307933775434760
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_52: -7559411980198087320
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_53: -2281340698427803514
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_54: -2574261356091225578
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_55: -4470901836726650203
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_56: 7038197480178590876
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_57: -3204318110993376798
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_58: 5050907766035987719
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_59: 6907019424622304418
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_6: -6490227656080583838
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_60: 8917899897925805368
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_61: 7495789623146153574
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_62: 8950419415591910293
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_63: 5707875776873553678
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_64: -668887368302020976
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_65: -5068766396691370836
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_66: -4409521829072992365
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_67: 8812439337938302530
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_68: 5799569178096100488
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_69: -3150458006027220051
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_7: -2681181216918159488
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_70: 8837587831159397025
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_71: 578065706578591066
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_72: 5506693207764265705
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_73: 8926044815849570322
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_74: 2027950314061228813
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_75: -6285719237738381826
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_76: -5221773117475940757
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_77: 1423012310055646004
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_78: 1134701669966920317
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_79: 6037739451096902039
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_8: -5661102916010390627
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_80: 2035888342225202565
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_81: 1801230545675016573
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_82: 5558489107489023866
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_83: -1213442763843873063
+      Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_9: 374035895974816957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

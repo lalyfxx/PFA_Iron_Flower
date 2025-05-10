@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: 66969bec5cd946242b7dc79e144b7776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1198170600188890216
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_0
+  - first:
+      213: 9149601651131774751
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_1
+  - first:
+      213: -2898914904805525201
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_2
+  - first:
+      213: -7891337553974810047
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_3
+  - first:
+      213: -4417576606119781976
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_4
+  - first:
+      213: 1473683905506154639
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_5
+  - first:
+      213: 3167039686659408220
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_6
+  - first:
+      213: 1405360406140624033
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_7
+  - first:
+      213: 3071982781103708181
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_8
+  - first:
+      213: 2253336413410785603
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_9
+  - first:
+      213: -8160685976324626097
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_10
+  - first:
+      213: -6540505105103753142
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_11
+  - first:
+      213: 8784109765203688326
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_12
+  - first:
+      213: 5274464883007030408
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_13
+  - first:
+      213: -2004372606639357766
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_14
+  - first:
+      213: 5009663640793785067
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_15
+  - first:
+      213: 1917460248686704561
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_16
+  - first:
+      213: 3215356437735628293
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_17
+  - first:
+      213: 1989206024054974533
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_18
+  - first:
+      213: 4179623253029574906
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_19
+  - first:
+      213: -5027044835909536326
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_20
+  - first:
+      213: 1356842558400668640
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_21
+  - first:
+      213: -4080619510789484845
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_22
+  - first:
+      213: 2244837276720434773
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_23
+  - first:
+      213: -2637820338632456056
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_24
+  - first:
+      213: -1417046777648614220
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_25
+  - first:
+      213: 939947636240065333
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_26
+  - first:
+      213: -7615660387603026550
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_27
+  - first:
+      213: -9135096473896721692
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_28
+  - first:
+      213: -1458210490469047289
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_29
+  - first:
+      213: 5548041918726906692
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_30
+  - first:
+      213: 5680764930608526731
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_31
+  - first:
+      213: -2594084677637673051
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_32
+  - first:
+      213: -2210452953950244293
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_33
+  - first:
+      213: -8776222174328127165
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_34
+  - first:
+      213: 4458586107450451639
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_35
+  - first:
+      213: 3314718462665306678
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_36
+  - first:
+      213: 4665534571402696202
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_37
+  - first:
+      213: 3263275076545026594
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_38
+  - first:
+      213: 3005221043481067808
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_39
+  - first:
+      213: 7758429704851082695
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_40
+  - first:
+      213: 2483634262593107755
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_41
+  - first:
+      213: 2497493385734782817
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_42
+  - first:
+      213: 7060412615015502434
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_43
+  - first:
+      213: 3472108698451527406
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_44
+  - first:
+      213: -818828750215925696
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_45
+  - first:
+      213: 5110589349593673861
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_46
+  - first:
+      213: 4769058534816536145
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_47
+  - first:
+      213: 4917994027546419903
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_48
+  - first:
+      213: -5015937298646774651
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_49
+  - first:
+      213: -6491723147565175099
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_50
+  - first:
+      213: 6514291209871493273
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_51
+  - first:
+      213: 7100477203538084720
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_52
+  - first:
+      213: -3950834859703087512
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_53
+  - first:
+      213: -3197641315046118314
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_54
+  - first:
+      213: -865555585652030411
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_55
+  - first:
+      213: 5605681419354888412
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_56
+  - first:
+      213: -5396325509675099348
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_57
+  - first:
+      213: -1405488674001243138
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_58
+  - first:
+      213: 3046754582160221859
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_59
+  - first:
+      213: -7048655906885543061
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_60
+  - first:
+      213: 7844147561781358965
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_61
+  - first:
+      213: 3589499312508670357
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_62
+  - first:
+      213: -3016013512636269218
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_63
+  - first:
+      213: 5611995797124273006
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_64
+  - first:
+      213: 1308947484739264949
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_65
+  - first:
+      213: 1994695801052256799
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_66
+  - first:
+      213: 7461667544670501110
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_67
+  - first:
+      213: 6899405149076318962
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_68
+  - first:
+      213: 7665450165223702627
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_69
+  - first:
+      213: 5835877376466936313
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_70
+  - first:
+      213: 8544557743845532488
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_71
+  - first:
+      213: 6198006281145919330
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_72
+  - first:
+      213: -5116275785249171458
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_73
+  - first:
+      213: -1809217451409702588
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_74
+  - first:
+      213: -23077841337184692
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_75
+  - first:
+      213: -3531852371989907986
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_76
+  - first:
+      213: 7747948439757981777
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_77
+  - first:
+      213: -8366053597000122881
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_78
+  - first:
+      213: -7639560183214529811
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_79
+  - first:
+      213: -713816904286372831
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_80
+  - first:
+      213: -4675209993168262552
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_81
+  - first:
+      213: -2136679269116471166
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_82
+  - first:
+      213: -8472278712029515015
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_83
+  - first:
+      213: 5483357157422173452
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_84
+  - first:
+      213: -849800857050324891
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_85
+  - first:
+      213: 2393716576760134629
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_86
+  - first:
+      213: 5163624875600620736
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_87
+  - first:
+      213: -7781786031090606538
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_88
+  - first:
+      213: 828964714314502758
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_89
+  - first:
+      213: -4139203438702559454
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_90
+  - first:
+      213: 1885442998109169591
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_91
+  - first:
+      213: 9086495219027705614
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_92
+  - first:
+      213: 5677722161011352020
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_93
+  - first:
+      213: 8300962695104915727
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_94
+  - first:
+      213: -2553213466618306560
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_95
+  - first:
+      213: -3533638599673117
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_96
+  - first:
+      213: 8263068679537723004
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_97
+  - first:
+      213: -944936644251226667
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_98
+  - first:
+      213: 423571414678355546
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_99
+  - first:
+      213: -8282053069068715609
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_100
+  - first:
+      213: 4640770543274475214
+    second: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1319
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c439c00d1c0a010800000000000000
+      internalID: 1198170600188890216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1319
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17790c993ae9fe70800000000000000
+      internalID: 9149601651131774751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1319
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f293bf0d04cf4c7d0800000000000000
+      internalID: -2898914904805525201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1319
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aa1a40e465c7290800000000000000
+      internalID: -7891337553974810047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a997286b7d91b2c0800000000000000
+      internalID: -4417576606119781976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8897e244b3937410800000000000000
+      internalID: 1473683905506154639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5106e8b0d593fb20800000000000000
+      internalID: 3167039686659408220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac196de7d7d08310800000000000000
+      internalID: 1405360406140624033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189dc73010e1aa20800000000000000
+      internalID: 3071982781103708181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497dc08785754f10800000000000000
+      internalID: 2253336413410785603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1319
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49a8a9775b6fbe80800000000000000
+      internalID: -8160685976324626097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4079ae82457b35a0800000000000000
+      internalID: -6540505105103753142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b710f8a4d67e970800000000000000
+      internalID: 8784109765203688326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88408e3add9a23940800000000000000
+      internalID: 5274464883007030408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ccbfdbb90f24e0800000000000000
+      internalID: -2004372606639357766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be224b9f986e58540800000000000000
+      internalID: 5009663640793785067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b737e1efef2c9a10800000000000000
+      internalID: 1917460248686704561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5f79f4ad3f9c20800000000000000
+      internalID: 3215356437735628293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1191
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5482dd0f6541b9b10800000000000000
+      internalID: 1989206024054974533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1191
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af85acb3431010a30800000000000000
+      internalID: 4179623253029574906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1191
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab576ad2b595c3ab0800000000000000
+      internalID: -5027044835909536326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1191
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3aa953e1974d210800000000000000
+      internalID: 1356842558400668640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de4ddbcc2abe57c0800000000000000
+      internalID: -4080619510789484845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e0a790c93472f10800000000000000
+      internalID: 2244837276720434773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880386b064946bd0800000000000000
+      internalID: -2637820338632456056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4742ca673a55ce0800000000000000
+      internalID: -1417046777648614220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_26
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ae85256d5b0d00800000000000000
+      internalID: 939947636240065333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_27
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d68ea1a3dbf4690800000000000000
+      internalID: -7615660387603026550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_28
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e26674282e993180800000000000000
+      internalID: -9135096473896721692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_29
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70428dbe84563cbe0800000000000000
+      internalID: -1458210490469047289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_30
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1063
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443a1b4faba9efc40800000000000000
+      internalID: 5548041918726906692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_31
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85fa6d3b9126de40800000000000000
+      internalID: 5680764930608526731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_32
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1063
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6f10dab5fffbd0800000000000000
+      internalID: -2594084677637673051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b323517ffb4e251e0800000000000000
+      internalID: -2210452953950244293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341044d4e68943680800000000000000
+      internalID: -8776222174328127165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6631f217410ed30800000000000000
+      internalID: 4458586107450451639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_36
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632389131ee300e20800000000000000
+      internalID: 3314718462665306678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0613cf39fe4fb040800000000000000
+      internalID: 4665534571402696202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a1add746b794d20800000000000000
+      internalID: 3263275076545026594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 935
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021c730ed90b4b920800000000000000
+      internalID: 3005221043481067808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_40
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 935
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdcc7ce5ba7bab60800000000000000
+      internalID: 7758429704851082695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_41
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27f9d5f334a77220800000000000000
+      internalID: 2483634262593107755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_42
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ffb958001e8a220800000000000000
+      internalID: 2497493385734782817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_43
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 935
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2629fad9ddf9bf160800000000000000
+      internalID: 7060412615015502434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee64fb817786f2030800000000000000
+      internalID: 3472108698451527406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b08b079fe2a4f0800000000000000
+      internalID: -818828750215925696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580fc67bfe57ce640800000000000000
+      internalID: 5110589349593673861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d8c848791f2240800000000000000
+      internalID: 4769058534816536145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_48
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2a56be289304440800000000000000
+      internalID: 4917994027546419903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_49
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cc68a3a9fc36ab0800000000000000
+      internalID: -5015937298646774651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_50
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce62312134c8e5a0800000000000000
+      internalID: -6491723147565175099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_51
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99807d75759676a50800000000000000
+      internalID: 6514291209871493273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_52
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 807
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07385ac8566f98260800000000000000
+      internalID: 7100477203538084720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_53
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 807
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eca25a0a0db29c0800000000000000
+      internalID: -3950834859703087512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_54
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 807
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c20917a22bf93d0800000000000000
+      internalID: -3197641315046118314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5340bdfd7cdecf3f0800000000000000
+      internalID: -865555585652030411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d7acfc816bcd40800000000000000
+      internalID: 5605681419354888412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bdf673a866c15b0800000000000000
+      internalID: -5396325509675099348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef332526f73be7ce0800000000000000
+      internalID: -1405488674001243138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_59
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6247b662f384a20800000000000000
+      internalID: 3046754582160221859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_60
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bd02e4cc42e2e90800000000000000
+      internalID: -7048655906885543061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_61
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57179b9b5a20cdc60800000000000000
+      internalID: 7844147561781358965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_62
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59196935b9670d130800000000000000
+      internalID: 3589499312508670357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_63
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d798590b7f426d0800000000000000
+      internalID: -3016013512636269218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_64
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63d390a170d1ed40800000000000000
+      internalID: 5611995797124273006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_65
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 679
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b166816dc05a2210800000000000000
+      internalID: 1308947484739264949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1adea043459eab10800000000000000
+      internalID: 1994695801052256799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f87528291b2d8760800000000000000
+      internalID: 7461667544670501110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae130bd6c9fbf50800000000000000
+      internalID: 6899405149076318962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_69
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 551
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604e9ddf46216a60800000000000000
+      internalID: 7665450165223702627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_70
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ec09dd833df050800000000000000
+      internalID: 5835877376466936313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_71
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843e9bc3ffd549670800000000000000
+      internalID: 8544557743845532488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_72
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a75fcfddb30650800000000000000
+      internalID: 6198006281145919330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_73
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75a4fc7465ff8b0800000000000000
+      internalID: -5116275785249171458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_74
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4418947405e54e6e0800000000000000
+      internalID: -1809217451409702588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_75
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e0ae853d20eaff0800000000000000
+      internalID: -23077841337184692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_76
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 551
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5bb60faf65cfec0800000000000000
+      internalID: -3531852371989907986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_77
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15801d93e0e368b60800000000000000
+      internalID: 7747948439757981777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_78
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdbdea249ec5eb80800000000000000
+      internalID: -8366053597000122881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_79
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2a74f4d74daf590800000000000000
+      internalID: -7639560183214529811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c7759be430816f0800000000000000
+      internalID: -713816904286372831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_81
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 423
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a69d218415e1fb0800000000000000
+      internalID: -4675209993168262552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_82
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 423
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2881f5d768df852e0800000000000000
+      internalID: -2136679269116471166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f27063466b6c6a80800000000000000
+      internalID: -8472278712029515015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_84
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d8eb8584cc81c40800000000000000
+      internalID: 5483357157422173452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_85
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56061b97f96e434f0800000000000000
+      internalID: -849800857050324891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_86
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb70ca4b80383120800000000000000
+      internalID: 2393716576760134629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_87
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 423
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccab8f5771e8a740800000000000000
+      internalID: 5163624875600620736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5fba95da810490800000000000000
+      internalID: -7781786031090606538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6629c000403118b00800000000000000
+      internalID: 828964714314502758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ffe0727689e86c0800000000000000
+      internalID: -4139203438702559454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 295
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b76b82da607a2a10800000000000000
+      internalID: 1885442998109169591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 295
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7e676247b91e70800000000000000
+      internalID: 9086495219027705614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_93
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e17c39325bce40800000000000000
+      internalID: 5677722161011352020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_94
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f096f7f3791f23370800000000000000
+      internalID: 8300962695104915727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_95
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000e87e21e9219cd0800000000000000
+      internalID: -2553213466618306560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_96
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea7086ac2273fff0800000000000000
+      internalID: -3533638599673117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_97
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7680863f215ca270800000000000000
+      internalID: 8263068679537723004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_98
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 295
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde728e029e2e2f0800000000000000
+      internalID: -944936644251226667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_99
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 167
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eb9ec15f3d0e500800000000000000
+      internalID: 423571414678355546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 167
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9b9372d9c301d80800000000000000
+      internalID: -8282053069068715609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_101
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 167
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eceb8f3a834576040800000000000000
+      internalID: 4640770543274475214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_0: 1198170600188890216
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_1: 9149601651131774751
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_10: -8160685976324626097
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_100: -8282053069068715609
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_101: 4640770543274475214
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_11: -6540505105103753142
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_12: 8784109765203688326
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_13: 5274464883007030408
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_14: -2004372606639357766
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_15: 5009663640793785067
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_16: 1917460248686704561
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_17: 3215356437735628293
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_18: 1989206024054974533
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_19: 4179623253029574906
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_2: -2898914904805525201
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_20: -5027044835909536326
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_21: 1356842558400668640
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_22: -4080619510789484845
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_23: 2244837276720434773
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_24: -2637820338632456056
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_25: -1417046777648614220
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_26: 939947636240065333
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_27: -7615660387603026550
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_28: -9135096473896721692
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_29: -1458210490469047289
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_3: -7891337553974810047
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_30: 5548041918726906692
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_31: 5680764930608526731
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_32: -2594084677637673051
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_33: -2210452953950244293
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_34: -8776222174328127165
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_35: 4458586107450451639
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_36: 3314718462665306678
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_37: 4665534571402696202
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_38: 3263275076545026594
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_39: 3005221043481067808
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_4: -4417576606119781976
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_40: 7758429704851082695
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_41: 2483634262593107755
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_42: 2497493385734782817
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_43: 7060412615015502434
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_44: 3472108698451527406
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_45: -818828750215925696
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_46: 5110589349593673861
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_47: 4769058534816536145
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_48: 4917994027546419903
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_49: -5015937298646774651
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_5: 1473683905506154639
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_50: -6491723147565175099
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_51: 6514291209871493273
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_52: 7100477203538084720
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_53: -3950834859703087512
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_54: -3197641315046118314
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_55: -865555585652030411
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_56: 5605681419354888412
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_57: -5396325509675099348
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_58: -1405488674001243138
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_59: 3046754582160221859
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_6: 3167039686659408220
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_60: -7048655906885543061
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_61: 7844147561781358965
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_62: 3589499312508670357
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_63: -3016013512636269218
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_64: 5611995797124273006
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_65: 1308947484739264949
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_66: 1994695801052256799
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_67: 7461667544670501110
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_68: 6899405149076318962
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_69: 7665450165223702627
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_7: 1405360406140624033
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_70: 5835877376466936313
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_71: 8544557743845532488
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_72: 6198006281145919330
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_73: -5116275785249171458
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_74: -1809217451409702588
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_75: -23077841337184692
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_76: -3531852371989907986
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_77: 7747948439757981777
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_78: -8366053597000122881
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_79: -7639560183214529811
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_8: 3071982781103708181
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_80: -713816904286372831
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_81: -4675209993168262552
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_82: -2136679269116471166
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_83: -8472278712029515015
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_84: 5483357157422173452
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_85: -849800857050324891
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_86: 2393716576760134629
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_87: 5163624875600620736
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_88: -7781786031090606538
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_89: 828964714314502758
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_9: 2253336413410785603
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_90: -4139203438702559454
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_91: 1885442998109169591
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_92: 9086495219027705614
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_93: 5677722161011352020
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_94: 8300962695104915727
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_95: -2553213466618306560
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_96: -3533638599673117
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_97: 8263068679537723004
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_98: -944936644251226667
+      Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_99: 423571414678355546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

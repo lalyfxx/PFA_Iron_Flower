@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 114c20de83fa2fd4aa9bc9b1393f50e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2501222993878497467
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_0
+  - first:
+      213: 3386388705212120671
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_1
+  - first:
+      213: -2824276719506634530
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_2
+  - first:
+      213: 5197826790433437888
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_3
+  - first:
+      213: 2984313750231201243
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_4
+  - first:
+      213: 8012138379555294464
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_5
+  - first:
+      213: -6797375023463583974
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_6
+  - first:
+      213: -3707707360826451817
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_7
+  - first:
+      213: 4042964430621878628
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_8
+  - first:
+      213: -6118567703973326409
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_9
+  - first:
+      213: -7073283338613955837
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_10
+  - first:
+      213: 8052773400810031046
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_11
+  - first:
+      213: 3729548787659195066
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_12
+  - first:
+      213: 3174114665420656801
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_13
+  - first:
+      213: -5360715111795032400
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_14
+  - first:
+      213: 845859586956077035
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_15
+  - first:
+      213: 8641355795206193597
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_16
+  - first:
+      213: 1903644872792824289
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_17
+  - first:
+      213: -1187500198992885212
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_18
+  - first:
+      213: 2134039364634467624
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_19
+  - first:
+      213: 4091790221465343388
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_20
+  - first:
+      213: 8505249884102790442
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_21
+  - first:
+      213: -3755533579573886206
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_22
+  - first:
+      213: 218830910424574416
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_23
+  - first:
+      213: -8968616659613571206
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_24
+  - first:
+      213: -2900835180479582502
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_25
+  - first:
+      213: 6032182308618187248
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_26
+  - first:
+      213: -3527183879537006403
+    second: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54745d960fed94dd0800000000000000
+      internalID: -2501222993878497467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e3095e59edefe20800000000000000
+      internalID: 3386388705212120671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8c66a89472ec8d0800000000000000
+      internalID: -2824276719506634530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83bc73de3622840800000000000000
+      internalID: 5197826790433437888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd538d45b896a6920800000000000000
+      internalID: 2984313750231201243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dcaa4f765d03f60800000000000000
+      internalID: 8012138379555294464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f27512e6fdaa1a0800000000000000
+      internalID: -6797375023463583974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 465
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79896d2bcc39b8cc0800000000000000
+      internalID: -3707707360826451817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a1c6aabe7b1830800000000000000
+      internalID: 4042964430621878628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b11e7e371b761ba0800000000000000
+      internalID: -6118567703973326409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303e9368746a6dd90800000000000000
+      internalID: -7073283338613955837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c70ffb1eb231cf60800000000000000
+      internalID: 8052773400810031046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab24ae4ccd402c330800000000000000
+      internalID: 3729548787659195066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a091c49878bc0c20800000000000000
+      internalID: 3174114665420656801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7363120aea95b0800000000000000
+      internalID: -5360715111795032400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 401
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7206210d81dbb00800000000000000
+      internalID: 845859586956077035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db14707df434ce770800000000000000
+      internalID: 8641355795206193597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e95f450dea1b6a10800000000000000
+      internalID: 1903644872792824289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ac2545cd6258fe0800000000000000
+      internalID: -1187500198992885212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ddcb9de71ad9d10800000000000000
+      internalID: 2134039364634467624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95dbd5f685f8c830800000000000000
+      internalID: 4091790221465343388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d01e3f4b7b80670800000000000000
+      internalID: 8505249884102790442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20382776b1aa1ebc0800000000000000
+      internalID: -3755533579573886206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 337
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96bb9bd81790300800000000000000
+      internalID: 218830910424574416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 273
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7725157aa2198380800000000000000
+      internalID: -8968616659613571206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 273
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeee8bc5c92eb7d0800000000000000
+      internalID: -2900835180479582502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 273
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1359d89dd96b350800000000000000
+      internalID: 6032182308618187248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 273
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db866ba03fcec0fc0800000000000000
+      internalID: -3527183879537006403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_0: -2501222993878497467
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_1: 3386388705212120671
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_10: -7073283338613955837
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_11: 8052773400810031046
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_12: 3729548787659195066
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_13: 3174114665420656801
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_14: -5360715111795032400
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_15: 845859586956077035
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_16: 8641355795206193597
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_17: 1903644872792824289
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_18: -1187500198992885212
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_19: 2134039364634467624
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_2: -2824276719506634530
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_20: 4091790221465343388
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_21: 8505249884102790442
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_22: -3755533579573886206
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_23: 218830910424574416
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_24: -8968616659613571206
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_25: -2900835180479582502
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_26: 6032182308618187248
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_27: -3527183879537006403
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_3: 5197826790433437888
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_4: 2984313750231201243
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_5: 8012138379555294464
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_6: -6797375023463583974
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_7: -3707707360826451817
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_8: 4042964430621878628
+      Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_9: -6118567703973326409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

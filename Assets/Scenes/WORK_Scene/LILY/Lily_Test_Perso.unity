@@ -628,9 +628,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1926959391}
   offset: {x: 1.5, y: -1.15, z: -10}
-  smoothTime: 1
-  minY: 1
-  maxY: 5
+  smoothTime: 0.3
+  minY: 0.9
+  maxY: 4
+  defaultZoom: 4.45
+  maxZoomOut: 8.65
+  zoomInSpeed: 2.5
+  zoomOutSpeed: 1.25
 --- !u!1 &645363526
 GameObject:
   m_ObjectHideFlags: 0
@@ -805,33 +809,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1037812304 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1515836104886501450, guid: 179350cac89091a46ac6a158720fca23, type: 3}
-  m_PrefabInstance: {fileID: 2226799243611434621}
-  m_PrefabAsset: {fileID: 0}
---- !u!95 &1037812310
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1037812304}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1763806315
 GameObject:
   m_ObjectHideFlags: 0
@@ -1158,10 +1135,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1515836104886501450, guid: 179350cac89091a46ac6a158720fca23, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1037812310}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 179350cac89091a46ac6a158720fca23, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7d34f1794548c0b4aaee10252f5ba5c8
+guid: 7da7fdc02b5e3804eb6b99de039f52f1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -702944849783947726
-    second: bouton_quit_0
+      213: -7604367102872968927
+    second: IMG_1177_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bouton_quit_0
+      name: IMG_1177_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 14
-        width: 64
-        height: 30
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23effeb2263ae36f0800000000000000
-      internalID: -702944849783947726
+      spriteID: 121279bd86cd77690800000000000000
+      internalID: -7604367102872968927
       vertices: []
       indices: 
       edges: []
@@ -148,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bouton_quit_0: -702944849783947726
+      IMG_1177_0: -7604367102872968927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

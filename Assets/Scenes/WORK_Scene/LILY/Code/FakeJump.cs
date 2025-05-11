@@ -2,19 +2,17 @@ using UnityEngine;
 
 public class FakeJump : MonoBehaviour
 {
+    public static bool IsGrounded { get; private set; } = false;
+
     public KeyCode key = KeyCode.Space;
     public float growSpeed = 2f;
     public float shrinkSpeed = 5f;
     public float maxYScale = 2f;
     public float minYScale = 1f;
     public float jumpForce = 5f;
-    private bool isGrounded = false;
 
     private Vector3 scale;
     private bool wasAboveMinY = false;
-
-
-    private float lastGroundedTime;
 
     private Rigidbody2D rbParent;
 
@@ -26,42 +24,40 @@ public class FakeJump : MonoBehaviour
 
     void Update()
     {
-    scale = transform.localScale;
+        scale = transform.localScale;
 
-    if (Input.GetKey(key))
-    {
-        scale.y += growSpeed * Time.deltaTime;
-        scale.y = Mathf.Min(scale.y, maxYScale);
-    }
-    else
-    {
-        scale.y -= shrinkSpeed * Time.deltaTime;
-
-        if (wasAboveMinY && scale.y <= minYScale + 0.01f && isGrounded)
+        if (Input.GetKey(key))
         {
-            Debug.Log("Saut !");
-            rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            wasAboveMinY = false;
+            scale.y += growSpeed * Time.deltaTime;
+            scale.y = Mathf.Min(scale.y, maxYScale);
+        }
+        else
+        {
+            scale.y -= shrinkSpeed * Time.deltaTime;
+
+            if (wasAboveMinY && scale.y <= minYScale + 0.01f && IsGrounded)
+            {
+                Debug.Log("Saut !");
+                rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+                wasAboveMinY = false;
+            }
+
+            scale.y = Mathf.Max(scale.y, minYScale);
         }
 
-        scale.y = Mathf.Max(scale.y, minYScale);
-    }
+        if (Input.GetKeyDown(key))
+        {
+            wasAboveMinY = true;
+        }
 
-    if (Input.GetKeyDown(key))
-    {
-        wasAboveMinY = true;
+        transform.localScale = scale;
     }
-
-    transform.localScale = scale;
-    }
-
 
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Ground"))
         {
-            Debug.Log("touche le sol");
-            lastGroundedTime = Time.time;
+            IsGrounded = true;
         }
     }
 
@@ -69,7 +65,7 @@ public class FakeJump : MonoBehaviour
     {
         if (collision.CompareTag("Ground"))
         {
-            Debug.Log("quitte le sol");
+            IsGrounded = false;
         }
     }
 }

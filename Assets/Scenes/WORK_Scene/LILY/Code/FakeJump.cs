@@ -79,7 +79,7 @@ public class FakeJump : MonoBehaviour
     void EvaluateCollision(ContactPoint2D pointHit)
     {
         Debug.Log(pointHit.normal.y);
-        if (pointHit.normal.y >= 0.9f)
+        if (pointHit.normal.y == 1)
         {
             IsGrounded = true;
         }

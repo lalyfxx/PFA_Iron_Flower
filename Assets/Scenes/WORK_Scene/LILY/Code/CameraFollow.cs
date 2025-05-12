@@ -2,14 +2,10 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    [Header("Target")]
     public Transform target;
-
-    [Header("Follow Offset")]
     public Vector3 offset = new Vector3(0, 5, -10);
     public float smoothTime = 0.2f;
 
-    [Header("Zoom")]
     public float defaultZoom = 5f;
     public float maxZoomOut = 8f;
     public float zoomInSpeed = 5f;
@@ -32,24 +28,30 @@ public class CameraFollow : MonoBehaviour
     {
         if (target == null) return;
 
-        // Smooth follow
+        // Suivi lissé
         Vector3 desiredPosition = target.position + offset;
         transform.position = Vector3.SmoothDamp(transform.position, desiredPosition, ref velocity, smoothTime);
 
-        // Get stretch factor from vertical scale
-        float stretchFactor = Mathf.Clamp01((target.localScale.y - 1f) / (2f - 1f));
-        float targetZoom = Mathf.Lerp(defaultZoom, maxZoomOut, stretchFactor);
-
-        // Detect landing using FakeJump.IsGrounded
         bool isGrounded = FakeJump.IsGrounded;
 
+        // Zoom-out seulement si en l'air
+        if (!isGrounded)
+        {
+            float stretchFactor = Mathf.Clamp01((target.localScale.y - 1f) / (2f - 1f));
+            float targetZoom = Mathf.Lerp(defaultZoom, maxZoomOut, stretchFactor);
+
+            if (targetZoom > cam.orthographicSize)
+                cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, targetZoom, Time.deltaTime * zoomOutSpeed);
+        }
+
+        // Atterrissage détecté
         if (isGrounded && !wasGrounded)
         {
             isZoomingToDefault = true;
             zoomTimer = groundZoomInDuration;
         }
 
-        // Zoom behavior
+        // Rezoom progressif
         if (isZoomingToDefault)
         {
             cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, defaultZoom, Time.deltaTime * zoomInSpeed);
@@ -57,12 +59,8 @@ public class CameraFollow : MonoBehaviour
             if (zoomTimer <= 0f || Mathf.Abs(cam.orthographicSize - defaultZoom) < 0.05f)
             {
                 isZoomingToDefault = false;
+                cam.orthographicSize = defaultZoom; // lock final
             }
-        }
-        else
-        {
-            float speed = (targetZoom > cam.orthographicSize) ? zoomOutSpeed : zoomInSpeed;
-            cam.orthographicSize = Mathf.Lerp(cam.orthographicSize, targetZoom, Time.deltaTime * speed);
         }
 
         wasGrounded = isGrounded;

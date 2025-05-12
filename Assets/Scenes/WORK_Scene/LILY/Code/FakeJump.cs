@@ -1,3 +1,4 @@
+using UnityEditor.Build;
 using UnityEngine;
 
 public class FakeJump : MonoBehaviour
@@ -34,12 +35,16 @@ public class FakeJump : MonoBehaviour
         else
         {
             scale.y -= shrinkSpeed * Time.deltaTime;
-
+            
             if (wasAboveMinY && scale.y <= minYScale + 0.01f && IsGrounded)
             {
                 Debug.Log("Saut !");
+                Vector3 currentVelocity = rbParent.linearVelocity;
+                currentVelocity.y = 0;
+                rbParent.linearVelocity = currentVelocity;
                 rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
                 wasAboveMinY = false;
+                IsGrounded = false;
             }
 
             scale.y = Mathf.Max(scale.y, minYScale);
@@ -53,19 +58,33 @@ public class FakeJump : MonoBehaviour
         transform.localScale = scale;
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    void OnCollisionEnter2D(Collision2D other)
     {
-        if (collision.CompareTag("Ground"))
+        foreach (var contact in other.contacts)
         {
-            IsGrounded = true;
+            EvaluateCollision(contact);
         }
     }
 
-    void OnTriggerExit2D(Collider2D collision)
+    
+
+    private void OnCollisionExit2D(Collision2D collision)
     {
-        if (collision.CompareTag("Ground"))
+        if (collision.gameObject.tag == "Ground")
         {
-            IsGrounded = false;
+            
         }
+    }
+
+    void EvaluateCollision(ContactPoint2D pointHit)
+    {
+        Debug.Log(pointHit.normal.y);
+        if (pointHit.normal.y == 1)
+        {
+            IsGrounded = true;
+        }
+
+          
+       
     }
 }

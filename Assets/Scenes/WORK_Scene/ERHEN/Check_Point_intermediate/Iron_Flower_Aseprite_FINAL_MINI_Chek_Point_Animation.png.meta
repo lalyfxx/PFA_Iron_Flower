@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5ebaa1676c4a8354fa630b9b2964f267
+guid: 560e1b3b94c1a3f4cadf4f1cb5291fb1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -667050374107587424
-    second: logo_v2_0
+      213: 7143180020364120059
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: logo_v2_0
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 40
-        width: 1013
-        height: 285
+        x: 0
+        y: 0
+        width: 1425
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ac960c08392eb6f0800000000000000
-      internalID: -667050374107587424
+      spriteID: bff8870e16ca12360800000000000000
+      internalID: 7143180020364120059
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      logo_v2_0: -667050374107587424
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_0: 7143180020364120059
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

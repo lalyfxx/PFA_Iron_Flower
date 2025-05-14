@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c8a70c7fce4825448bb90769e4bfbbaf
+guid: d9cfb9725916e89429adf796c2f85c7f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6334417274222300322
-    second: nuage_5_0
+      213: -2413005826189670379
+    second: haut_sky_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nuage_5_0
+      name: haut_sky_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 317
-        height: 187
+        x: 0
+        y: 0
+        width: 131
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ac4e1123fe58e750800000000000000
-      internalID: 6334417274222300322
+      spriteID: 51844095cf7438ed0800000000000000
+      internalID: -2413005826189670379
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nuage_5_0: 6334417274222300322
+      haut_sky_0: -2413005826189670379
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

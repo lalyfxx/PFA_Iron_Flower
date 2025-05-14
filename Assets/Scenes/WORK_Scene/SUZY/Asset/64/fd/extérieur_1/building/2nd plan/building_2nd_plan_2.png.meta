@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 176006b367de13e40870d043212568d1
+guid: 1885bf98d2782254e8c35cb2c2ad2966
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7911482353330071672
-    second: Nuage_1_0
-  - first:
-      213: -4589932179704116425
-    second: Nuage_1_1
-  - first:
-      213: 3359244885051498626
-    second: Nuage_1_2
+      213: -2383468794458626591
+    second: building_2nd_plan_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -81,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -106,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nuage_1_1
+      name: building_2nd_plan_2_0
       rect:
         serializedVersion: 2
-        x: 26
-        y: 6
-        width: 353
-        height: 72
+        x: 3
+        y: 0
+        width: 373
+        height: 419
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 73b0a9540094d40c0800000000000000
-      internalID: -4589932179704116425
+      spriteID: 1e5a01572c73ceed0800000000000000
+      internalID: -2383468794458626591
       vertices: []
       indices: 
       edges: []
@@ -131,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b8c369fc230f4ac45b5ab971be3a24f7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -141,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nuage_1_1: -4589932179704116425
+      building_2nd_plan_2_0: -2383468794458626591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

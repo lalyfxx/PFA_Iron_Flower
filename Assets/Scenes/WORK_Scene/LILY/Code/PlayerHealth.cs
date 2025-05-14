@@ -1,32 +1,36 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
     public int maxLives = 3;
     private int currentLives;
 
+    private PlayerUI playerUI;
+
     void Start()
     {
         currentLives = maxLives;
-        Debug.Log( "j'ai toutes mes vies" + currentLives );
-    }
-
-    public void TakeDamage(int amount)
-    {
-        currentLives -= amount;
-        Debug.Log("vies restantes" + currentLives);
-
-        if (currentLives <= 0)
+        playerUI = FindAnyObjectByType<PlayerUI>();
+        if (playerUI != null)
         {
-            Die();
+            playerUI.UpdateLives(currentLives);
         }
     }
 
-    void Die()
+    public void TakeDamage(int damage)
     {
-        Debug.Log("Game Over !");
-        Time.timeScale = 0f;
+        currentLives -= damage;
+        currentLives = Mathf.Max(0, currentLives);
+
+        if (playerUI != null)
+        {
+            playerUI.UpdateLives(currentLives);
+        }
+
+        if (currentLives <= 0)
+        {
+            Debug.Log("Game Over!");
+            Time.timeScale = 0f; // Arrête le temps
+        }
     }
 }
-

@@ -30,7 +30,7 @@ public class PlayerHealth : MonoBehaviour
         if (currentLives <= 0)
         {
             Debug.Log("Game Over!");
-            Time.timeScale = 0f; // Arrête le temps
+            Time.timeScale = 0f; 
         }
     }
 }

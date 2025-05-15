@@ -1,4 +1,4 @@
-//using UnityEditor.Build;
+
 using UnityEngine;
 
 public class FakeJump : MonoBehaviour
@@ -63,16 +63,6 @@ public class FakeJump : MonoBehaviour
         foreach (var contact in other.contacts)
         {
             EvaluateCollision(contact);
-        }
-    }
-
-    
-
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Ground")
-        {
-            
         }
     }
 

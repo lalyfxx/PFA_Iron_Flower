@@ -39,14 +39,5 @@ public class EnemyPatrol2 : MonoBehaviour
         }
     }
 
-    private void OnDrawGizmos()
-    {
-        if (pointA != null && pointB != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(pointA.transform.position, 0.3f);
-            Gizmos.DrawWireSphere(pointB.transform.position, 0.3f);
-            Gizmos.DrawLine(pointA.transform.position, pointB.transform.position);
-        }
-    }
+
 }

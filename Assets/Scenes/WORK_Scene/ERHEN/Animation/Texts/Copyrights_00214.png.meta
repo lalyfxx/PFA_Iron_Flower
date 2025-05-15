@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: d6cedd76eb6bf6b43ba5d15d9d8820e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7848948007280859509
+    second: Copyrights_00214_0
+  - first:
+      213: 3657263222812542405
+    second: Copyrights_00214_1
+  - first:
+      213: -6461642203279097781
+    second: Copyrights_00214_2
+  - first:
+      213: -5316456201488954078
+    second: Copyrights_00214_3
+  - first:
+      213: -6444955556982114849
+    second: Copyrights_00214_4
+  - first:
+      213: 5464294159125243718
+    second: Copyrights_00214_5
+  - first:
+      213: -1711954091099657320
+    second: Copyrights_00214_6
+  - first:
+      213: 5625001249753382095
+    second: Copyrights_00214_7
+  - first:
+      213: 7941291781623694777
+    second: Copyrights_00214_8
+  - first:
+      213: -2115565155003384147
+    second: Copyrights_00214_9
+  - first:
+      213: 4822092642252342041
+    second: Copyrights_00214_10
+  - first:
+      213: -1288107871980932873
+    second: Copyrights_00214_11
+  - first:
+      213: 9036109090325678164
+    second: Copyrights_00214_12
+  - first:
+      213: 9143810273100698824
+    second: Copyrights_00214_13
+  - first:
+      213: 4400677569318030710
+    second: Copyrights_00214_14
+  - first:
+      213: -6701562264740658365
+    second: Copyrights_00214_15
+  - first:
+      213: 3738381704810976248
+    second: Copyrights_00214_16
+  - first:
+      213: -7600927867202592332
+    second: Copyrights_00214_17
+  - first:
+      213: -5221072766358572381
+    second: Copyrights_00214_18
+  - first:
+      213: -8442236023928098395
+    second: Copyrights_00214_19
+  - first:
+      213: 7672005821787307561
+    second: Copyrights_00214_20
+  - first:
+      213: 4615310151857498050
+    second: Copyrights_00214_21
+  - first:
+      213: -7597399660808464934
+    second: Copyrights_00214_22
+  - first:
+      213: -6763750480302636959
+    second: Copyrights_00214_23
+  - first:
+      213: -3461694642283264633
+    second: Copyrights_00214_24
+  - first:
+      213: 5488123083711206917
+    second: Copyrights_00214_25
+  - first:
+      213: 3573529643473555225
+    second: Copyrights_00214_26
+  - first:
+      213: 818387750252085926
+    second: Copyrights_00214_27
+  - first:
+      213: -4629821051800088209
+    second: Copyrights_00214_28
+  - first:
+      213: -1217166591602888536
+    second: Copyrights_00214_29
+  - first:
+      213: -192567597354443342
+    second: Copyrights_00214_30
+  - first:
+      213: -1921800715459356948
+    second: Copyrights_00214_31
+  - first:
+      213: -1951521685033564277
+    second: Copyrights_00214_32
+  - first:
+      213: -1960295412059705782
+    second: Copyrights_00214_33
+  - first:
+      213: -1973807729900498088
+    second: Copyrights_00214_34
+  - first:
+      213: -8823400762086072794
+    second: Copyrights_00214_35
+  - first:
+      213: 3233743268407517651
+    second: Copyrights_00214_36
+  - first:
+      213: -3708686121410743128
+    second: Copyrights_00214_37
+  - first:
+      213: 4017764408560309553
+    second: Copyrights_00214_38
+  - first:
+      213: 3299139730533291215
+    second: Copyrights_00214_39
+  - first:
+      213: 466674642369831508
+    second: Copyrights_00214_40
+  - first:
+      213: -1149462746151083389
+    second: Copyrights_00214_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copyrights_00214_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1906
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a3857f5fe21390800000000000000
+      internalID: -7848948007280859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be52ea572f6d8ca4c813c43320d1d697
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Copyrights_00214_0: -7848948007280859509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

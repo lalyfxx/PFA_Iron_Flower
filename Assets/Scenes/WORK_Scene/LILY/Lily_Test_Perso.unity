@@ -1502,6 +1502,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 965967345743183410, guid: 179350cac89091a46ac6a158720fca23, type: 3}
+      propertyPath: jumpForce
+      value: 7.77
+      objectReference: {fileID: 0}
     - target: {fileID: 990297093417476885, guid: 179350cac89091a46ac6a158720fca23, type: 3}
       propertyPath: m_Name
       value: Player

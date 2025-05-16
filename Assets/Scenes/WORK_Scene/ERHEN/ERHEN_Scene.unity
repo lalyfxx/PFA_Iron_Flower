@@ -2553,7 +2553,7 @@ GameObject:
   - component: {fileID: 1835727425}
   - component: {fileID: 1835727427}
   m_Layer: 5
-  m_Name: img_textBottom
+  m_Name: img_text_press
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

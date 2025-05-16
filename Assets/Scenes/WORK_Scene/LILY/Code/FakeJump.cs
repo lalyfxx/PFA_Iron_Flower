@@ -1,4 +1,3 @@
-
 using UnityEngine;
 
 public class FakeJump : MonoBehaviour
@@ -35,7 +34,7 @@ public class FakeJump : MonoBehaviour
         else
         {
             scale.y -= shrinkSpeed * Time.deltaTime;
-            
+
             if (wasAboveMinY && scale.y <= minYScale + 0.01f && IsGrounded)
             {
                 Debug.Log("Saut !");
@@ -65,8 +64,8 @@ public class FakeJump : MonoBehaviour
             EvaluateCollision(contact);
         }
     }
-
-    void EvaluateCollision(ContactPoint2D pointHit)
+    
+        void EvaluateCollision(ContactPoint2D pointHit)
     {
         Debug.Log(pointHit.normal.y);
         if (pointHit.normal.y == 1)
@@ -74,7 +73,9 @@ public class FakeJump : MonoBehaviour
             IsGrounded = true;
         }
 
-          
-       
+
+
     }
 }
+
+

@@ -116,37 +116,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: building_3nd_plan_1_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 0
-        width: 50
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3bf321650bb8e190800000000000000
-      internalID: -7932885111834150085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: building_3nd_plan_1_1
       rect:
         serializedVersion: 2
-        x: 78
+        x: 6
         y: 0
-        width: 37
+        width: 109
         height: 145
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -163,7 +141,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4e9675a2f07f6384a82c0b6e948d2fd1
     internalID: 0
     vertices: []
     indices: 

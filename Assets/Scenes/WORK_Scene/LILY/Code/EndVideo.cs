@@ -24,7 +24,7 @@ public class EndVideo : MonoBehaviour
 
     void OnVideoEnd(VideoPlayer vp)
     {
-        SceneManager.LoadScene(sceneIndexToLoad);
+        SceneManager.LoadScene(1);
     }
 }
 

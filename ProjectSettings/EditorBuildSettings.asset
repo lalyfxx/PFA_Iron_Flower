@@ -29,6 +29,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WORK_Scene/NOEMY/NOEMY_LVL_2.unity
     guid: e740d8065049a124db4f805c6649917b
+  - enabled: 1
+    path: Assets/Scenes/WORK_Scene/ERHEN/Game_Over_Screen.unity
+    guid: 0c69d445cd96fba4fabf305508d5ac25
+  - enabled: 1
+    path: Assets/Scenes/WORK_Scene/ERHEN/Pause_Menu.unity
+    guid: f91571fc83d73d9409be200db1644be7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

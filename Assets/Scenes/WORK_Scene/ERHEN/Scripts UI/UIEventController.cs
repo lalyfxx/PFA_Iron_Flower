@@ -18,8 +18,6 @@ case 0 : uiAnimEventOne.Invoke(); break;
 case 1 : uiAnimEventTwo.Invoke(); break;
 case 2 : uiAnimEventThree.Invoke(); break;
 
-}
-         
+}  
     }
-
 }

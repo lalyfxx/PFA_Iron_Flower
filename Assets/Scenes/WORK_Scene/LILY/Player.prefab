@@ -117,7 +117,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!58 &6998395731757576967
 CircleCollider2D:
@@ -286,9 +286,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: 32
-  growSpeed: 25
-  shrinkSpeed: 150
-  maxYScale: 30
+  growSpeed: 30
+  shrinkSpeed: 250
+  maxYScale: 45
   minYScale: 1
   jumpForce: 8
 --- !u!95 &2875223775067061182

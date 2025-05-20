@@ -352,10 +352,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 597
-        width: 60
-        height: 21
+        x: 0
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 597
-        width: 60
-        height: 21
+        x: 64
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_2
       rect:
         serializedVersion: 2
-        x: 131
-        y: 597
-        width: 60
-        height: 21
+        x: 128
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_3
       rect:
         serializedVersion: 2
-        x: 195
-        y: 597
-        width: 60
-        height: 21
+        x: 192
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_4
       rect:
         serializedVersion: 2
-        x: 259
-        y: 597
-        width: 60
-        height: 21
+        x: 256
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_5
       rect:
         serializedVersion: 2
-        x: 323
-        y: 596
-        width: 60
-        height: 21
+        x: 320
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_6
       rect:
         serializedVersion: 2
-        x: 387
-        y: 596
-        width: 60
-        height: 21
+        x: 384
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_7
       rect:
         serializedVersion: 2
-        x: 451
-        y: 596
-        width: 60
-        height: 21
+        x: 448
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_8
       rect:
         serializedVersion: 2
-        x: 515
-        y: 596
-        width: 60
-        height: 21
+        x: 512
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,10 +550,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_9
       rect:
         serializedVersion: 2
-        x: 579
-        y: 596
-        width: 60
-        height: 21
+        x: 576
+        y: 576
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_10
       rect:
         serializedVersion: 2
-        x: 3
-        y: 532
-        width: 60
-        height: 21
+        x: 0
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_11
       rect:
         serializedVersion: 2
-        x: 67
-        y: 532
-        width: 60
-        height: 21
+        x: 64
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_12
       rect:
         serializedVersion: 2
-        x: 131
-        y: 532
-        width: 60
-        height: 21
+        x: 128
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_13
       rect:
         serializedVersion: 2
-        x: 195
-        y: 532
-        width: 60
-        height: 21
+        x: 192
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_14
       rect:
         serializedVersion: 2
-        x: 259
-        y: 532
-        width: 60
-        height: 21
+        x: 256
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_15
       rect:
         serializedVersion: 2
-        x: 323
-        y: 532
-        width: 60
-        height: 21
+        x: 320
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_16
       rect:
         serializedVersion: 2
-        x: 387
-        y: 532
-        width: 60
-        height: 21
+        x: 384
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,10 +726,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_17
       rect:
         serializedVersion: 2
-        x: 451
-        y: 531
-        width: 60
-        height: 21
+        x: 448
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,10 +748,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_18
       rect:
         serializedVersion: 2
-        x: 515
-        y: 531
-        width: 60
-        height: 21
+        x: 512
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,10 +770,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_19
       rect:
         serializedVersion: 2
-        x: 579
-        y: 531
-        width: 60
-        height: 21
+        x: 576
+        y: 512
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -792,10 +792,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_20
       rect:
         serializedVersion: 2
-        x: 3
-        y: 467
-        width: 60
-        height: 21
+        x: 0
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -814,10 +814,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_21
       rect:
         serializedVersion: 2
-        x: 67
-        y: 467
-        width: 60
-        height: 21
+        x: 64
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,10 +836,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_22
       rect:
         serializedVersion: 2
-        x: 131
-        y: 467
-        width: 60
-        height: 21
+        x: 128
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -858,10 +858,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_23
       rect:
         serializedVersion: 2
-        x: 195
-        y: 467
-        width: 60
-        height: 21
+        x: 192
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,10 +880,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_24
       rect:
         serializedVersion: 2
-        x: 259
-        y: 467
-        width: 60
-        height: 21
+        x: 256
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -902,10 +902,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_25
       rect:
         serializedVersion: 2
-        x: 323
-        y: 467
-        width: 60
-        height: 21
+        x: 320
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -924,10 +924,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_26
       rect:
         serializedVersion: 2
-        x: 387
-        y: 467
-        width: 60
-        height: 21
+        x: 384
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -946,10 +946,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_27
       rect:
         serializedVersion: 2
-        x: 451
-        y: 467
-        width: 60
-        height: 21
+        x: 448
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -968,10 +968,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_28
       rect:
         serializedVersion: 2
-        x: 515
-        y: 467
-        width: 60
-        height: 21
+        x: 512
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -990,10 +990,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_29
       rect:
         serializedVersion: 2
-        x: 579
-        y: 467
-        width: 60
-        height: 21
+        x: 576
+        y: 448
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1012,10 +1012,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_30
       rect:
         serializedVersion: 2
-        x: 3
-        y: 403
-        width: 60
-        height: 21
+        x: 0
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1034,10 +1034,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_31
       rect:
         serializedVersion: 2
-        x: 67
-        y: 403
-        width: 60
-        height: 21
+        x: 64
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,10 +1056,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_32
       rect:
         serializedVersion: 2
-        x: 131
-        y: 403
-        width: 60
-        height: 21
+        x: 128
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1078,10 +1078,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_33
       rect:
         serializedVersion: 2
-        x: 195
-        y: 403
-        width: 60
-        height: 21
+        x: 192
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1100,10 +1100,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_34
       rect:
         serializedVersion: 2
-        x: 259
-        y: 403
-        width: 60
-        height: 21
+        x: 256
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1122,10 +1122,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_35
       rect:
         serializedVersion: 2
-        x: 323
-        y: 403
-        width: 60
-        height: 21
+        x: 320
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1144,10 +1144,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_36
       rect:
         serializedVersion: 2
-        x: 387
-        y: 403
-        width: 60
-        height: 21
+        x: 384
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1166,10 +1166,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_37
       rect:
         serializedVersion: 2
-        x: 451
-        y: 403
-        width: 60
-        height: 21
+        x: 448
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1188,10 +1188,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_38
       rect:
         serializedVersion: 2
-        x: 515
-        y: 403
-        width: 60
-        height: 21
+        x: 512
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,10 +1210,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_39
       rect:
         serializedVersion: 2
-        x: 579
-        y: 403
-        width: 60
-        height: 21
+        x: 576
+        y: 384
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1232,10 +1232,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_40
       rect:
         serializedVersion: 2
-        x: 3
-        y: 339
-        width: 60
-        height: 21
+        x: 0
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1254,10 +1254,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_41
       rect:
         serializedVersion: 2
-        x: 67
-        y: 339
-        width: 60
-        height: 21
+        x: 64
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1276,10 +1276,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_42
       rect:
         serializedVersion: 2
-        x: 131
-        y: 339
-        width: 60
-        height: 21
+        x: 128
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1298,10 +1298,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_43
       rect:
         serializedVersion: 2
-        x: 195
-        y: 339
-        width: 60
-        height: 21
+        x: 192
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1320,10 +1320,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_44
       rect:
         serializedVersion: 2
-        x: 259
-        y: 340
-        width: 60
-        height: 21
+        x: 256
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1342,10 +1342,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_45
       rect:
         serializedVersion: 2
-        x: 323
-        y: 340
-        width: 60
-        height: 21
+        x: 320
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1364,10 +1364,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_46
       rect:
         serializedVersion: 2
-        x: 387
-        y: 340
-        width: 60
-        height: 21
+        x: 384
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1386,10 +1386,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_47
       rect:
         serializedVersion: 2
-        x: 451
-        y: 340
-        width: 60
-        height: 21
+        x: 448
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1408,10 +1408,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_48
       rect:
         serializedVersion: 2
-        x: 515
-        y: 340
-        width: 60
-        height: 21
+        x: 512
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1430,10 +1430,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_49
       rect:
         serializedVersion: 2
-        x: 579
-        y: 340
-        width: 60
-        height: 21
+        x: 576
+        y: 320
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1452,10 +1452,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_50
       rect:
         serializedVersion: 2
-        x: 3
-        y: 276
-        width: 60
-        height: 21
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1474,10 +1474,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_51
       rect:
         serializedVersion: 2
-        x: 67
-        y: 276
-        width: 60
-        height: 21
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1496,10 +1496,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_52
       rect:
         serializedVersion: 2
-        x: 131
-        y: 276
-        width: 60
-        height: 21
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,10 +1518,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_53
       rect:
         serializedVersion: 2
-        x: 195
-        y: 276
-        width: 60
-        height: 21
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1540,10 +1540,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_54
       rect:
         serializedVersion: 2
-        x: 259
-        y: 276
-        width: 60
-        height: 21
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_55
       rect:
         serializedVersion: 2
-        x: 323
-        y: 276
-        width: 60
-        height: 21
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1584,10 +1584,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_56
       rect:
         serializedVersion: 2
-        x: 387
-        y: 277
-        width: 60
-        height: 21
+        x: 384
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1606,10 +1606,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_57
       rect:
         serializedVersion: 2
-        x: 451
-        y: 277
-        width: 60
-        height: 21
+        x: 448
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1628,10 +1628,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_58
       rect:
         serializedVersion: 2
-        x: 515
-        y: 277
-        width: 60
-        height: 21
+        x: 512
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1650,10 +1650,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_59
       rect:
         serializedVersion: 2
-        x: 579
-        y: 277
-        width: 60
-        height: 21
+        x: 576
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1672,10 +1672,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_60
       rect:
         serializedVersion: 2
-        x: 3
-        y: 213
-        width: 60
-        height: 21
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1694,10 +1694,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_61
       rect:
         serializedVersion: 2
-        x: 67
-        y: 213
-        width: 60
-        height: 21
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1716,10 +1716,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_62
       rect:
         serializedVersion: 2
-        x: 131
-        y: 213
-        width: 60
-        height: 21
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1738,10 +1738,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_63
       rect:
         serializedVersion: 2
-        x: 195
-        y: 213
-        width: 60
-        height: 21
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1760,10 +1760,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_64
       rect:
         serializedVersion: 2
-        x: 259
-        y: 213
-        width: 60
-        height: 21
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1782,10 +1782,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_65
       rect:
         serializedVersion: 2
-        x: 323
-        y: 214
-        width: 60
-        height: 21
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,10 +1804,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_66
       rect:
         serializedVersion: 2
-        x: 387
-        y: 214
-        width: 60
-        height: 21
+        x: 384
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1826,10 +1826,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_67
       rect:
         serializedVersion: 2
-        x: 451
-        y: 214
-        width: 60
-        height: 21
+        x: 448
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1848,10 +1848,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_68
       rect:
         serializedVersion: 2
-        x: 515
-        y: 214
-        width: 60
-        height: 21
+        x: 512
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1870,10 +1870,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_69
       rect:
         serializedVersion: 2
-        x: 579
-        y: 214
-        width: 60
-        height: 21
+        x: 576
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1892,10 +1892,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_70
       rect:
         serializedVersion: 2
-        x: 3
-        y: 150
-        width: 60
-        height: 21
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1914,10 +1914,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_71
       rect:
         serializedVersion: 2
-        x: 67
-        y: 150
-        width: 60
-        height: 21
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1936,10 +1936,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_72
       rect:
         serializedVersion: 2
-        x: 131
-        y: 150
-        width: 60
-        height: 21
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1958,10 +1958,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_73
       rect:
         serializedVersion: 2
-        x: 195
-        y: 150
-        width: 60
-        height: 21
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,10 +1980,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_74
       rect:
         serializedVersion: 2
-        x: 259
-        y: 150
-        width: 60
-        height: 21
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2002,10 +2002,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_75
       rect:
         serializedVersion: 2
-        x: 323
-        y: 150
-        width: 60
-        height: 21
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,10 +2024,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_76
       rect:
         serializedVersion: 2
-        x: 387
-        y: 150
-        width: 60
-        height: 21
+        x: 384
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2046,10 +2046,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_77
       rect:
         serializedVersion: 2
-        x: 451
-        y: 151
-        width: 60
-        height: 21
+        x: 448
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2068,10 +2068,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_78
       rect:
         serializedVersion: 2
-        x: 515
-        y: 151
-        width: 60
-        height: 21
+        x: 512
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2090,10 +2090,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_79
       rect:
         serializedVersion: 2
-        x: 579
-        y: 151
-        width: 60
-        height: 21
+        x: 576
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2112,10 +2112,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_80
       rect:
         serializedVersion: 2
-        x: 3
-        y: 87
-        width: 60
-        height: 21
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2134,10 +2134,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_81
       rect:
         serializedVersion: 2
-        x: 67
-        y: 87
-        width: 60
-        height: 21
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2156,10 +2156,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_82
       rect:
         serializedVersion: 2
-        x: 131
-        y: 87
-        width: 60
-        height: 21
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2178,10 +2178,10 @@ TextureImporter:
       name: Iron_Flower_JUICEFX_FINAL_ToxicCloud_Red_Sprite_83
       rect:
         serializedVersion: 2
-        x: 195
-        y: 87
-        width: 60
-        height: 21
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2200,7 +2200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cf54789890da20c4ba24b946e244ac0d
     internalID: 0
     vertices: []
     indices: 

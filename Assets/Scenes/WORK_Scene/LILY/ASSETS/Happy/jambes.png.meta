@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2d9ba72f8c04a3a4f861003465effceb
+guid: 2494f639b7f04934f8e3535b12d35bf9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6812236915884147436
-    second: happytete_0
+      213: -8362235277321598972
+    second: jambes_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: happytete_0
+      name: jambes_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 4
-        width: 52
-        height: 56
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 11
+        y: 0
+        width: 27
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce2c319d16de98e50800000000000000
-      internalID: 6812236915884147436
+      spriteID: 408810ff15f53fb80800000000000000
+      internalID: -8362235277321598972
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 0b99cee6a72b5dc4c8149f8777a23a76
+    spriteID: 9cad4b0eac812d84dada1cb706c51624
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      happytete_0: 6812236915884147436
+      jambes_0: -8362235277321598972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

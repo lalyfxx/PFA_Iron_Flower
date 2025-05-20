@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 39a478e57d9f47343a0c32e64b27ed9f
+guid: ad8e28d4757dd7847a78955ef5dbe744
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -940982729714715750
-    second: happyjambes-export_0
+      213: -211522495094414185
+    second: tete_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 64
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 1024
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -113,45 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: happyjambes-export_0
+      name: tete_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 3
-        width: 25
-        height: 44
-      alignment: 2
-      pivot: {x: 0.5, y: 1}
+        x: 1
+        y: 0
+        width: 55
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a93b39f5135f0f2f0800000000000000
-      internalID: -940982729714715750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: happyjambes-export_1
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 3
-        width: 25
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d62a0bf615c4c84ebf8a0095584c281
-      internalID: 382222632
+      spriteID: 794a4e15965801df0800000000000000
+      internalID: -211522495094414185
       vertices: []
       indices: 
       edges: []
@@ -160,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7cc2b68bcd8dcbc449866701cddcab79
+    spriteID: ba18109a96d6aac42b1da25fd555794b
     internalID: 0
     vertices: []
     indices: 
@@ -170,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      happyjambes-export_0: -940982729714715750
-      happyjambes-export_1: 382222632
+      tete_0: -211522495094414185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

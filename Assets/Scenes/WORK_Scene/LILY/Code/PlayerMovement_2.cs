@@ -24,14 +24,12 @@ public class PlayerMovment_2 : MonoBehaviour
     {
         if (_horizontalMovement > 0.01f)
         {
-            // Face droite
             Vector3 scale = transform.localScale;
             scale.x = Mathf.Abs(scale.x);
             transform.localScale = scale;
         }
         else if (_horizontalMovement < -0.01f)
         {
-            // Face gauche
             Vector3 scale = transform.localScale;
             scale.x = -Mathf.Abs(scale.x);
             transform.localScale = scale;

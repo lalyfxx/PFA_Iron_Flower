@@ -5,6 +5,48 @@ TextureImporter:
   - first:
       213: 7143180020364120059
     second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_0
+  - first:
+      213: -2726990646667322532
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_1
+  - first:
+      213: -111373629069290361
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_2
+  - first:
+      213: 1291949623008938356
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_3
+  - first:
+      213: 7272696587320736058
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_4
+  - first:
+      213: 5309922820959125923
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_5
+  - first:
+      213: -3102215907450083804
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_6
+  - first:
+      213: 3923105869505375823
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_7
+  - first:
+      213: -2181639369647801343
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_8
+  - first:
+      213: 8437958319360739210
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_9
+  - first:
+      213: -248986206374690468
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_10
+  - first:
+      213: 520159096850740555
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_11
+  - first:
+      213: -1289035136440918303
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_12
+  - first:
+      213: -341170463542706587
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_13
+  - first:
+      213: 5128115306155371868
+    second: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_14
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -105,9 +147,9 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1425
-        height: 43
-      alignment: 0
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -121,11 +163,319 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bd49f7478c72ad0800000000000000
+      internalID: -2726990646667322532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7849af14642547ef0800000000000000
+      internalID: -111373629069290361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479c52b465dede110800000000000000
+      internalID: 1291949623008938356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39b276830fcde460800000000000000
+      internalID: 7272696587320736058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a142082ca2a0b940800000000000000
+      internalID: 5309922820959125923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4262fd38117b2f4d0800000000000000
+      internalID: -3102215907450083804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2e18b00ca17630800000000000000
+      internalID: 3923105869505375823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cb2285d8249b1e0800000000000000
+      internalID: -2181639369647801343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a878c0f9266a91570800000000000000
+      internalID: 8437958319360739210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51801f4d5c6b8cf0800000000000000
+      internalID: -248986206374690468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45f97251f9f73700800000000000000
+      internalID: 520159096850740555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee117d7f5d6c1ee0800000000000000
+      internalID: -1289035136440918303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7ea0654be34bf0800000000000000
+      internalID: -341170463542706587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d62a673b9ba2740800000000000000
+      internalID: 5128115306155371868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b4349f152c4ea3940b1898b0a7760137
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +486,20 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_0: 7143180020364120059
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_1: -2726990646667322532
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_10: -248986206374690468
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_11: 520159096850740555
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_12: -1289035136440918303
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_13: -341170463542706587
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_14: 5128115306155371868
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_2: -111373629069290361
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_3: 1291949623008938356
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_4: 7272696587320736058
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_5: 5309922820959125923
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_6: -3102215907450083804
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_7: 3923105869505375823
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_8: -2181639369647801343
+      Iron_Flower_Aseprite_FINAL_MINI_Chek_Point_Animation_9: 8437958319360739210
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

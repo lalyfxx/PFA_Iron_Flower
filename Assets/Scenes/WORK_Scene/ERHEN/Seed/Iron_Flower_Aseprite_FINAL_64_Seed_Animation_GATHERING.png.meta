@@ -184,11 +184,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -206,11 +206,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_1
       rect:
         serializedVersion: 2
-        x: 87
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -228,11 +228,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -250,11 +250,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_3
       rect:
         serializedVersion: 2
-        x: 215
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -272,11 +272,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_4
       rect:
         serializedVersion: 2
-        x: 279
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -294,11 +294,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_5
       rect:
         serializedVersion: 2
-        x: 343
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -316,11 +316,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_6
       rect:
         serializedVersion: 2
-        x: 407
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -338,11 +338,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_7
       rect:
         serializedVersion: 2
-        x: 471
-        y: 465
-        width: 15
-        height: 22
-      alignment: 0
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -360,11 +360,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_8
       rect:
         serializedVersion: 2
-        x: 23
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -382,11 +382,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_9
       rect:
         serializedVersion: 2
-        x: 87
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -404,11 +404,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_10
       rect:
         serializedVersion: 2
-        x: 151
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -426,11 +426,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_11
       rect:
         serializedVersion: 2
-        x: 215
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -448,11 +448,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_12
       rect:
         serializedVersion: 2
-        x: 279
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -470,11 +470,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_13
       rect:
         serializedVersion: 2
-        x: 343
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -492,11 +492,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_14
       rect:
         serializedVersion: 2
-        x: 407
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -514,11 +514,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_15
       rect:
         serializedVersion: 2
-        x: 471
-        y: 401
-        width: 15
-        height: 22
-      alignment: 0
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -536,11 +536,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_16
       rect:
         serializedVersion: 2
-        x: 23
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -558,11 +558,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_17
       rect:
         serializedVersion: 2
-        x: 87
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -580,11 +580,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_18
       rect:
         serializedVersion: 2
-        x: 151
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -602,11 +602,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_19
       rect:
         serializedVersion: 2
-        x: 215
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -624,11 +624,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_20
       rect:
         serializedVersion: 2
-        x: 279
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -646,11 +646,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_21
       rect:
         serializedVersion: 2
-        x: 343
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -668,11 +668,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_22
       rect:
         serializedVersion: 2
-        x: 407
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -690,11 +690,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_23
       rect:
         serializedVersion: 2
-        x: 471
-        y: 337
-        width: 15
-        height: 22
-      alignment: 0
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -712,11 +712,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_24
       rect:
         serializedVersion: 2
-        x: 23
-        y: 273
-        width: 15
-        height: 22
-      alignment: 0
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -734,11 +734,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_25
       rect:
         serializedVersion: 2
-        x: 87
-        y: 273
-        width: 15
-        height: 22
-      alignment: 0
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -756,11 +756,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_26
       rect:
         serializedVersion: 2
-        x: 151
-        y: 273
-        width: 15
-        height: 22
-      alignment: 0
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -778,11 +778,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_64_Seed_Animation_GATHERING_27
       rect:
         serializedVersion: 2
-        x: 215
-        y: 273
-        width: 15
-        height: 22
-      alignment: 0
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -800,7 +800,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5dffdaa545ba7544aa7f0d2c26ad66cd
     internalID: 0
     vertices: []
     indices: 

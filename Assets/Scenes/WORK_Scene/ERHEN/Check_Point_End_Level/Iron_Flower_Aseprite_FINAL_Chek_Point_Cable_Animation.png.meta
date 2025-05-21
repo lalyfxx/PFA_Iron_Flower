@@ -406,11 +406,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 1319
-        width: 77
-        height: 49
-      alignment: 0
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -428,11 +428,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_1
       rect:
         serializedVersion: 2
-        x: 159
-        y: 1319
-        width: 77
-        height: 49
-      alignment: 0
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -450,11 +450,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_2
       rect:
         serializedVersion: 2
-        x: 286
-        y: 1319
-        width: 78
-        height: 49
-      alignment: 0
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -472,11 +472,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_3
       rect:
         serializedVersion: 2
-        x: 414
-        y: 1319
-        width: 78
-        height: 49
-      alignment: 0
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -494,11 +494,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_4
       rect:
         serializedVersion: 2
-        x: 542
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -516,11 +516,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_5
       rect:
         serializedVersion: 2
-        x: 670
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -538,11 +538,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_6
       rect:
         serializedVersion: 2
-        x: 798
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -560,11 +560,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_7
       rect:
         serializedVersion: 2
-        x: 926
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 896
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -582,11 +582,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_8
       rect:
         serializedVersion: 2
-        x: 1054
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 1024
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -604,11 +604,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_9
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 1152
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -626,11 +626,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_10
       rect:
         serializedVersion: 2
-        x: 1310
-        y: 1319
-        width: 78
-        height: 61
-      alignment: 0
+        x: 1280
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -648,11 +648,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_11
       rect:
         serializedVersion: 2
-        x: 30
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -670,11 +670,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_12
       rect:
         serializedVersion: 2
-        x: 158
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -692,11 +692,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_13
       rect:
         serializedVersion: 2
-        x: 286
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -714,11 +714,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_14
       rect:
         serializedVersion: 2
-        x: 414
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -736,11 +736,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_15
       rect:
         serializedVersion: 2
-        x: 542
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -758,11 +758,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_16
       rect:
         serializedVersion: 2
-        x: 670
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -780,11 +780,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_17
       rect:
         serializedVersion: 2
-        x: 798
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -802,11 +802,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_18
       rect:
         serializedVersion: 2
-        x: 926
-        y: 1191
-        width: 78
-        height: 61
-      alignment: 0
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -824,11 +824,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_19
       rect:
         serializedVersion: 2
-        x: 1055
-        y: 1191
-        width: 77
-        height: 61
-      alignment: 0
+        x: 1024
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -846,11 +846,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_20
       rect:
         serializedVersion: 2
-        x: 1183
-        y: 1191
-        width: 77
-        height: 61
-      alignment: 0
+        x: 1152
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -868,11 +868,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_21
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 1191
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -890,11 +890,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_22
       rect:
         serializedVersion: 2
-        x: 31
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -912,11 +912,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_23
       rect:
         serializedVersion: 2
-        x: 159
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -934,11 +934,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_24
       rect:
         serializedVersion: 2
-        x: 287
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -956,11 +956,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_25
       rect:
         serializedVersion: 2
-        x: 415
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -978,11 +978,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_26
       rect:
         serializedVersion: 2
-        x: 543
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1000,11 +1000,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_27
       rect:
         serializedVersion: 2
-        x: 671
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1022,11 +1022,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_28
       rect:
         serializedVersion: 2
-        x: 799
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1044,11 +1044,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_29
       rect:
         serializedVersion: 2
-        x: 927
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1066,11 +1066,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_30
       rect:
         serializedVersion: 2
-        x: 1055
-        y: 1063
-        width: 66
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1088,11 +1088,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_31
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1110,11 +1110,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_32
       rect:
         serializedVersion: 2
-        x: 1312
-        y: 1063
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1132,11 +1132,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_33
       rect:
         serializedVersion: 2
-        x: 32
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1154,11 +1154,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_34
       rect:
         serializedVersion: 2
-        x: 160
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1176,11 +1176,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_35
       rect:
         serializedVersion: 2
-        x: 288
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1198,11 +1198,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_36
       rect:
         serializedVersion: 2
-        x: 416
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1220,11 +1220,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_37
       rect:
         serializedVersion: 2
-        x: 544
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1242,11 +1242,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_38
       rect:
         serializedVersion: 2
-        x: 672
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1264,11 +1264,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_39
       rect:
         serializedVersion: 2
-        x: 800
-        y: 935
-        width: 66
-        height: 49
-      alignment: 0
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1286,11 +1286,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_40
       rect:
         serializedVersion: 2
-        x: 928
-        y: 935
-        width: 66
-        height: 49
-      alignment: 0
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1308,11 +1308,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_41
       rect:
         serializedVersion: 2
-        x: 1057
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1330,11 +1330,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_42
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1352,11 +1352,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_43
       rect:
         serializedVersion: 2
-        x: 1313
-        y: 935
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1374,11 +1374,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_44
       rect:
         serializedVersion: 2
-        x: 33
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1396,11 +1396,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_45
       rect:
         serializedVersion: 2
-        x: 161
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1418,11 +1418,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_46
       rect:
         serializedVersion: 2
-        x: 289
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1440,11 +1440,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_47
       rect:
         serializedVersion: 2
-        x: 417
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1462,11 +1462,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_48
       rect:
         serializedVersion: 2
-        x: 545
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1484,11 +1484,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_49
       rect:
         serializedVersion: 2
-        x: 673
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1506,11 +1506,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_50
       rect:
         serializedVersion: 2
-        x: 801
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1528,11 +1528,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_51
       rect:
         serializedVersion: 2
-        x: 929
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1550,11 +1550,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_52
       rect:
         serializedVersion: 2
-        x: 1057
-        y: 807
-        width: 66
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1572,11 +1572,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_53
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 807
-        width: 66
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1594,11 +1594,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_54
       rect:
         serializedVersion: 2
-        x: 1314
-        y: 807
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1616,11 +1616,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_55
       rect:
         serializedVersion: 2
-        x: 34
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1638,11 +1638,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_56
       rect:
         serializedVersion: 2
-        x: 162
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1660,11 +1660,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_57
       rect:
         serializedVersion: 2
-        x: 290
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1682,11 +1682,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_58
       rect:
         serializedVersion: 2
-        x: 418
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1704,11 +1704,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_59
       rect:
         serializedVersion: 2
-        x: 546
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1726,11 +1726,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_60
       rect:
         serializedVersion: 2
-        x: 674
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1748,11 +1748,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_61
       rect:
         serializedVersion: 2
-        x: 802
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1770,11 +1770,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_62
       rect:
         serializedVersion: 2
-        x: 930
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1792,11 +1792,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_63
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1814,11 +1814,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_64
       rect:
         serializedVersion: 2
-        x: 1186
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1836,11 +1836,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_65
       rect:
         serializedVersion: 2
-        x: 1314
-        y: 679
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1858,11 +1858,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_66
       rect:
         serializedVersion: 2
-        x: 34
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1880,11 +1880,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_67
       rect:
         serializedVersion: 2
-        x: 162
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1902,11 +1902,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_68
       rect:
         serializedVersion: 2
-        x: 290
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1924,11 +1924,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_69
       rect:
         serializedVersion: 2
-        x: 418
-        y: 551
-        width: 64
-        height: 49
-      alignment: 0
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1946,11 +1946,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_70
       rect:
         serializedVersion: 2
-        x: 545
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1968,11 +1968,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_71
       rect:
         serializedVersion: 2
-        x: 673
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1990,11 +1990,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_72
       rect:
         serializedVersion: 2
-        x: 801
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2012,11 +2012,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_73
       rect:
         serializedVersion: 2
-        x: 929
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2034,11 +2034,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_74
       rect:
         serializedVersion: 2
-        x: 1057
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2056,11 +2056,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_75
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2078,11 +2078,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_76
       rect:
         serializedVersion: 2
-        x: 1313
-        y: 551
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2100,11 +2100,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_77
       rect:
         serializedVersion: 2
-        x: 33
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2122,11 +2122,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_78
       rect:
         serializedVersion: 2
-        x: 161
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2144,11 +2144,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_79
       rect:
         serializedVersion: 2
-        x: 289
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2166,11 +2166,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_80
       rect:
         serializedVersion: 2
-        x: 417
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2188,11 +2188,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_81
       rect:
         serializedVersion: 2
-        x: 545
-        y: 423
-        width: 64
-        height: 49
-      alignment: 0
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2210,11 +2210,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_82
       rect:
         serializedVersion: 2
-        x: 673
-        y: 423
-        width: 64
-        height: 49
-      alignment: 0
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2232,11 +2232,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_83
       rect:
         serializedVersion: 2
-        x: 800
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2254,11 +2254,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_84
       rect:
         serializedVersion: 2
-        x: 928
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2276,11 +2276,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_85
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2298,11 +2298,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_86
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2320,11 +2320,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_87
       rect:
         serializedVersion: 2
-        x: 1312
-        y: 423
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2342,11 +2342,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_88
       rect:
         serializedVersion: 2
-        x: 32
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2364,11 +2364,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_89
       rect:
         serializedVersion: 2
-        x: 160
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2386,11 +2386,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_90
       rect:
         serializedVersion: 2
-        x: 288
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2408,11 +2408,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_91
       rect:
         serializedVersion: 2
-        x: 416
-        y: 295
-        width: 64
-        height: 49
-      alignment: 0
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2430,11 +2430,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_92
       rect:
         serializedVersion: 2
-        x: 544
-        y: 295
-        width: 64
-        height: 49
-      alignment: 0
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2452,11 +2452,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_93
       rect:
         serializedVersion: 2
-        x: 671
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2474,11 +2474,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_94
       rect:
         serializedVersion: 2
-        x: 799
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2496,11 +2496,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_95
       rect:
         serializedVersion: 2
-        x: 927
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2518,11 +2518,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_96
       rect:
         serializedVersion: 2
-        x: 1055
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2540,11 +2540,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_97
       rect:
         serializedVersion: 2
-        x: 1183
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2562,11 +2562,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_98
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 295
-        width: 65
-        height: 49
-      alignment: 0
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2584,11 +2584,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_99
       rect:
         serializedVersion: 2
-        x: 31
-        y: 167
-        width: 65
-        height: 49
-      alignment: 0
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2606,11 +2606,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_100
       rect:
         serializedVersion: 2
-        x: 159
-        y: 167
-        width: 65
-        height: 49
-      alignment: 0
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2628,11 +2628,11 @@ TextureImporter:
       name: Iron_Flower_Aseprite_FINAL_Chek_Point_Cable_Animation_101
       rect:
         serializedVersion: 2
-        x: 287
-        y: 167
-        width: 65
-        height: 49
-      alignment: 0
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -2650,7 +2650,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: db3329bd6e17f4f4da3b0c4fd6a515f6
     internalID: 0
     vertices: []
     indices: 

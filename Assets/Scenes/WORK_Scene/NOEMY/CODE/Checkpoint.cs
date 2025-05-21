@@ -6,7 +6,7 @@ public class Checkpoint : MonoBehaviour
  
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.attachedRigidbody.CompareTag("Player"))
         {
             RespawnController.Instance.respawnPoint = transform;
             trigger.enabled = false;

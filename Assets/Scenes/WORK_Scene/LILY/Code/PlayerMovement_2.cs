@@ -18,6 +18,8 @@ public class PlayerMovment_2 : MonoBehaviour
     {
         Vector2 targetVelocity = new Vector2(_horizontalMovement, rb.linearVelocity.y);
         rb.linearVelocity = Vector2.SmoothDamp(rb.linearVelocity, targetVelocity, ref velocity, 0.05f);
+
+
     }
 
     void FlipCharacter(float _horizontalMovement)

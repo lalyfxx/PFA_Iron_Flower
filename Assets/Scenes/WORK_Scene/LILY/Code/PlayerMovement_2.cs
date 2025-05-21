@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerMovment_2 : MonoBehaviour
@@ -6,12 +7,15 @@ public class PlayerMovment_2 : MonoBehaviour
 
     public Rigidbody2D rb;
     private Vector2 velocity = Vector2.zero;
+    public Animator animator;
 
     void FixedUpdate()
     {
         float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed;
         MovePlayer(horizontalMovement);
         FlipCharacter(horizontalMovement);
+        animator.SetFloat("speed", Math.Abs(horizontalMovement));
+
     }
 
     void MovePlayer(float _horizontalMovement)

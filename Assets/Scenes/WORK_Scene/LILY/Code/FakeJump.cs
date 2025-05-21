@@ -10,6 +10,7 @@ public class FakeJump : MonoBehaviour
     public float maxYScale = 2f;
     public float minYScale = 1f;
     public float jumpForce = 5f;
+    public Animator animator;
 
     private Vector3 scale;
     private bool wasAboveMinY = false;

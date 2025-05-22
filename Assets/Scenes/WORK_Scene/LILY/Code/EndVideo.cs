@@ -4,8 +4,8 @@ using UnityEngine.Video;
 
 public class EndVideo : MonoBehaviour
 {
-    public int sceneIndexToLoad = 2; 
     private VideoPlayer videoPlayer;
+    private bool hasEnded = false;
 
     void Start()
     {
@@ -13,7 +13,6 @@ public class EndVideo : MonoBehaviour
 
         if (videoPlayer != null)
         {
-            
             videoPlayer.loopPointReached += OnVideoEnd;
         }
         else
@@ -22,10 +21,22 @@ public class EndVideo : MonoBehaviour
         }
     }
 
+    void Update()
+    {
+        if (!hasEnded && (Input.anyKeyDown || Input.GetMouseButtonDown(0)))
+        {
+            LoadScene();
+        }
+    }
+
     void OnVideoEnd(VideoPlayer vp)
     {
+        LoadScene();
+    }
+
+    void LoadScene()
+    {
+        hasEnded = true;
         SceneManager.LoadScene(1);
-        
     }
 }
-

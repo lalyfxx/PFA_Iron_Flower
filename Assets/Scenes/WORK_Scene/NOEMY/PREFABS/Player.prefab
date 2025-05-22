@@ -170,6 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 8
   rb: {fileID: 8792295213236396171}
+  animator: {fileID: 317852488600916888}
 --- !u!114 &8377087214956994684
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -216,6 +217,7 @@ GameObject:
   - component: {fileID: 5819043865148467395}
   - component: {fileID: 4898060632510144422}
   - component: {fileID: 7107103462921043286}
+  - component: {fileID: 7684622095977639911}
   - component: {fileID: 4713928145554928008}
   - component: {fileID: 3084077209303891491}
   - component: {fileID: 2376066475176121976}
@@ -314,6 +316,20 @@ MonoBehaviour:
   maxYScale: 40
   minYScale: 1
   jumpForce: 8
+  animator: {fileID: 0}
+--- !u!114 &7684622095977639911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9049285594673115907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35673ba364486b248930a68938a4602a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 4713928145554928008}
 --- !u!95 &4713928145554928008
 Animator:
   serializedVersion: 7

@@ -3,7 +3,9 @@ using UnityEngine;
 public class CameraPlaceTrigger : MonoBehaviour
 {
     public int zoomPriority = 0;
-    public float zoom = 5f;
+
+    public Vector3 offset = new Vector3(0, 5, -10);
+
 
     void OnTriggerEnter2D(Collider2D collision)
     {

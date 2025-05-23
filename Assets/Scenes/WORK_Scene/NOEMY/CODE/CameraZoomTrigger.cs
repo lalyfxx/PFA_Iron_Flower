@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CameraZoomTrigger : MonoBehaviour
+public class CameraPlaceTrigger : MonoBehaviour
 {
     public int zoomPriority = 0;
     public float zoom = 5f;

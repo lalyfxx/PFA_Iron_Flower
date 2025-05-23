@@ -10,16 +10,16 @@ public class CameraFollow2 : MonoBehaviour
     public float smoothSpeed = 5f;
     public float targetZoom = 5f;
 
-    public HashSet<CameraZoomTrigger> triggerBoxes = new();
+    public HashSet<CameraPlaceTrigger> triggerBoxes = new();
 
     new Camera camera;
 
-    public void RegisterTrigger(CameraZoomTrigger triggerBox)
+    public void RegisterTrigger(CameraPlaceTrigger triggerBox)
     {
         triggerBoxes.Add(triggerBox);
     }
 
-    public void UnregisterTrigger(CameraZoomTrigger triggerBox)
+    public void UnregisterTrigger(CameraPlaceTrigger triggerBox)
     {
         triggerBoxes.Remove(triggerBox);
     }

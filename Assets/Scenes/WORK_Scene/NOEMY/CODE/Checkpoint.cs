@@ -12,6 +12,7 @@ public class Checkpoint : MonoBehaviour
             Debug.Log("Hello");
             RespawnController.Instance.respawnPoint = transform;
             trigger.enabled = false;
+            FindAnyObjectByType<PlayerUI>().lastCheckpointPos = transform.position;
         }
 
         if (collision.attachedRigidbody.CompareTag("Player"))

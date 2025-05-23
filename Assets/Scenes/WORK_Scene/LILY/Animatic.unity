@@ -145,7 +145,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851967229}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 1fbb866a19eb0ca499aa68556157abe3, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 096feba91738c2a40967d7566e304ac9, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 1983936613}
@@ -200,7 +200,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c320bde603368eb4cbdd1e37baf22de6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneIndexToLoad: 1
 --- !u!1 &1983936611
 GameObject:
   m_ObjectHideFlags: 0
@@ -237,8 +236,8 @@ Camera:
   m_GameObject: {fileID: 1983936611}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0

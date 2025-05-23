@@ -29,14 +29,14 @@ public class CameraFollow2 : MonoBehaviour
         camera = GetComponent<Camera>();
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (target != null)
-    {
-        Vector3 desiredPosition = target.position + offset;
-        Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
-        transform.position = smoothedPosition;
-    }
+        {
+            Vector3 desiredPosition = target.position + offset;
+            Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
+            transform.position = smoothedPosition;
+        }
 
         var currentTriggerBox = triggerBoxes
             .OrderBy(t => t.zoomPriority)

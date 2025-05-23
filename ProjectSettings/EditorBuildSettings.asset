@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/WORK_Scene/ERHEN/Title_Screen.unity
     guid: acf0ef40ed7d18b4abe25df726069cb8
   - enabled: 1
+    path: Assets/Scenes/WORK_Scene/NOEMY/NOEMY_INTRO.unity
+    guid: a9af19f442d7d8b4790500780a929351
+  - enabled: 1
     path: Assets/Scenes/WORK_Scene/NOEMY/NOEMY_LVL_1.unity
     guid: 52eaec5317456e0429a8f09f226ed6a1
   - enabled: 1

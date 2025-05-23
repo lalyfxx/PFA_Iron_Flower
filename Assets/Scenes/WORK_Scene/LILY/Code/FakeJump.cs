@@ -3,6 +3,7 @@ using UnityEngine;
 public class FakeJump : MonoBehaviour
 {
     public static bool IsGrounded { get; private set; } = false;
+    public ParticleSystem dust;
 
     public KeyCode key = KeyCode.Space;
     public float growSpeed = 2f;
@@ -65,15 +66,20 @@ public class FakeJump : MonoBehaviour
             EvaluateCollision(contact);
         }
     }
-    
-        void EvaluateCollision(ContactPoint2D pointHit)
+
+    void EvaluateCollision(ContactPoint2D pointHit)
     {
+        CreateDust(); 
         Debug.Log(pointHit.normal.y);
         if (pointHit.normal.y == 1)
         {
             IsGrounded = true;
         }
 
+    void CreateDust(){
+
+        dust.Play();
+    }
 
 
     }

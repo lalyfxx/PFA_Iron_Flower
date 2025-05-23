@@ -28,6 +28,7 @@ public class PlayerMovment_2 : MonoBehaviour
 
     void FlipCharacter(float _horizontalMovement)
     {
+
         if (_horizontalMovement > 0.01f)
         {
             Vector3 scale = transform.localScale;
@@ -41,4 +42,5 @@ public class PlayerMovment_2 : MonoBehaviour
             transform.localScale = scale;
         }
     }
+
 }

@@ -19,7 +19,7 @@ public class PlayerJump : MonoBehaviour
         TryGetComponent(out Rigidbody2D);
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         if (Input.GetKey(KeyCode.Space))
         {

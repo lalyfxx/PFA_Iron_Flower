@@ -109,7 +109,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 3
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c49683298a9c4754b86cd4a7ffa227c3, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -310,10 +310,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16c51e057fbcddd4494bb983583ec6dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dust: {fileID: 0}
   key: 32
   growSpeed: 30
   shrinkSpeed: 250
-  maxYScale: 40
+  maxYScale: 35
   minYScale: 1
   jumpForce: 8
   animator: {fileID: 0}

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -31,6 +32,7 @@ public class PlayerHealth : MonoBehaviour
         {
             Debug.Log("Game Over!");
             Time.timeScale = 0f; 
+            SceneManager.LoadScene(5);
         }
     }
 }

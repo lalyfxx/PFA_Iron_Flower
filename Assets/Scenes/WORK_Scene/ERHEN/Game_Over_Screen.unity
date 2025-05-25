@@ -904,6 +904,7 @@ GameObject:
   - component: {fileID: 922668719}
   - component: {fileID: 922668718}
   - component: {fileID: 922668721}
+  - component: {fileID: 922668722}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1029,6 +1030,18 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+--- !u!114 &922668722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 922668717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa2fb168f3dde24cb9fc148b397cac4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1232071171
 GameObject:
   m_ObjectHideFlags: 0
@@ -1137,6 +1150,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: camille
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 922668722}
+        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
+        m_MethodName: PlayGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1232071174
@@ -1832,6 +1857,18 @@ MonoBehaviour:
           m_StringArgument: camille
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 922668722}
+        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
+        m_MethodName: Main
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1659061364
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2085,6 +2122,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: camille
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 922668722}
+        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1911168258

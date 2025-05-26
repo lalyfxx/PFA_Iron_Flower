@@ -3,6 +3,9 @@ using UnityEngine;
 public class DamageOnContact : MonoBehaviour
 {
     public ParticleSystem particle;
+    
+    public AudioClip damageSound;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.attachedRigidbody.CompareTag("Player"))

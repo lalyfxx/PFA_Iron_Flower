@@ -3,6 +3,9 @@ using UnityEngine;
 public class DamageOnContact : MonoBehaviour
 {
     public ParticleSystem particle;
+    
+    public AudioClip damageSound;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -13,7 +16,7 @@ public class DamageOnContact : MonoBehaviour
                 health.TakeDamage(1);
             }
         }
-        CreateDust(); 
+        CreateDust();
     }
 
     void CreateDust()

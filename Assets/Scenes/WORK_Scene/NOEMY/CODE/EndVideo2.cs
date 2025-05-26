@@ -5,12 +5,20 @@ using UnityEngine.Video;
 
 public class EndVideo2 : MonoBehaviour
 {
+    public GameObject splashToHide;
+
     private VideoPlayer videoPlayer;
     private bool hasEnded = false;
 
     void Start()
     {
         videoPlayer = GetComponent<VideoPlayer>();
+
+        videoPlayer.started += (vp) =>
+        {
+            if (splashToHide != null)
+                splashToHide.SetActive(false);
+        };
 
         if (videoPlayer != null)
         {

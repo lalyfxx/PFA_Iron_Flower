@@ -10,11 +10,11 @@ public class PlayerUI : MonoBehaviour
     void Awake()
     {
         player = FindAnyObjectByType<PlayerMovment_2>();
-    } 
+    }
     public void UpdateLives(int lives)
     {
         livesText.text = "Vies : " + lives.ToString();
-        player.transform.position = lastCheckpointPos;
+        //player.transform.position = lastCheckpointPos;
     }
 
     public int GetCurrentLives()

@@ -7,6 +7,8 @@ public class Coin : MonoBehaviour
 
     private CoinManager coinManager;
 
+    public AudioSource coinSoundPrefab; 
+
     private void Start()
     {
         coinManager = CoinManager.instance;
@@ -17,8 +19,16 @@ public class Coin : MonoBehaviour
         if (collision.attachedRigidbody.CompareTag("Player") && !hasTriggered)
         {
             hasTriggered = true;
+
+            if (coinSoundPrefab != null)
+            {
+                AudioSource soundInstance = Instantiate(coinSoundPrefab, transform.position, Quaternion.identity);
+                soundInstance.Play();
+                Destroy(soundInstance.gameObject, soundInstance.clip.length);
+            }
+
             coinManager.ChangeCoins(value);
-            Destroy(gameObject);
+            Destroy(gameObject); 
         }
     }
 }

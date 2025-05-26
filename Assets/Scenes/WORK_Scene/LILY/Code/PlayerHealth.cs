@@ -1,5 +1,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -31,8 +34,21 @@ public class PlayerHealth : MonoBehaviour
         if (currentLives <= 0)
         {
             Debug.Log("Game Over!");
-            Time.timeScale = 0f; 
             SceneManager.LoadScene(5);
         }
     }
+
+#if UNITY_EDITOR
+    [CustomEditor(typeof(PlayerHealth))]
+    class MyEditor : Editor
+    {
+        public override void OnInspectorGUI()
+        {
+            base.OnInspectorGUI();
+
+            if (GUILayout.Button("KIIIILL!!!"))
+                (target as PlayerHealth).TakeDamage(10000);
+        }
+    }
+#endif
 }

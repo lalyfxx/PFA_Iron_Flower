@@ -15,6 +15,7 @@ public class RespawnController : MonoBehaviour
     {
         if (collision.attachedRigidbody.CompareTag("Player"))
         {
+            collision.attachedRigidbody.GetComponent<PlayerHealth>().TakeDamage(1);
             collision.attachedRigidbody.transform.position = respawnPoint.position;
         }
     }

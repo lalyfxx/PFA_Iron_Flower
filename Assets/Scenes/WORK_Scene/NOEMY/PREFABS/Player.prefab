@@ -318,6 +318,10 @@ MonoBehaviour:
   minYScale: 1
   jumpForce: 8
   animator: {fileID: 0}
+  layerCeil:
+    serializedVersion: 2
+    m_Bits: 64
+  raycastCeilDistance: 0.8
 --- !u!114 &7684622095977639911
 MonoBehaviour:
   m_ObjectHideFlags: 0

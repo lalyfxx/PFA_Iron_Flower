@@ -11,6 +11,8 @@ public class PlayerHealth : MonoBehaviour
 
     private PlayerUI playerUI;
 
+    public Animator animator;
+
     void Start()
     {
         currentLives = maxLives;
@@ -19,6 +21,7 @@ public class PlayerHealth : MonoBehaviour
         {
             playerUI.UpdateLives(currentLives);
         }
+        animator.SetInteger("currentLives", currentLives);
     }
 
     public void TakeDamage(int damage)
@@ -36,6 +39,11 @@ public class PlayerHealth : MonoBehaviour
             Debug.Log("Game Over!");
             SceneManager.LoadScene(5);
         }
+
+        animator.SetInteger("currentLives", currentLives);
+
+
+
     }
 
 #if UNITY_EDITOR

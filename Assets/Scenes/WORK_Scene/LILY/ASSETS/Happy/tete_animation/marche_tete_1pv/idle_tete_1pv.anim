@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: idle_tete
+  m_Name: idle_tete_1pv
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,7 +21,7 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 5595110437238782522, guid: 537934fe117d2de40914a9011982144f, type: 3}
+      value: {fileID: 3672391596404090413, guid: e570e6a83ad949f42ba157594e985cec, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -44,7 +44,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: 5595110437238782522, guid: 537934fe117d2de40914a9011982144f, type: 3}
+    - {fileID: 3672391596404090413, guid: e570e6a83ad949f42ba157594e985cec, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

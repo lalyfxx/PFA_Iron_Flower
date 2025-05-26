@@ -9,6 +9,8 @@ public class PlayerMovment_2 : MonoBehaviour
     private Vector2 velocity = Vector2.zero;
     public Animator animator;
 
+    public ParticleSystem dust_run;
+
     void FixedUpdate()
     {
         float horizontalMovement = Input.GetAxis("Horizontal") * moveSpeed;
@@ -22,8 +24,6 @@ public class PlayerMovment_2 : MonoBehaviour
     {
         Vector2 targetVelocity = new Vector2(_horizontalMovement, rb.linearVelocity.y);
         rb.linearVelocity = Vector2.SmoothDamp(rb.linearVelocity, targetVelocity, ref velocity, 0.05f);
-
-
     }
 
     void FlipCharacter(float _horizontalMovement)
@@ -34,13 +34,22 @@ public class PlayerMovment_2 : MonoBehaviour
             Vector3 scale = transform.localScale;
             scale.x = Mathf.Abs(scale.x);
             transform.localScale = scale;
+            CreateDust();
         }
         else if (_horizontalMovement < -0.01f)
         {
             Vector3 scale = transform.localScale;
             scale.x = -Mathf.Abs(scale.x);
             transform.localScale = scale;
+            CreateDust();
         }
+        
+    }
+
+    void CreateDust()
+    {
+
+        dust_run.Play();
     }
 
 }

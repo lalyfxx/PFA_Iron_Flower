@@ -14,7 +14,7 @@ public class PlayerUI : MonoBehaviour
     public void UpdateLives(int lives)
     {
         livesText.text = "Vies : " + lives.ToString();
-        //player.transform.position = lastCheckpointPos;
+        player.transform.position = lastCheckpointPos;
     }
 
     public int GetCurrentLives()

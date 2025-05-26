@@ -324,7 +324,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 487699146}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: aa997b5cc22584942b727bce5fa85252, type: 2}
   m_CullingMode: 0
@@ -1152,10 +1152,10 @@ MonoBehaviour:
           m_StringArgument: camille
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 922668722}
-        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
-        m_MethodName: PlayGame
-        m_Mode: 1
+      - m_Target: {fileID: 1425323057}
+        m_TargetAssemblyTypeName: UIEventController, Assembly-CSharp
+        m_MethodName: SetAction
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1364,6 +1364,7 @@ GameObject:
   - component: {fileID: 1425323053}
   - component: {fileID: 1425323052}
   - component: {fileID: 1425323056}
+  - component: {fileID: 1425323057}
   m_Layer: 5
   m_Name: ---Game Over Screen---
   m_TagString: Untagged
@@ -1476,6 +1477,64 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1425323057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1425323051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164df321e59974e4c927ec593edba67b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uiAnimEventOne:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 922668722}
+        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
+        m_MethodName: PlayGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  uiAnimEventTwo:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 922668722}
+        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
+        m_MethodName: Main
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  uiAnimEventThree:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 922668722}
+        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  uiActionToPlay: 0
 --- !u!1 &1441058171
 GameObject:
   m_ObjectHideFlags: 0
@@ -1857,14 +1916,14 @@ MonoBehaviour:
           m_StringArgument: camille
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 922668722}
-        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
-        m_MethodName: Main
-        m_Mode: 1
+      - m_Target: {fileID: 1425323057}
+        m_TargetAssemblyTypeName: UIEventController, Assembly-CSharp
+        m_MethodName: SetAction
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2124,14 +2183,14 @@ MonoBehaviour:
           m_StringArgument: camille
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 922668722}
-        m_TargetAssemblyTypeName: main_death, Assembly-CSharp
-        m_MethodName: QuitGame
-        m_Mode: 1
+      - m_Target: {fileID: 1425323057}
+        m_TargetAssemblyTypeName: UIEventController, Assembly-CSharp
+        m_MethodName: SetAction
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

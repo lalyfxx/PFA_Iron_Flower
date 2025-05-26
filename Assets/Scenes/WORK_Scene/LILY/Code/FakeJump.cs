@@ -17,6 +17,11 @@ public class FakeJump : MonoBehaviour
 
     private Rigidbody2D rbParent;
 
+    [Header("Hit")]
+    public LayerMask layerCeil;
+    public float raycastCeilDistance;
+    private bool _isCeilling;
+
     void Start()
     {
         scale = transform.localScale;
@@ -25,6 +30,25 @@ public class FakeJump : MonoBehaviour
 
     void Update()
     {
+        _isCeilling = Physics2D.RaycastAll(transform.position, Vector2.up, raycastCeilDistance, layerCeil).Length != 0;
+
+        Debug.DrawRay(transform.position, Vector2.up * raycastCeilDistance);
+        if (_isCeilling)
+        {
+            if (!Input.GetKey(key))
+            {
+                scale.y -= shrinkSpeed * Time.deltaTime;
+
+                //RelaseJump();
+                scale.y = Mathf.Max(scale.y, minYScale);
+                wasAboveMinY = true;
+
+                transform.localScale = scale;
+            }
+
+            return;
+        }
+
         scale = transform.localScale;
 
         if (Input.GetKey(key))
@@ -36,15 +60,9 @@ public class FakeJump : MonoBehaviour
         {
             scale.y -= shrinkSpeed * Time.deltaTime;
 
-            if (wasAboveMinY && scale.y <= minYScale + 0.01f && IsGrounded)
+            if (wasAboveMinY && scale.y <= minYScale && IsGrounded)
             {
-                Debug.Log("Saut !");
-                Vector3 currentVelocity = rbParent.linearVelocity;
-                currentVelocity.y = 0;
-                rbParent.linearVelocity = currentVelocity;
-                rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-                wasAboveMinY = false;
-                IsGrounded = false;
+                RelaseJump();
             }
 
             scale.y = Mathf.Max(scale.y, minYScale);
@@ -64,6 +82,20 @@ public class FakeJump : MonoBehaviour
         {
             EvaluateCollision(contact);
         }
+    }
+
+    void RelaseJump()
+    {
+        Debug.Log("Saut !");
+        Vector3 currentVelocity = rbParent.linearVelocity;
+        currentVelocity.y = 0;
+        rbParent.linearVelocity = currentVelocity;
+
+        if (!_isCeilling)
+            rbParent.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+
+        wasAboveMinY = false;
+        IsGrounded = false;
     }
 
     void EvaluateCollision(ContactPoint2D pointHit)

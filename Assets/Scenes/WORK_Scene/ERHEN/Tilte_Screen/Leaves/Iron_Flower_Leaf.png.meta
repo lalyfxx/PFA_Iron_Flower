@@ -1,0 +1,6777 @@
+fileFormatVersion: 2
+guid: b776ea2f6b6a56e4d87fa536ab12266a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4931952774345211939
+    second: Iron_Flower_Leaf_0
+  - first:
+      213: -7188535483341178668
+    second: Iron_Flower_Leaf_1
+  - first:
+      213: -1351776444238611447
+    second: Iron_Flower_Leaf_2
+  - first:
+      213: -7980295508865357992
+    second: Iron_Flower_Leaf_3
+  - first:
+      213: 4994608577076840935
+    second: Iron_Flower_Leaf_4
+  - first:
+      213: 407596100559885634
+    second: Iron_Flower_Leaf_5
+  - first:
+      213: 1525574810441274390
+    second: Iron_Flower_Leaf_6
+  - first:
+      213: -5158799554081213023
+    second: Iron_Flower_Leaf_7
+  - first:
+      213: -3749652134652463832
+    second: Iron_Flower_Leaf_8
+  - first:
+      213: -5633801081554975955
+    second: Iron_Flower_Leaf_9
+  - first:
+      213: -7180261940701919070
+    second: Iron_Flower_Leaf_10
+  - first:
+      213: -7568424511843960702
+    second: Iron_Flower_Leaf_11
+  - first:
+      213: -6986399090015897733
+    second: Iron_Flower_Leaf_12
+  - first:
+      213: 248833730778766220
+    second: Iron_Flower_Leaf_13
+  - first:
+      213: -3322451601662006466
+    second: Iron_Flower_Leaf_14
+  - first:
+      213: -7621699860247079258
+    second: Iron_Flower_Leaf_15
+  - first:
+      213: 1973005967849042034
+    second: Iron_Flower_Leaf_16
+  - first:
+      213: -3836191715281618172
+    second: Iron_Flower_Leaf_17
+  - first:
+      213: -3299063180320185774
+    second: Iron_Flower_Leaf_18
+  - first:
+      213: 6743766824847777586
+    second: Iron_Flower_Leaf_19
+  - first:
+      213: 5543226159487119046
+    second: Iron_Flower_Leaf_20
+  - first:
+      213: -9157901821134851862
+    second: Iron_Flower_Leaf_21
+  - first:
+      213: -4612910764304594571
+    second: Iron_Flower_Leaf_22
+  - first:
+      213: -2930179733926316265
+    second: Iron_Flower_Leaf_23
+  - first:
+      213: 5392343815678976872
+    second: Iron_Flower_Leaf_24
+  - first:
+      213: -4041378106207184397
+    second: Iron_Flower_Leaf_25
+  - first:
+      213: -4879739738013731016
+    second: Iron_Flower_Leaf_26
+  - first:
+      213: -8724236993983293606
+    second: Iron_Flower_Leaf_27
+  - first:
+      213: -7207233829913780039
+    second: Iron_Flower_Leaf_28
+  - first:
+      213: -1953454403809277533
+    second: Iron_Flower_Leaf_29
+  - first:
+      213: -1626458840066480076
+    second: Iron_Flower_Leaf_30
+  - first:
+      213: 541383089688862309
+    second: Iron_Flower_Leaf_31
+  - first:
+      213: -148419498842292146
+    second: Iron_Flower_Leaf_32
+  - first:
+      213: 876343587429974714
+    second: Iron_Flower_Leaf_33
+  - first:
+      213: 138612167001411796
+    second: Iron_Flower_Leaf_34
+  - first:
+      213: -2343482448779797068
+    second: Iron_Flower_Leaf_35
+  - first:
+      213: 8721509905495591086
+    second: Iron_Flower_Leaf_36
+  - first:
+      213: 5676001022585958381
+    second: Iron_Flower_Leaf_37
+  - first:
+      213: 924064361997992454
+    second: Iron_Flower_Leaf_38
+  - first:
+      213: 9196686742229823434
+    second: Iron_Flower_Leaf_39
+  - first:
+      213: -782674679002246681
+    second: Iron_Flower_Leaf_40
+  - first:
+      213: -3542329681910489981
+    second: Iron_Flower_Leaf_41
+  - first:
+      213: -5958266395221019671
+    second: Iron_Flower_Leaf_42
+  - first:
+      213: -3910338208761222219
+    second: Iron_Flower_Leaf_43
+  - first:
+      213: 8296725721501208346
+    second: Iron_Flower_Leaf_44
+  - first:
+      213: 9056715139608892378
+    second: Iron_Flower_Leaf_45
+  - first:
+      213: 2094475505128402416
+    second: Iron_Flower_Leaf_46
+  - first:
+      213: 7885611893206197179
+    second: Iron_Flower_Leaf_47
+  - first:
+      213: -9200539559347071740
+    second: Iron_Flower_Leaf_48
+  - first:
+      213: 1002946593851212506
+    second: Iron_Flower_Leaf_49
+  - first:
+      213: 3760254075247116553
+    second: Iron_Flower_Leaf_50
+  - first:
+      213: 2405438924510101803
+    second: Iron_Flower_Leaf_51
+  - first:
+      213: 3456798078313747658
+    second: Iron_Flower_Leaf_52
+  - first:
+      213: -1843764664317238974
+    second: Iron_Flower_Leaf_53
+  - first:
+      213: 7120504522264650107
+    second: Iron_Flower_Leaf_54
+  - first:
+      213: 1541327963724990855
+    second: Iron_Flower_Leaf_55
+  - first:
+      213: -6688719556326099026
+    second: Iron_Flower_Leaf_56
+  - first:
+      213: -6181877458156197907
+    second: Iron_Flower_Leaf_57
+  - first:
+      213: -7254735303041767308
+    second: Iron_Flower_Leaf_58
+  - first:
+      213: 2427151662025760732
+    second: Iron_Flower_Leaf_59
+  - first:
+      213: -5228590625608160033
+    second: Iron_Flower_Leaf_60
+  - first:
+      213: -7582428247168615194
+    second: Iron_Flower_Leaf_61
+  - first:
+      213: -3661009336202579581
+    second: Iron_Flower_Leaf_62
+  - first:
+      213: 4817181330224108858
+    second: Iron_Flower_Leaf_63
+  - first:
+      213: 8188653858631252679
+    second: Iron_Flower_Leaf_64
+  - first:
+      213: -8346182771516234182
+    second: Iron_Flower_Leaf_65
+  - first:
+      213: 8447579999652313272
+    second: Iron_Flower_Leaf_66
+  - first:
+      213: -159829070631609790
+    second: Iron_Flower_Leaf_67
+  - first:
+      213: -1568196546247472057
+    second: Iron_Flower_Leaf_68
+  - first:
+      213: -3901083169451671668
+    second: Iron_Flower_Leaf_69
+  - first:
+      213: 6178399544436104670
+    second: Iron_Flower_Leaf_70
+  - first:
+      213: 3971862094617906490
+    second: Iron_Flower_Leaf_71
+  - first:
+      213: -5393042081825495644
+    second: Iron_Flower_Leaf_72
+  - first:
+      213: -3109710457498645436
+    second: Iron_Flower_Leaf_73
+  - first:
+      213: 3217299851329569276
+    second: Iron_Flower_Leaf_74
+  - first:
+      213: 1740785901534547598
+    second: Iron_Flower_Leaf_75
+  - first:
+      213: -6478314752306150926
+    second: Iron_Flower_Leaf_76
+  - first:
+      213: 5818810420717554996
+    second: Iron_Flower_Leaf_77
+  - first:
+      213: -7845455462518274002
+    second: Iron_Flower_Leaf_78
+  - first:
+      213: -678797841997447248
+    second: Iron_Flower_Leaf_79
+  - first:
+      213: 309351110972095112
+    second: Iron_Flower_Leaf_80
+  - first:
+      213: -4291256625453529069
+    second: Iron_Flower_Leaf_81
+  - first:
+      213: 4025916114776109660
+    second: Iron_Flower_Leaf_82
+  - first:
+      213: -2433492017421055713
+    second: Iron_Flower_Leaf_83
+  - first:
+      213: 2477863269363359692
+    second: Iron_Flower_Leaf_84
+  - first:
+      213: -6015708554580492794
+    second: Iron_Flower_Leaf_85
+  - first:
+      213: 1000420566915795675
+    second: Iron_Flower_Leaf_86
+  - first:
+      213: 470469547490089735
+    second: Iron_Flower_Leaf_87
+  - first:
+      213: -1890082820976673547
+    second: Iron_Flower_Leaf_88
+  - first:
+      213: 2603076114995611481
+    second: Iron_Flower_Leaf_89
+  - first:
+      213: -3364302452913531051
+    second: Iron_Flower_Leaf_90
+  - first:
+      213: -3806358513679937416
+    second: Iron_Flower_Leaf_91
+  - first:
+      213: -8172918561299751742
+    second: Iron_Flower_Leaf_92
+  - first:
+      213: 3130909375830493961
+    second: Iron_Flower_Leaf_93
+  - first:
+      213: 1296029337323721446
+    second: Iron_Flower_Leaf_94
+  - first:
+      213: -5378107901052651521
+    second: Iron_Flower_Leaf_95
+  - first:
+      213: 5057043236073905089
+    second: Iron_Flower_Leaf_96
+  - first:
+      213: -6563266518995919738
+    second: Iron_Flower_Leaf_97
+  - first:
+      213: -3751875921107594571
+    second: Iron_Flower_Leaf_98
+  - first:
+      213: 3353547329827480869
+    second: Iron_Flower_Leaf_99
+  - first:
+      213: -2124334443026835081
+    second: Iron_Flower_Leaf_100
+  - first:
+      213: 4757541905664509066
+    second: Iron_Flower_Leaf_101
+  - first:
+      213: 6072664531590470361
+    second: Iron_Flower_Leaf_102
+  - first:
+      213: -2486986932060201154
+    second: Iron_Flower_Leaf_103
+  - first:
+      213: 1696740291738911086
+    second: Iron_Flower_Leaf_104
+  - first:
+      213: 2356153882445564815
+    second: Iron_Flower_Leaf_105
+  - first:
+      213: 1818685125822815991
+    second: Iron_Flower_Leaf_106
+  - first:
+      213: -8761840026776104215
+    second: Iron_Flower_Leaf_107
+  - first:
+      213: 4028567281520768349
+    second: Iron_Flower_Leaf_108
+  - first:
+      213: 3455164140705031072
+    second: Iron_Flower_Leaf_109
+  - first:
+      213: 7223034094410658608
+    second: Iron_Flower_Leaf_110
+  - first:
+      213: 3195657354531742232
+    second: Iron_Flower_Leaf_111
+  - first:
+      213: 3343387702739952327
+    second: Iron_Flower_Leaf_112
+  - first:
+      213: -4949812809902183147
+    second: Iron_Flower_Leaf_113
+  - first:
+      213: 3355304513647364820
+    second: Iron_Flower_Leaf_114
+  - first:
+      213: -4857612243575333705
+    second: Iron_Flower_Leaf_115
+  - first:
+      213: -8983134561488351029
+    second: Iron_Flower_Leaf_116
+  - first:
+      213: -5462955373045879977
+    second: Iron_Flower_Leaf_117
+  - first:
+      213: 6865233718726299159
+    second: Iron_Flower_Leaf_118
+  - first:
+      213: -8292335866032637921
+    second: Iron_Flower_Leaf_119
+  - first:
+      213: -7247808565120314957
+    second: Iron_Flower_Leaf_120
+  - first:
+      213: 9046069634010877692
+    second: Iron_Flower_Leaf_121
+  - first:
+      213: -6083604205757156687
+    second: Iron_Flower_Leaf_122
+  - first:
+      213: 5680684447444691914
+    second: Iron_Flower_Leaf_123
+  - first:
+      213: 8536171604474575630
+    second: Iron_Flower_Leaf_124
+  - first:
+      213: -6902195750657264473
+    second: Iron_Flower_Leaf_125
+  - first:
+      213: 5605699186701582130
+    second: Iron_Flower_Leaf_126
+  - first:
+      213: 9196474503008734036
+    second: Iron_Flower_Leaf_127
+  - first:
+      213: 3300128652665501621
+    second: Iron_Flower_Leaf_128
+  - first:
+      213: -670844704031463938
+    second: Iron_Flower_Leaf_129
+  - first:
+      213: -1555382731703627044
+    second: Iron_Flower_Leaf_130
+  - first:
+      213: -4041798966181505767
+    second: Iron_Flower_Leaf_131
+  - first:
+      213: -7891602422879608126
+    second: Iron_Flower_Leaf_132
+  - first:
+      213: 5720947827960947572
+    second: Iron_Flower_Leaf_133
+  - first:
+      213: 211953808027618718
+    second: Iron_Flower_Leaf_134
+  - first:
+      213: 5068149763557440486
+    second: Iron_Flower_Leaf_135
+  - first:
+      213: -3470035510028631342
+    second: Iron_Flower_Leaf_136
+  - first:
+      213: 6041076841123516224
+    second: Iron_Flower_Leaf_137
+  - first:
+      213: 7611873253408974199
+    second: Iron_Flower_Leaf_138
+  - first:
+      213: -7844923945932106685
+    second: Iron_Flower_Leaf_139
+  - first:
+      213: 8424398560785123174
+    second: Iron_Flower_Leaf_140
+  - first:
+      213: 4690891473738831942
+    second: Iron_Flower_Leaf_141
+  - first:
+      213: 4139735180459525674
+    second: Iron_Flower_Leaf_142
+  - first:
+      213: -6983136377504786352
+    second: Iron_Flower_Leaf_143
+  - first:
+      213: -5315390209473047629
+    second: Iron_Flower_Leaf_144
+  - first:
+      213: -5513422855560190544
+    second: Iron_Flower_Leaf_145
+  - first:
+      213: -4437123055715757468
+    second: Iron_Flower_Leaf_146
+  - first:
+      213: 275342109249295480
+    second: Iron_Flower_Leaf_147
+  - first:
+      213: 2995057682361826566
+    second: Iron_Flower_Leaf_148
+  - first:
+      213: -129630110894689925
+    second: Iron_Flower_Leaf_149
+  - first:
+      213: 8125443769806499405
+    second: Iron_Flower_Leaf_150
+  - first:
+      213: 7046750439192408794
+    second: Iron_Flower_Leaf_151
+  - first:
+      213: 5305932965495034017
+    second: Iron_Flower_Leaf_152
+  - first:
+      213: -5718197219816651658
+    second: Iron_Flower_Leaf_153
+  - first:
+      213: -4225708344674858891
+    second: Iron_Flower_Leaf_154
+  - first:
+      213: 3080808063691154532
+    second: Iron_Flower_Leaf_155
+  - first:
+      213: -7567916238308423272
+    second: Iron_Flower_Leaf_156
+  - first:
+      213: 4257139561362270483
+    second: Iron_Flower_Leaf_157
+  - first:
+      213: 7194327840283281247
+    second: Iron_Flower_Leaf_158
+  - first:
+      213: -4209666527004673500
+    second: Iron_Flower_Leaf_159
+  - first:
+      213: 8410726216474963822
+    second: Iron_Flower_Leaf_160
+  - first:
+      213: -7946685908556048052
+    second: Iron_Flower_Leaf_161
+  - first:
+      213: 1902486272099044257
+    second: Iron_Flower_Leaf_162
+  - first:
+      213: -9212494097081895648
+    second: Iron_Flower_Leaf_163
+  - first:
+      213: 1628218789766316035
+    second: Iron_Flower_Leaf_164
+  - first:
+      213: -1987480534325420275
+    second: Iron_Flower_Leaf_165
+  - first:
+      213: -3861776237867358047
+    second: Iron_Flower_Leaf_166
+  - first:
+      213: 8923047695490062106
+    second: Iron_Flower_Leaf_167
+  - first:
+      213: 4632042354848338989
+    second: Iron_Flower_Leaf_168
+  - first:
+      213: -1309375307798159053
+    second: Iron_Flower_Leaf_169
+  - first:
+      213: 5674140398167183066
+    second: Iron_Flower_Leaf_170
+  - first:
+      213: 195693615331182696
+    second: Iron_Flower_Leaf_171
+  - first:
+      213: 7398831996118934919
+    second: Iron_Flower_Leaf_172
+  - first:
+      213: -4992737167021899009
+    second: Iron_Flower_Leaf_173
+  - first:
+      213: 1918672038011957063
+    second: Iron_Flower_Leaf_174
+  - first:
+      213: -4076274608192804064
+    second: Iron_Flower_Leaf_175
+  - first:
+      213: -918951401130809240
+    second: Iron_Flower_Leaf_176
+  - first:
+      213: 741287732931773780
+    second: Iron_Flower_Leaf_177
+  - first:
+      213: 3039833302801939950
+    second: Iron_Flower_Leaf_178
+  - first:
+      213: 2542056355503848347
+    second: Iron_Flower_Leaf_179
+  - first:
+      213: -3286341797535682159
+    second: Iron_Flower_Leaf_180
+  - first:
+      213: -4857925367910274990
+    second: Iron_Flower_Leaf_181
+  - first:
+      213: -2295041070189385378
+    second: Iron_Flower_Leaf_182
+  - first:
+      213: -1409583221251719423
+    second: Iron_Flower_Leaf_183
+  - first:
+      213: 1720110347977846673
+    second: Iron_Flower_Leaf_184
+  - first:
+      213: 5961798993711321625
+    second: Iron_Flower_Leaf_185
+  - first:
+      213: 9150799843403742008
+    second: Iron_Flower_Leaf_186
+  - first:
+      213: -563375201272125457
+    second: Iron_Flower_Leaf_187
+  - first:
+      213: 2638008607816015195
+    second: Iron_Flower_Leaf_188
+  - first:
+      213: 3407984361734416305
+    second: Iron_Flower_Leaf_189
+  - first:
+      213: 8948579849455515801
+    second: Iron_Flower_Leaf_190
+  - first:
+      213: 8673771398350384500
+    second: Iron_Flower_Leaf_191
+  - first:
+      213: 4270694485331512278
+    second: Iron_Flower_Leaf_192
+  - first:
+      213: -7462691379911731357
+    second: Iron_Flower_Leaf_193
+  - first:
+      213: 3683422817332922218
+    second: Iron_Flower_Leaf_194
+  - first:
+      213: 6761827489762174254
+    second: Iron_Flower_Leaf_195
+  - first:
+      213: 7844463946963611468
+    second: Iron_Flower_Leaf_196
+  - first:
+      213: 7284695119193969536
+    second: Iron_Flower_Leaf_197
+  - first:
+      213: -6257677521602658886
+    second: Iron_Flower_Leaf_198
+  - first:
+      213: -8766205337943710454
+    second: Iron_Flower_Leaf_199
+  - first:
+      213: 4041931288455790289
+    second: Iron_Flower_Leaf_200
+  - first:
+      213: -2752493767441531312
+    second: Iron_Flower_Leaf_201
+  - first:
+      213: -5424974421956271231
+    second: Iron_Flower_Leaf_202
+  - first:
+      213: 4293272961838476824
+    second: Iron_Flower_Leaf_203
+  - first:
+      213: 5065886598416121880
+    second: Iron_Flower_Leaf_204
+  - first:
+      213: -7067074150969697588
+    second: Iron_Flower_Leaf_205
+  - first:
+      213: 5589266847115876998
+    second: Iron_Flower_Leaf_206
+  - first:
+      213: -3270525140832601089
+    second: Iron_Flower_Leaf_207
+  - first:
+      213: 4317570703544925029
+    second: Iron_Flower_Leaf_208
+  - first:
+      213: -6060807432785466901
+    second: Iron_Flower_Leaf_209
+  - first:
+      213: 6461787344718437529
+    second: Iron_Flower_Leaf_210
+  - first:
+      213: 2458995870597940065
+    second: Iron_Flower_Leaf_211
+  - first:
+      213: 1938081646703233426
+    second: Iron_Flower_Leaf_212
+  - first:
+      213: 4310525542323112980
+    second: Iron_Flower_Leaf_213
+  - first:
+      213: -2652268903061328075
+    second: Iron_Flower_Leaf_214
+  - first:
+      213: 8408511191447913627
+    second: Iron_Flower_Leaf_215
+  - first:
+      213: 4180964558666473590
+    second: Iron_Flower_Leaf_216
+  - first:
+      213: -7521773649683984082
+    second: Iron_Flower_Leaf_217
+  - first:
+      213: 4523131522205788640
+    second: Iron_Flower_Leaf_218
+  - first:
+      213: -4501245298292353368
+    second: Iron_Flower_Leaf_219
+  - first:
+      213: -6541249321937441241
+    second: Iron_Flower_Leaf_220
+  - first:
+      213: 4146262122479882847
+    second: Iron_Flower_Leaf_221
+  - first:
+      213: -913699595004780010
+    second: Iron_Flower_Leaf_222
+  - first:
+      213: -8836327347893110529
+    second: Iron_Flower_Leaf_223
+  - first:
+      213: -8944514824235962541
+    second: Iron_Flower_Leaf_224
+  - first:
+      213: -4696658776487886917
+    second: Iron_Flower_Leaf_225
+  - first:
+      213: -1616313543129027012
+    second: Iron_Flower_Leaf_226
+  - first:
+      213: -1400538861022487995
+    second: Iron_Flower_Leaf_227
+  - first:
+      213: -4359080405172572106
+    second: Iron_Flower_Leaf_228
+  - first:
+      213: 1638349256905926867
+    second: Iron_Flower_Leaf_229
+  - first:
+      213: 1955587933745409400
+    second: Iron_Flower_Leaf_230
+  - first:
+      213: 193489172979790533
+    second: Iron_Flower_Leaf_231
+  - first:
+      213: -3338618661463142289
+    second: Iron_Flower_Leaf_232
+  - first:
+      213: 6864611601601177105
+    second: Iron_Flower_Leaf_233
+  - first:
+      213: 1402831336533292703
+    second: Iron_Flower_Leaf_234
+  - first:
+      213: 9058348948328131958
+    second: Iron_Flower_Leaf_235
+  - first:
+      213: -1615488420239142627
+    second: Iron_Flower_Leaf_236
+  - first:
+      213: 256243848060562120
+    second: Iron_Flower_Leaf_237
+  - first:
+      213: -5584670193875655632
+    second: Iron_Flower_Leaf_238
+  - first:
+      213: 4524576115578436034
+    second: Iron_Flower_Leaf_239
+  - first:
+      213: 779561003437031335
+    second: Iron_Flower_Leaf_240
+  - first:
+      213: -5692237892467467132
+    second: Iron_Flower_Leaf_241
+  - first:
+      213: -4567079912368900756
+    second: Iron_Flower_Leaf_242
+  - first:
+      213: 4910681153921459486
+    second: Iron_Flower_Leaf_243
+  - first:
+      213: -4723770337306812608
+    second: Iron_Flower_Leaf_244
+  - first:
+      213: 5882004793175096982
+    second: Iron_Flower_Leaf_245
+  - first:
+      213: -6262420319566336780
+    second: Iron_Flower_Leaf_246
+  - first:
+      213: 835775441565807870
+    second: Iron_Flower_Leaf_247
+  - first:
+      213: -2786193414154417370
+    second: Iron_Flower_Leaf_248
+  - first:
+      213: -5988936448258028823
+    second: Iron_Flower_Leaf_249
+  - first:
+      213: -8716248474795362351
+    second: Iron_Flower_Leaf_250
+  - first:
+      213: -7285088453494514755
+    second: Iron_Flower_Leaf_251
+  - first:
+      213: 3984762707099348546
+    second: Iron_Flower_Leaf_252
+  - first:
+      213: 5762988878005614353
+    second: Iron_Flower_Leaf_253
+  - first:
+      213: -3930300969587247836
+    second: Iron_Flower_Leaf_254
+  - first:
+      213: 5440301133629755906
+    second: Iron_Flower_Leaf_255
+  - first:
+      213: 2386811015398472923
+    second: Iron_Flower_Leaf_256
+  - first:
+      213: 6165286771250685701
+    second: Iron_Flower_Leaf_257
+  - first:
+      213: 6282027317165667812
+    second: Iron_Flower_Leaf_258
+  - first:
+      213: 3936529554764701844
+    second: Iron_Flower_Leaf_259
+  - first:
+      213: 7649571176045710797
+    second: Iron_Flower_Leaf_260
+  - first:
+      213: 5021448548358677966
+    second: Iron_Flower_Leaf_261
+  - first:
+      213: 3114724261510639678
+    second: Iron_Flower_Leaf_262
+  - first:
+      213: -2677848940353771858
+    second: Iron_Flower_Leaf_263
+  - first:
+      213: 720348977996399516
+    second: Iron_Flower_Leaf_264
+  - first:
+      213: 4580643589430252151
+    second: Iron_Flower_Leaf_265
+  - first:
+      213: 1405588179653194102
+    second: Iron_Flower_Leaf_266
+  - first:
+      213: -4431494370684475014
+    second: Iron_Flower_Leaf_267
+  - first:
+      213: 9179421388045151857
+    second: Iron_Flower_Leaf_268
+  - first:
+      213: -6637190553555636728
+    second: Iron_Flower_Leaf_269
+  - first:
+      213: -2832331331242007066
+    second: Iron_Flower_Leaf_270
+  - first:
+      213: -8276579263971032830
+    second: Iron_Flower_Leaf_271
+  - first:
+      213: 971031584620030328
+    second: Iron_Flower_Leaf_272
+  - first:
+      213: 5515838619015265354
+    second: Iron_Flower_Leaf_273
+  - first:
+      213: 8351211955486501597
+    second: Iron_Flower_Leaf_274
+  - first:
+      213: -3209959697348482979
+    second: Iron_Flower_Leaf_275
+  - first:
+      213: -7183298793306753514
+    second: Iron_Flower_Leaf_276
+  - first:
+      213: 3713048808428290944
+    second: Iron_Flower_Leaf_277
+  - first:
+      213: 2533154537790547937
+    second: Iron_Flower_Leaf_278
+  - first:
+      213: 2705680608641906243
+    second: Iron_Flower_Leaf_279
+  - first:
+      213: 3426256570602269729
+    second: Iron_Flower_Leaf_280
+  - first:
+      213: 1394169194651754861
+    second: Iron_Flower_Leaf_281
+  - first:
+      213: 8226811668555540669
+    second: Iron_Flower_Leaf_282
+  - first:
+      213: -6271841194644671765
+    second: Iron_Flower_Leaf_283
+  - first:
+      213: -8290670752792793915
+    second: Iron_Flower_Leaf_284
+  - first:
+      213: -7467317223845995005
+    second: Iron_Flower_Leaf_285
+  - first:
+      213: -7911840551152643752
+    second: Iron_Flower_Leaf_286
+  - first:
+      213: 2603570266903525586
+    second: Iron_Flower_Leaf_287
+  - first:
+      213: 7754800012793441252
+    second: Iron_Flower_Leaf_288
+  - first:
+      213: 4873715292805807622
+    second: Iron_Flower_Leaf_289
+  - first:
+      213: -4988411565139608335
+    second: Iron_Flower_Leaf_290
+  - first:
+      213: -679276860761868402
+    second: Iron_Flower_Leaf_291
+  - first:
+      213: -3437610715849922860
+    second: Iron_Flower_Leaf_292
+  - first:
+      213: 4456120740678107701
+    second: Iron_Flower_Leaf_293
+  - first:
+      213: 8946714735923622134
+    second: Iron_Flower_Leaf_294
+  - first:
+      213: -794817413156460767
+    second: Iron_Flower_Leaf_295
+  - first:
+      213: 6977607863814679393
+    second: Iron_Flower_Leaf_296
+  - first:
+      213: -8088054948594148334
+    second: Iron_Flower_Leaf_297
+  - first:
+      213: -7586024174678216693
+    second: Iron_Flower_Leaf_298
+  - first:
+      213: 5040241407671703051
+    second: Iron_Flower_Leaf_299
+  - first:
+      213: 5681884471202645862
+    second: Iron_Flower_Leaf_300
+  - first:
+      213: 8683422556715836913
+    second: Iron_Flower_Leaf_301
+  - first:
+      213: -4484854654663293497
+    second: Iron_Flower_Leaf_302
+  - first:
+      213: -1176267221896176712
+    second: Iron_Flower_Leaf_303
+  - first:
+      213: 5725062411864766691
+    second: Iron_Flower_Leaf_304
+  - first:
+      213: -6342898157641327048
+    second: Iron_Flower_Leaf_305
+  - first:
+      213: 870402510601453522
+    second: Iron_Flower_Leaf_306
+  - first:
+      213: 3963310004831611669
+    second: Iron_Flower_Leaf_307
+  - first:
+      213: 6849656405549057670
+    second: Iron_Flower_Leaf_308
+  - first:
+      213: -386809245844293896
+    second: Iron_Flower_Leaf_309
+  - first:
+      213: 7401392998484983244
+    second: Iron_Flower_Leaf_310
+  - first:
+      213: 7313780078724214708
+    second: Iron_Flower_Leaf_311
+  - first:
+      213: -8746612436157261020
+    second: Iron_Flower_Leaf_312
+  - first:
+      213: -3779820728837860422
+    second: Iron_Flower_Leaf_313
+  - first:
+      213: -6683907640636227390
+    second: Iron_Flower_Leaf_314
+  - first:
+      213: 761157365691474762
+    second: Iron_Flower_Leaf_315
+  - first:
+      213: -7700406775240131715
+    second: Iron_Flower_Leaf_316
+  - first:
+      213: 4327888394850024409
+    second: Iron_Flower_Leaf_317
+  - first:
+      213: -6079023147741913137
+    second: Iron_Flower_Leaf_318
+  - first:
+      213: 3257540140031159436
+    second: Iron_Flower_Leaf_319
+  - first:
+      213: -5901033694395085729
+    second: Iron_Flower_Leaf_320
+  - first:
+      213: -4108797807141080819
+    second: Iron_Flower_Leaf_321
+  - first:
+      213: -4484549867388851346
+    second: Iron_Flower_Leaf_322
+  - first:
+      213: -3830566700859559416
+    second: Iron_Flower_Leaf_323
+  - first:
+      213: -7892494526616985379
+    second: Iron_Flower_Leaf_324
+  - first:
+      213: -8543090074395137955
+    second: Iron_Flower_Leaf_325
+  - first:
+      213: 3183792420757033518
+    second: Iron_Flower_Leaf_326
+  - first:
+      213: 7046553653579108421
+    second: Iron_Flower_Leaf_327
+  - first:
+      213: -6001202998696899297
+    second: Iron_Flower_Leaf_328
+  - first:
+      213: 3598922120237298795
+    second: Iron_Flower_Leaf_329
+  - first:
+      213: -2441181479564051518
+    second: Iron_Flower_Leaf_330
+  - first:
+      213: -2060853063942895089
+    second: Iron_Flower_Leaf_331
+  - first:
+      213: -1538207588661351892
+    second: Iron_Flower_Leaf_332
+  - first:
+      213: -2196820687329583470
+    second: Iron_Flower_Leaf_333
+  - first:
+      213: 9007977920644776365
+    second: Iron_Flower_Leaf_334
+  - first:
+      213: -3359289567145348077
+    second: Iron_Flower_Leaf_335
+  - first:
+      213: 5762168654060078394
+    second: Iron_Flower_Leaf_336
+  - first:
+      213: 7779554238119050836
+    second: Iron_Flower_Leaf_337
+  - first:
+      213: 3899872844605256654
+    second: Iron_Flower_Leaf_338
+  - first:
+      213: -3575435045965483666
+    second: Iron_Flower_Leaf_339
+  - first:
+      213: -1793033311350395755
+    second: Iron_Flower_Leaf_340
+  - first:
+      213: -626604866311803294
+    second: Iron_Flower_Leaf_341
+  - first:
+      213: 3048958178351255585
+    second: Iron_Flower_Leaf_342
+  - first:
+      213: -8018390941989113471
+    second: Iron_Flower_Leaf_343
+  - first:
+      213: -2705303451525720316
+    second: Iron_Flower_Leaf_344
+  - first:
+      213: 4718092247662989609
+    second: Iron_Flower_Leaf_345
+  - first:
+      213: 369262210961395583
+    second: Iron_Flower_Leaf_346
+  - first:
+      213: -7160330011716894273
+    second: Iron_Flower_Leaf_347
+  - first:
+      213: -7790691420362190627
+    second: Iron_Flower_Leaf_348
+  - first:
+      213: 753050555432303123
+    second: Iron_Flower_Leaf_349
+  - first:
+      213: 6354358602020042561
+    second: Iron_Flower_Leaf_350
+  - first:
+      213: 2360591939638103696
+    second: Iron_Flower_Leaf_351
+  - first:
+      213: -1337571919554220716
+    second: Iron_Flower_Leaf_352
+  - first:
+      213: 1775342495306427952
+    second: Iron_Flower_Leaf_353
+  - first:
+      213: 1746599802842854370
+    second: Iron_Flower_Leaf_354
+  - first:
+      213: 6462344816057380534
+    second: Iron_Flower_Leaf_355
+  - first:
+      213: 3219028184448058517
+    second: Iron_Flower_Leaf_356
+  - first:
+      213: -6668335863725108871
+    second: Iron_Flower_Leaf_357
+  - first:
+      213: 4984724398181983144
+    second: Iron_Flower_Leaf_358
+  - first:
+      213: -2515865962136247706
+    second: Iron_Flower_Leaf_359
+  - first:
+      213: -26064906153575484
+    second: Iron_Flower_Leaf_360
+  - first:
+      213: 8800671964965322340
+    second: Iron_Flower_Leaf_361
+  - first:
+      213: 3605585718793211721
+    second: Iron_Flower_Leaf_362
+  - first:
+      213: 7721028273713574216
+    second: Iron_Flower_Leaf_363
+  - first:
+      213: 2057149580875193094
+    second: Iron_Flower_Leaf_364
+  - first:
+      213: -8845059968953581043
+    second: Iron_Flower_Leaf_365
+  - first:
+      213: 1584285724742005131
+    second: Iron_Flower_Leaf_366
+  - first:
+      213: 4259375407487247728
+    second: Iron_Flower_Leaf_367
+  - first:
+      213: 5197116422637815146
+    second: Iron_Flower_Leaf_368
+  - first:
+      213: -8562092565425399612
+    second: Iron_Flower_Leaf_369
+  - first:
+      213: -6788357505705076357
+    second: Iron_Flower_Leaf_370
+  - first:
+      213: -3573232266671370855
+    second: Iron_Flower_Leaf_371
+  - first:
+      213: 4407547842499300093
+    second: Iron_Flower_Leaf_372
+  - first:
+      213: 2447426852376192973
+    second: Iron_Flower_Leaf_373
+  - first:
+      213: 2011219860706693956
+    second: Iron_Flower_Leaf_374
+  - first:
+      213: 417908970388145582
+    second: Iron_Flower_Leaf_375
+  - first:
+      213: 8345468955388796580
+    second: Iron_Flower_Leaf_376
+  - first:
+      213: 2270138383016725001
+    second: Iron_Flower_Leaf_377
+  - first:
+      213: 3145491173971399302
+    second: Iron_Flower_Leaf_378
+  - first:
+      213: -1999339782748202642
+    second: Iron_Flower_Leaf_379
+  - first:
+      213: 5117867442978163252
+    second: Iron_Flower_Leaf_380
+  - first:
+      213: -1755720556363455285
+    second: Iron_Flower_Leaf_381
+  - first:
+      213: -5628751271794444249
+    second: Iron_Flower_Leaf_382
+  - first:
+      213: -378783031078541367
+    second: Iron_Flower_Leaf_383
+  - first:
+      213: 8391454259285956472
+    second: Iron_Flower_Leaf_384
+  - first:
+      213: -8617033230689419055
+    second: Iron_Flower_Leaf_385
+  - first:
+      213: -4151501314651967114
+    second: Iron_Flower_Leaf_386
+  - first:
+      213: 566366919339802720
+    second: Iron_Flower_Leaf_387
+  - first:
+      213: 3111182002103741164
+    second: Iron_Flower_Leaf_388
+  - first:
+      213: 4841663704440477041
+    second: Iron_Flower_Leaf_389
+  - first:
+      213: 4007553246139355648
+    second: Iron_Flower_Leaf_390
+  - first:
+      213: -2152546916353680816
+    second: Iron_Flower_Leaf_391
+  - first:
+      213: 5736022464881310662
+    second: Iron_Flower_Leaf_392
+  - first:
+      213: 3662412213533842009
+    second: Iron_Flower_Leaf_393
+  - first:
+      213: 2603448542841608786
+    second: Iron_Flower_Leaf_394
+  - first:
+      213: 8116666710666580725
+    second: Iron_Flower_Leaf_395
+  - first:
+      213: 1674671647059519171
+    second: Iron_Flower_Leaf_396
+  - first:
+      213: 657828857776866855
+    second: Iron_Flower_Leaf_397
+  - first:
+      213: 8756922397050259472
+    second: Iron_Flower_Leaf_398
+  - first:
+      213: 1202821640568374047
+    second: Iron_Flower_Leaf_399
+  - first:
+      213: 4375798638351372239
+    second: Iron_Flower_Leaf_400
+  - first:
+      213: -2971004372688594075
+    second: Iron_Flower_Leaf_401
+  - first:
+      213: -5430353123658062830
+    second: Iron_Flower_Leaf_402
+  - first:
+      213: 3400082758486878573
+    second: Iron_Flower_Leaf_403
+  - first:
+      213: 4758406829815917950
+    second: Iron_Flower_Leaf_404
+  - first:
+      213: -2004160592482560528
+    second: Iron_Flower_Leaf_405
+  - first:
+      213: 5806259149628305692
+    second: Iron_Flower_Leaf_406
+  - first:
+      213: -4625785575992936575
+    second: Iron_Flower_Leaf_407
+  - first:
+      213: 5206857778700290313
+    second: Iron_Flower_Leaf_408
+  - first:
+      213: -3537821523210353989
+    second: Iron_Flower_Leaf_409
+  - first:
+      213: 7560529848213618509
+    second: Iron_Flower_Leaf_410
+  - first:
+      213: 332356429223628320
+    second: Iron_Flower_Leaf_411
+  - first:
+      213: 2287269006297941548
+    second: Iron_Flower_Leaf_412
+  - first:
+      213: -566753185762303549
+    second: Iron_Flower_Leaf_413
+  - first:
+      213: 6074733108791282633
+    second: Iron_Flower_Leaf_414
+  - first:
+      213: 5384430046032465497
+    second: Iron_Flower_Leaf_415
+  - first:
+      213: 3047969428326855549
+    second: Iron_Flower_Leaf_416
+  - first:
+      213: 7284063769407210710
+    second: Iron_Flower_Leaf_417
+  - first:
+      213: -3405124615962187366
+    second: Iron_Flower_Leaf_418
+  - first:
+      213: 859440228263580728
+    second: Iron_Flower_Leaf_419
+  - first:
+      213: -2502278094704447468
+    second: Iron_Flower_Leaf_420
+  - first:
+      213: -1443072065134690863
+    second: Iron_Flower_Leaf_421
+  - first:
+      213: -1022222213754910469
+    second: Iron_Flower_Leaf_422
+  - first:
+      213: -677795550592290720
+    second: Iron_Flower_Leaf_423
+  - first:
+      213: 4703197671632984484
+    second: Iron_Flower_Leaf_424
+  - first:
+      213: -4616120864698755580
+    second: Iron_Flower_Leaf_425
+  - first:
+      213: 3913341174140619086
+    second: Iron_Flower_Leaf_426
+  - first:
+      213: 7845378103359323719
+    second: Iron_Flower_Leaf_427
+  - first:
+      213: 2974475484465584340
+    second: Iron_Flower_Leaf_428
+  - first:
+      213: 8598865025516693811
+    second: Iron_Flower_Leaf_429
+  - first:
+      213: -4779952223415874862
+    second: Iron_Flower_Leaf_430
+  - first:
+      213: -43950202797468029
+    second: Iron_Flower_Leaf_431
+  - first:
+      213: -7938132909205533848
+    second: Iron_Flower_Leaf_432
+  - first:
+      213: -4455544010118334236
+    second: Iron_Flower_Leaf_433
+  - first:
+      213: 3630833489944862210
+    second: Iron_Flower_Leaf_434
+  - first:
+      213: -5507768704936604848
+    second: Iron_Flower_Leaf_435
+  - first:
+      213: -4381623077163522569
+    second: Iron_Flower_Leaf_436
+  - first:
+      213: -8196015859602529989
+    second: Iron_Flower_Leaf_437
+  - first:
+      213: 1096557808162601672
+    second: Iron_Flower_Leaf_438
+  - first:
+      213: -3548348426481310646
+    second: Iron_Flower_Leaf_439
+  - first:
+      213: -4995926733960850665
+    second: Iron_Flower_Leaf_440
+  - first:
+      213: 2800932695935349258
+    second: Iron_Flower_Leaf_441
+  - first:
+      213: 7750564606739090755
+    second: Iron_Flower_Leaf_442
+  - first:
+      213: -2117831829694569598
+    second: Iron_Flower_Leaf_443
+  - first:
+      213: 8135734810287748746
+    second: Iron_Flower_Leaf_444
+  - first:
+      213: -8417512161574422401
+    second: Iron_Flower_Leaf_445
+  - first:
+      213: 7299593427242271946
+    second: Iron_Flower_Leaf_446
+  - first:
+      213: 8299596949379436713
+    second: Iron_Flower_Leaf_447
+  - first:
+      213: -2495990618402230339
+    second: Iron_Flower_Leaf_448
+  - first:
+      213: 292465491430043162
+    second: Iron_Flower_Leaf_449
+  - first:
+      213: -1462706337621512426
+    second: Iron_Flower_Leaf_450
+  - first:
+      213: -544674377439451536
+    second: Iron_Flower_Leaf_451
+  - first:
+      213: -2295897011401827456
+    second: Iron_Flower_Leaf_452
+  - first:
+      213: 9166335723081295789
+    second: Iron_Flower_Leaf_453
+  - first:
+      213: 624048967004009831
+    second: Iron_Flower_Leaf_454
+  - first:
+      213: -5620273264540311167
+    second: Iron_Flower_Leaf_455
+  - first:
+      213: -8404034135087494059
+    second: Iron_Flower_Leaf_456
+  - first:
+      213: 2985995454953690926
+    second: Iron_Flower_Leaf_457
+  - first:
+      213: 3302309849240550279
+    second: Iron_Flower_Leaf_458
+  - first:
+      213: 1941910739425007372
+    second: Iron_Flower_Leaf_459
+  - first:
+      213: 2041804487206456201
+    second: Iron_Flower_Leaf_460
+  - first:
+      213: -5815285845838817276
+    second: Iron_Flower_Leaf_461
+  - first:
+      213: 125387126818745272
+    second: Iron_Flower_Leaf_462
+  - first:
+      213: -9013400514463256900
+    second: Iron_Flower_Leaf_463
+  - first:
+      213: 2728032808317546711
+    second: Iron_Flower_Leaf_464
+  - first:
+      213: -7335152765979056321
+    second: Iron_Flower_Leaf_465
+  - first:
+      213: 4726024233933283165
+    second: Iron_Flower_Leaf_466
+  - first:
+      213: 5266943904444369629
+    second: Iron_Flower_Leaf_467
+  - first:
+      213: 6214057226960351101
+    second: Iron_Flower_Leaf_468
+  - first:
+      213: 7665943966540239731
+    second: Iron_Flower_Leaf_469
+  - first:
+      213: 651865787019706406
+    second: Iron_Flower_Leaf_470
+  - first:
+      213: 2522244051486094667
+    second: Iron_Flower_Leaf_471
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32049dbeae0d17440800000000000000
+      internalID: 4931952774345211939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8782c70113d3c90800000000000000
+      internalID: -7188535483341178668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cba696c768d3de0800000000000000
+      internalID: -1351776444238611447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576f6f148b404190800000000000000
+      internalID: -7980295508865357992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9c8ccc90a605540800000000000000
+      internalID: 4994608577076840935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245d4b17e7218a500800000000000000
+      internalID: 407596100559885634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614d2ae053eeb2510800000000000000
+      internalID: 1525574810441274390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5bb8753234868b0800000000000000
+      internalID: -5158799554081213023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_8
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82531c2004f86fbc0800000000000000
+      internalID: -3749652134652463832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2344b6f3c7b0d1b0800000000000000
+      internalID: -5633801081554975955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_10
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8843ebec59a5c90800000000000000
+      internalID: -7180261940701919070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_11
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2887e26710e87f690800000000000000
+      internalID: -7568424511843960702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_12
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b777d7c0b035b0f90800000000000000
+      internalID: -6986399090015897733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_13
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b1433b5f8047300800000000000000
+      internalID: 248833730778766220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_14
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b22831fd744e1d0800000000000000
+      internalID: -3322451601662006466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_15
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6145dcb584a3690800000000000000
+      internalID: -7621699860247079258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_16
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2703e5d6976816b10800000000000000
+      internalID: 1973005967849042034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_17
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb750c5fb13cac0800000000000000
+      internalID: -3836191715281618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_18
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252e175448f5732d0800000000000000
+      internalID: -3299063180320185774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_19
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f9d1b723ca69d50800000000000000
+      internalID: 6743766824847777586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee1e1a2de7dec40800000000000000
+      internalID: 5543226159487119046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ba5770d898e080800000000000000
+      internalID: -9157901821134851862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5798c01a916abffb0800000000000000
+      internalID: -4612910764304594571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717f5478e09e557d0800000000000000
+      internalID: -2930179733926316265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e158612475da40800000000000000
+      internalID: 5392343815678976872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9da7846042ae7c0800000000000000
+      internalID: -4041378106207184397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_26
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837755fef8ea74cb0800000000000000
+      internalID: -4879739738013731016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_27
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57dd4d4da84de680800000000000000
+      internalID: -8724236993983293606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_28
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0afca6403cafb90800000000000000
+      internalID: -7207233829913780039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_29
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a98600d19fe3e4e0800000000000000
+      internalID: -1953454403809277533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_30
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382b046d48ad69e0800000000000000
+      internalID: -1626458840066480076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_31
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ede4c3d01638700800000000000000
+      internalID: 541383089688862309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_32
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4083cd8045b0fdf0800000000000000
+      internalID: -148419498842292146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_33
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab284f589d5692c00800000000000000
+      internalID: 876343587429974714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_34
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d09aaf08037ce100800000000000000
+      internalID: 138612167001411796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_35
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1e1f01274a7fd0800000000000000
+      internalID: -2343482448779797068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_36
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea88d1eec07090970800000000000000
+      internalID: 8721509905495591086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_37
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6df77bd435ce40800000000000000
+      internalID: 5676001022585958381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_38
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6020d7e24afe2dc00800000000000000
+      internalID: 924064361997992454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_39
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf272dadd131af70800000000000000
+      internalID: 9196686742229823434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d067b6816325f0800000000000000
+      internalID: -782674679002246681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c17602ced17dec0800000000000000
+      internalID: -3542329681910489981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e334b3284cff4da0800000000000000
+      internalID: -5958266395221019671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_43
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb6623fd10bbb9c0800000000000000
+      internalID: -3910338208761222219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f0de4f514e32370800000000000000
+      internalID: 8296725721501208346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_45
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35a485f6aefad70800000000000000
+      internalID: 9056715139608892378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_46
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd6fe9ff52111d10800000000000000
+      internalID: 2094475505128402416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_47
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a623bc325f6d60800000000000000
+      internalID: 7885611893206197179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_48
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405503f640e115080800000000000000
+      internalID: -9200539559347071740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_49
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2803ffc9e2bed00800000000000000
+      internalID: 1002946593851212506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901c154a82b1f2430800000000000000
+      internalID: 3760254075247116553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_51
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21825015f5d16120800000000000000
+      internalID: 2405438924510101803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_52
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4d42e898309ff20800000000000000
+      internalID: 3456798078313747658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_53
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24124f57ec1a966e0800000000000000
+      internalID: -1843764664317238974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_54
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71a52f032d11d260800000000000000
+      internalID: 7120504522264650107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_55
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7894430ed95e36510800000000000000
+      internalID: 1541327963724990855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_56
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea779fa7005ec23a0800000000000000
+      internalID: -6688719556326099026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_57
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ea9d643f853aa0800000000000000
+      internalID: -6181877458156197907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_58
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478a5badda0025b90800000000000000
+      internalID: -7254735303041767308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_59
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5b07b399fea120800000000000000
+      internalID: 2427151662025760732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc20bc37805077b0800000000000000
+      internalID: -5228590625608160033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec70a0ceadc5c690800000000000000
+      internalID: -7582428247168615194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_62
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b144d76b713dc0800000000000000
+      internalID: -3661009336202579581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_63
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35d6a6b5e01ad240800000000000000
+      internalID: 4817181330224108858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_64
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf8509c41f3a170800000000000000
+      internalID: 8188653858631252679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_65
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a362a414df66c2c80800000000000000
+      internalID: -8346182771516234182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_66
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b878f2a045db3570800000000000000
+      internalID: 8447579999652313272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_67
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad83c9e4c28cdf0800000000000000
+      internalID: -159829070631609790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_68
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ccce2cc85ac3ae0800000000000000
+      internalID: -1568196546247472057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_69
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ff395b6819cd9c0800000000000000
+      internalID: -3901083169451671668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_70
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd9c8ea6a51eb550800000000000000
+      internalID: 6178399544436104670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_71
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d0a8ef783ee1730800000000000000
+      internalID: 3971862094617906490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_72
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5ee06dcc01825b0800000000000000
+      internalID: -5393042081825495644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_73
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc97a90d618d4d0800000000000000
+      internalID: -3109710457498645436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_74
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf18a663b2526ac20800000000000000
+      internalID: 3217299851329569276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_75
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e89faed83882810800000000000000
+      internalID: 1740785901534547598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_76
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18e9d6e076816a0800000000000000
+      internalID: -6478314752306150926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_77
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d063e8f3190c050800000000000000
+      internalID: 5818810420717554996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_78
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e284377e2d75f1390800000000000000
+      internalID: -7845455462518274002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_79
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfb07985fc6496f0800000000000000
+      internalID: -678797841997447248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a3d5842390b4400800000000000000
+      internalID: 309351110972095112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3180dcfc5d46274c0800000000000000
+      internalID: -4291256625453529069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_82
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5230cc406deed730800000000000000
+      internalID: 4025916114776109660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_83
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198ed147ef7a3ed0800000000000000
+      internalID: -2433492017421055713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_84
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf1464e383236220800000000000000
+      internalID: 2477863269363359692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_85
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e73f331f8e38ca0800000000000000
+      internalID: -6015708554580492794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_86
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac205843532ed00800000000000000
+      internalID: 1000420566915795675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_87
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b19cf8f81778600800000000000000
+      internalID: 470469547490089735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_88
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcfd9b30b315c5e0800000000000000
+      internalID: -1890082820976673547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_89
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9570e955febff1420800000000000000
+      internalID: 2603076114995611481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_90
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5571d117eb89f41d0800000000000000
+      internalID: -3364302452913531051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_91
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d25849191d2bc0800000000000000
+      internalID: -3806358513679937416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_92
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc1887ded5f39e80800000000000000
+      internalID: -8172918561299751742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_93
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b01523d79337b20800000000000000
+      internalID: 3130909375830493961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_94
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e25aadc0db6cf110800000000000000
+      internalID: 1296029337323721446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_95
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f802cb5f1d55b0800000000000000
+      internalID: -5378107901052651521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_96
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb1af3a70a3e2640800000000000000
+      internalID: 5057043236073905089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_97
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c9809efd79ae4a0800000000000000
+      internalID: -6563266518995919738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_98
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25a016ab8aeebc0800000000000000
+      internalID: -3751875921107594571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_99
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a3d357813a8e20800000000000000
+      internalID: 3353547329827480869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779124b4419d482e0800000000000000
+      internalID: -2124334443026835081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a840b2b182f260240800000000000000
+      internalID: 4757541905664509066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_102
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da50959730764450800000000000000
+      internalID: 6072664531590470361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_103
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f5389df827c7dd0800000000000000
+      internalID: -2486986932060201154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_104
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c03d3e480c8710800000000000000
+      internalID: 1696740291738911086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_105
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b435ff87db2b020800000000000000
+      internalID: 2356153882445564815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_106
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe94f27c744d3910800000000000000
+      internalID: 1818685125822815991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_107
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e21639fae0b76680800000000000000
+      internalID: -8761840026776104215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_108
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d557ec8299858e730800000000000000
+      internalID: 4028567281520768349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_109
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3246fca7533ff20800000000000000
+      internalID: 3455164140705031072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_110
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f1e55d3f5d3460800000000000000
+      internalID: 7223034094410658608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_111
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812aab0ce61495c20800000000000000
+      internalID: 3195657354531742232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_112
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c26930d669166e20800000000000000
+      internalID: 3343387702739952327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_113
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2a11897bbe4bb0800000000000000
+      internalID: -4949812809902183147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_114
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da47319daf609e20800000000000000
+      internalID: 3355304513647364820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_115
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc9a15b66b469cb0800000000000000
+      internalID: -4857612243575333705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_116
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0d3f406be755380800000000000000
+      internalID: -8983134561488351029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_117
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be9cd380faf24b0800000000000000
+      internalID: -5462955373045879977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_118
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e07b091b5364f50800000000000000
+      internalID: 6865233718726299159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_119
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18b4eae674bbec80800000000000000
+      internalID: -8292335866032637921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b158f3b28c9a6b90800000000000000
+      internalID: -7247808565120314957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_121
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe8aac67681a8d70800000000000000
+      internalID: 9046069634010877692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_122
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b5c90532b29ba0800000000000000
+      internalID: -6083604205757156687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_123
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbe60b4868d5de40800000000000000
+      internalID: 5680684447444691914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_124
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bbb7209d2967670800000000000000
+      internalID: 8536171604474575630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_125
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4fcdfb8897630a0800000000000000
+      internalID: -6902195750657264473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_126
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f3b05c5b17bcd40800000000000000
+      internalID: 5605699186701582130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_127
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc5c1e5d070af70800000000000000
+      internalID: 9196474503008734036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_128
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7373756896ccd20800000000000000
+      internalID: 3300128652665501621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_129
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a0c4cb4ea0b6f0800000000000000
+      internalID: -670844704031463938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_130
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2570375ab2a6ae0800000000000000
+      internalID: -1555382731703627044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_131
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d53f2145a8e7c0800000000000000
+      internalID: -4041798966181505767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_132
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c226ab68656b7290800000000000000
+      internalID: -7891602422879608126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_133
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473a7281db3e46f40800000000000000
+      internalID: 5720947827960947572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_134
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d074c8dd201f200800000000000000
+      internalID: 211953808027618718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_135
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb32559b5fa55640800000000000000
+      internalID: 5068149763557440486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_136
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d280c2b615f7dfc0800000000000000
+      internalID: -3470035510028631342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_137
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f8108416736d350800000000000000
+      internalID: 6041076841123516224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_138
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752db0056ec2a960800000000000000
+      internalID: 7611873253408974199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_139
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344d2c04c3b312390800000000000000
+      internalID: -7844923945932106685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667c8ed4bd979e470800000000000000
+      internalID: 8424398560785123174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489c1421f4691140800000000000000
+      internalID: 4690891473738831942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_142
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a264a7f963b437930800000000000000
+      internalID: 4139735180459525674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_143
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05818b0867ae61f90800000000000000
+      internalID: -6983136377504786352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_144
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b315c144c0fb36b0800000000000000
+      internalID: -5315390209473047629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_145
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5a0ddcf136c73b0800000000000000
+      internalID: -5513422855560190544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_146
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462dd57f61c2c62c0800000000000000
+      internalID: -4437123055715757468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_147
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d285803632d300800000000000000
+      internalID: 275342109249295480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_148
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d3bf6f715909920800000000000000
+      internalID: 2995057682361826566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_149
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b717de7d916733ef0800000000000000
+      internalID: -129630110894689925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_150
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2ab5ee0063c070800000000000000
+      internalID: 8125443769806499405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_151
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad234ec60361bc160800000000000000
+      internalID: 7046750439192408794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_152
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0dd5a8be572a940800000000000000
+      internalID: 5305932965495034017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_153
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c335cce1e4a0b0800000000000000
+      internalID: -5718197219816651658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_154
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578404736a44b55c0800000000000000
+      internalID: -4225708344674858891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_155
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46468717c9a31ca20800000000000000
+      internalID: 3080808063691154532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_156
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89947bd174c59f690800000000000000
+      internalID: -7567916238308423272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_157
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319a24230e5641b30800000000000000
+      internalID: 4257139561362270483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_158
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c9c5bd0367d360800000000000000
+      internalID: 7194327840283281247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_159
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ab803f8924495c0800000000000000
+      internalID: -4209666527004673500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f2e049ee6e8b470800000000000000
+      internalID: 8410726216474963822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_161
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491aeef443b7b190800000000000000
+      internalID: -7946685908556048052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_162
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab45864f2df66a10800000000000000
+      internalID: 1902486272099044257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_163
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025fc08bd65a62080800000000000000
+      internalID: -9212494097081895648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_164
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30043a4dc58989610800000000000000
+      internalID: 1628218789766316035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_165
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9781fbfc0b64e0800000000000000
+      internalID: -1987480534325420275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_166
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82fd3e8f6386ac0800000000000000
+      internalID: -3861776237867358047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_167
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a179d8b4a9805db70800000000000000
+      internalID: 8923047695490062106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_168
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249c49eaf1584040800000000000000
+      internalID: 4632042354848338989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_169
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e50d481a24dde0800000000000000
+      internalID: -1309375307798159053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_170
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec27611a89ebe40800000000000000
+      internalID: 5674140398167183066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_171
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86880aa6e4e37b200800000000000000
+      internalID: 195693615331182696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_172
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785a671ff7eeda660800000000000000
+      internalID: 7398831996118934919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_173
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff205cecffb36bab0800000000000000
+      internalID: -4992737167021899009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_174
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f6d229d0e70aa10800000000000000
+      internalID: 1918672038011957063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_175
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b29b347d92e67c0800000000000000
+      internalID: -4076274608192804064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_176
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86820c9c19a3f33f0800000000000000
+      internalID: -918951401130809240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_177
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c0cdf345994a00800000000000000
+      internalID: 741287732931773780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_178
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed79ed7848af2a20800000000000000
+      internalID: 3039833302801939950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_179
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bb4d479c2374320800000000000000
+      internalID: 2542056355503848347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191fd530c819462d0800000000000000
+      internalID: -3286341797535682159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_181
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2586954cd9e259cb0800000000000000
+      internalID: -4857925367910274990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_182
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ed6a6e406620e0800000000000000
+      internalID: -2295041070189385378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_183
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fb0ff4787207ce0800000000000000
+      internalID: -1409583221251719423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_184
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f61b97f3f0fd710800000000000000
+      internalID: 1720110347977846673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_185
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912d17a09909cb250800000000000000
+      internalID: 5961798993711321625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_186
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bb7cc79fb2efe70800000000000000
+      internalID: 9150799843403742008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_187
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe729e44d3d7e28f0800000000000000
+      internalID: -563375201272125457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_188
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ddb4f1ad61c9420800000000000000
+      internalID: 2638008607816015195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_189
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7244188b79b4f20800000000000000
+      internalID: 3407984361734416305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_190
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b30326fdbf2c70800000000000000
+      internalID: 8948579849455515801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_191
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d2e95912d6f5870800000000000000
+      internalID: 8673771398350384500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_192
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db876ed10e844b30800000000000000
+      internalID: 4270694485331512278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_193
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367ddff9ab13f6890800000000000000
+      internalID: -7462691379911731357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_194
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6782b869852e1330800000000000000
+      internalID: 3683422817332922218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_195
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25eeb7b646d6dd50800000000000000
+      internalID: 6761827489762174254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_196
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fef14e5622ddc60800000000000000
+      internalID: 7844463946963611468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_197
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083149c6d9f681560800000000000000
+      internalID: 7284695119193969536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_198
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd3dedd2734829a0800000000000000
+      internalID: -6257677521602658886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_199
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a056bb3c0be285680800000000000000
+      internalID: -8766205337943710454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb1fe7713d71830800000000000000
+      internalID: 4041931288455790289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_201
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebb29708d2dc9d0800000000000000
+      internalID: -2752493767441531312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_202
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18367b7818e96b4b0800000000000000
+      internalID: -5424974421956271231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_203
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eeb261305c49b30800000000000000
+      internalID: 4293272961838476824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_204
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81041036505ad4640800000000000000
+      internalID: 5065886598416121880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_205
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca1b1ea085bced90800000000000000
+      internalID: -7067074150969697588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_206
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a95319590119d40800000000000000
+      internalID: 5589266847115876998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_207
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb30bf56b2cc92d0800000000000000
+      internalID: -3270525140832601089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_208
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bbd6deda71beb30800000000000000
+      internalID: 4317570703544925029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_209
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be966cc50cfa3eba0800000000000000
+      internalID: -6060807432785466901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_210
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9e00aa51eca950800000000000000
+      internalID: 6461787344718437529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_211
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163842b47bb102220800000000000000
+      internalID: 2458995870597940065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_212
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29943714df275ea10800000000000000
+      internalID: 1938081646703233426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_213
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cca61842012db30800000000000000
+      internalID: 4310525542323112980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_214
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fe6382c7f313bd0800000000000000
+      internalID: -2652268903061328075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_215
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b944620e06801b470800000000000000
+      internalID: 8408511191447913627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_216
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67020d94d15c50a30800000000000000
+      internalID: 4180964558666473590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_217
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2151b9b7ba4d9790800000000000000
+      internalID: -7521773649683984082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_218
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9a275a72465ce30800000000000000
+      internalID: 4523131522205788640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_219
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61364ff3d5881c0800000000000000
+      internalID: -4501245298292353368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e67a21660d835a0800000000000000
+      internalID: -6541249321937441241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_221
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52121cbe6b7a8930800000000000000
+      internalID: 4146262122479882847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_222
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61262503f03e153f0800000000000000
+      internalID: -913699595004780010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_223
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8f2cd081f0f5580800000000000000
+      internalID: -8836327347893110529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_224
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f233d4823bed380800000000000000
+      internalID: -8944514824235962541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_225
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbff73c0abd12deb0800000000000000
+      internalID: -4696658776487886917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_226
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e24286563b199e0800000000000000
+      internalID: -1616313543129027012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron_Flower_Leaf_227
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54adf968359409ce0800000000000000
+      internalID: -1400538861022487995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3af1d15f0ea9c664eba6f7b226c413c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron_Flower_Leaf_0: 4931952774345211939
+      Iron_Flower_Leaf_1: -7188535483341178668
+      Iron_Flower_Leaf_10: -7180261940701919070
+      Iron_Flower_Leaf_100: -2124334443026835081
+      Iron_Flower_Leaf_101: 4757541905664509066
+      Iron_Flower_Leaf_102: 6072664531590470361
+      Iron_Flower_Leaf_103: -2486986932060201154
+      Iron_Flower_Leaf_104: 1696740291738911086
+      Iron_Flower_Leaf_105: 2356153882445564815
+      Iron_Flower_Leaf_106: 1818685125822815991
+      Iron_Flower_Leaf_107: -8761840026776104215
+      Iron_Flower_Leaf_108: 4028567281520768349
+      Iron_Flower_Leaf_109: 3455164140705031072
+      Iron_Flower_Leaf_11: -7568424511843960702
+      Iron_Flower_Leaf_110: 7223034094410658608
+      Iron_Flower_Leaf_111: 3195657354531742232
+      Iron_Flower_Leaf_112: 3343387702739952327
+      Iron_Flower_Leaf_113: -4949812809902183147
+      Iron_Flower_Leaf_114: 3355304513647364820
+      Iron_Flower_Leaf_115: -4857612243575333705
+      Iron_Flower_Leaf_116: -8983134561488351029
+      Iron_Flower_Leaf_117: -5462955373045879977
+      Iron_Flower_Leaf_118: 6865233718726299159
+      Iron_Flower_Leaf_119: -8292335866032637921
+      Iron_Flower_Leaf_12: -6986399090015897733
+      Iron_Flower_Leaf_120: -7247808565120314957
+      Iron_Flower_Leaf_121: 9046069634010877692
+      Iron_Flower_Leaf_122: -6083604205757156687
+      Iron_Flower_Leaf_123: 5680684447444691914
+      Iron_Flower_Leaf_124: 8536171604474575630
+      Iron_Flower_Leaf_125: -6902195750657264473
+      Iron_Flower_Leaf_126: 5605699186701582130
+      Iron_Flower_Leaf_127: 9196474503008734036
+      Iron_Flower_Leaf_128: 3300128652665501621
+      Iron_Flower_Leaf_129: -670844704031463938
+      Iron_Flower_Leaf_13: 248833730778766220
+      Iron_Flower_Leaf_130: -1555382731703627044
+      Iron_Flower_Leaf_131: -4041798966181505767
+      Iron_Flower_Leaf_132: -7891602422879608126
+      Iron_Flower_Leaf_133: 5720947827960947572
+      Iron_Flower_Leaf_134: 211953808027618718
+      Iron_Flower_Leaf_135: 5068149763557440486
+      Iron_Flower_Leaf_136: -3470035510028631342
+      Iron_Flower_Leaf_137: 6041076841123516224
+      Iron_Flower_Leaf_138: 7611873253408974199
+      Iron_Flower_Leaf_139: -7844923945932106685
+      Iron_Flower_Leaf_14: -3322451601662006466
+      Iron_Flower_Leaf_140: 8424398560785123174
+      Iron_Flower_Leaf_141: 4690891473738831942
+      Iron_Flower_Leaf_142: 4139735180459525674
+      Iron_Flower_Leaf_143: -6983136377504786352
+      Iron_Flower_Leaf_144: -5315390209473047629
+      Iron_Flower_Leaf_145: -5513422855560190544
+      Iron_Flower_Leaf_146: -4437123055715757468
+      Iron_Flower_Leaf_147: 275342109249295480
+      Iron_Flower_Leaf_148: 2995057682361826566
+      Iron_Flower_Leaf_149: -129630110894689925
+      Iron_Flower_Leaf_15: -7621699860247079258
+      Iron_Flower_Leaf_150: 8125443769806499405
+      Iron_Flower_Leaf_151: 7046750439192408794
+      Iron_Flower_Leaf_152: 5305932965495034017
+      Iron_Flower_Leaf_153: -5718197219816651658
+      Iron_Flower_Leaf_154: -4225708344674858891
+      Iron_Flower_Leaf_155: 3080808063691154532
+      Iron_Flower_Leaf_156: -7567916238308423272
+      Iron_Flower_Leaf_157: 4257139561362270483
+      Iron_Flower_Leaf_158: 7194327840283281247
+      Iron_Flower_Leaf_159: -4209666527004673500
+      Iron_Flower_Leaf_16: 1973005967849042034
+      Iron_Flower_Leaf_160: 8410726216474963822
+      Iron_Flower_Leaf_161: -7946685908556048052
+      Iron_Flower_Leaf_162: 1902486272099044257
+      Iron_Flower_Leaf_163: -9212494097081895648
+      Iron_Flower_Leaf_164: 1628218789766316035
+      Iron_Flower_Leaf_165: -1987480534325420275
+      Iron_Flower_Leaf_166: -3861776237867358047
+      Iron_Flower_Leaf_167: 8923047695490062106
+      Iron_Flower_Leaf_168: 4632042354848338989
+      Iron_Flower_Leaf_169: -1309375307798159053
+      Iron_Flower_Leaf_17: -3836191715281618172
+      Iron_Flower_Leaf_170: 5674140398167183066
+      Iron_Flower_Leaf_171: 195693615331182696
+      Iron_Flower_Leaf_172: 7398831996118934919
+      Iron_Flower_Leaf_173: -4992737167021899009
+      Iron_Flower_Leaf_174: 1918672038011957063
+      Iron_Flower_Leaf_175: -4076274608192804064
+      Iron_Flower_Leaf_176: -918951401130809240
+      Iron_Flower_Leaf_177: 741287732931773780
+      Iron_Flower_Leaf_178: 3039833302801939950
+      Iron_Flower_Leaf_179: 2542056355503848347
+      Iron_Flower_Leaf_18: -3299063180320185774
+      Iron_Flower_Leaf_180: -3286341797535682159
+      Iron_Flower_Leaf_181: -4857925367910274990
+      Iron_Flower_Leaf_182: -2295041070189385378
+      Iron_Flower_Leaf_183: -1409583221251719423
+      Iron_Flower_Leaf_184: 1720110347977846673
+      Iron_Flower_Leaf_185: 5961798993711321625
+      Iron_Flower_Leaf_186: 9150799843403742008
+      Iron_Flower_Leaf_187: -563375201272125457
+      Iron_Flower_Leaf_188: 2638008607816015195
+      Iron_Flower_Leaf_189: 3407984361734416305
+      Iron_Flower_Leaf_19: 6743766824847777586
+      Iron_Flower_Leaf_190: 8948579849455515801
+      Iron_Flower_Leaf_191: 8673771398350384500
+      Iron_Flower_Leaf_192: 4270694485331512278
+      Iron_Flower_Leaf_193: -7462691379911731357
+      Iron_Flower_Leaf_194: 3683422817332922218
+      Iron_Flower_Leaf_195: 6761827489762174254
+      Iron_Flower_Leaf_196: 7844463946963611468
+      Iron_Flower_Leaf_197: 7284695119193969536
+      Iron_Flower_Leaf_198: -6257677521602658886
+      Iron_Flower_Leaf_199: -8766205337943710454
+      Iron_Flower_Leaf_2: -1351776444238611447
+      Iron_Flower_Leaf_20: 5543226159487119046
+      Iron_Flower_Leaf_200: 4041931288455790289
+      Iron_Flower_Leaf_201: -2752493767441531312
+      Iron_Flower_Leaf_202: -5424974421956271231
+      Iron_Flower_Leaf_203: 4293272961838476824
+      Iron_Flower_Leaf_204: 5065886598416121880
+      Iron_Flower_Leaf_205: -7067074150969697588
+      Iron_Flower_Leaf_206: 5589266847115876998
+      Iron_Flower_Leaf_207: -3270525140832601089
+      Iron_Flower_Leaf_208: 4317570703544925029
+      Iron_Flower_Leaf_209: -6060807432785466901
+      Iron_Flower_Leaf_21: -9157901821134851862
+      Iron_Flower_Leaf_210: 6461787344718437529
+      Iron_Flower_Leaf_211: 2458995870597940065
+      Iron_Flower_Leaf_212: 1938081646703233426
+      Iron_Flower_Leaf_213: 4310525542323112980
+      Iron_Flower_Leaf_214: -2652268903061328075
+      Iron_Flower_Leaf_215: 8408511191447913627
+      Iron_Flower_Leaf_216: 4180964558666473590
+      Iron_Flower_Leaf_217: -7521773649683984082
+      Iron_Flower_Leaf_218: 4523131522205788640
+      Iron_Flower_Leaf_219: -4501245298292353368
+      Iron_Flower_Leaf_22: -4612910764304594571
+      Iron_Flower_Leaf_220: -6541249321937441241
+      Iron_Flower_Leaf_221: 4146262122479882847
+      Iron_Flower_Leaf_222: -913699595004780010
+      Iron_Flower_Leaf_223: -8836327347893110529
+      Iron_Flower_Leaf_224: -8944514824235962541
+      Iron_Flower_Leaf_225: -4696658776487886917
+      Iron_Flower_Leaf_226: -1616313543129027012
+      Iron_Flower_Leaf_227: -1400538861022487995
+      Iron_Flower_Leaf_23: -2930179733926316265
+      Iron_Flower_Leaf_24: 5392343815678976872
+      Iron_Flower_Leaf_25: -4041378106207184397
+      Iron_Flower_Leaf_26: -4879739738013731016
+      Iron_Flower_Leaf_27: -8724236993983293606
+      Iron_Flower_Leaf_28: -7207233829913780039
+      Iron_Flower_Leaf_29: -1953454403809277533
+      Iron_Flower_Leaf_3: -7980295508865357992
+      Iron_Flower_Leaf_30: -1626458840066480076
+      Iron_Flower_Leaf_31: 541383089688862309
+      Iron_Flower_Leaf_32: -148419498842292146
+      Iron_Flower_Leaf_33: 876343587429974714
+      Iron_Flower_Leaf_34: 138612167001411796
+      Iron_Flower_Leaf_35: -2343482448779797068
+      Iron_Flower_Leaf_36: 8721509905495591086
+      Iron_Flower_Leaf_37: 5676001022585958381
+      Iron_Flower_Leaf_38: 924064361997992454
+      Iron_Flower_Leaf_39: 9196686742229823434
+      Iron_Flower_Leaf_4: 4994608577076840935
+      Iron_Flower_Leaf_40: -782674679002246681
+      Iron_Flower_Leaf_41: -3542329681910489981
+      Iron_Flower_Leaf_42: -5958266395221019671
+      Iron_Flower_Leaf_43: -3910338208761222219
+      Iron_Flower_Leaf_44: 8296725721501208346
+      Iron_Flower_Leaf_45: 9056715139608892378
+      Iron_Flower_Leaf_46: 2094475505128402416
+      Iron_Flower_Leaf_47: 7885611893206197179
+      Iron_Flower_Leaf_48: -9200539559347071740
+      Iron_Flower_Leaf_49: 1002946593851212506
+      Iron_Flower_Leaf_5: 407596100559885634
+      Iron_Flower_Leaf_50: 3760254075247116553
+      Iron_Flower_Leaf_51: 2405438924510101803
+      Iron_Flower_Leaf_52: 3456798078313747658
+      Iron_Flower_Leaf_53: -1843764664317238974
+      Iron_Flower_Leaf_54: 7120504522264650107
+      Iron_Flower_Leaf_55: 1541327963724990855
+      Iron_Flower_Leaf_56: -6688719556326099026
+      Iron_Flower_Leaf_57: -6181877458156197907
+      Iron_Flower_Leaf_58: -7254735303041767308
+      Iron_Flower_Leaf_59: 2427151662025760732
+      Iron_Flower_Leaf_6: 1525574810441274390
+      Iron_Flower_Leaf_60: -5228590625608160033
+      Iron_Flower_Leaf_61: -7582428247168615194
+      Iron_Flower_Leaf_62: -3661009336202579581
+      Iron_Flower_Leaf_63: 4817181330224108858
+      Iron_Flower_Leaf_64: 8188653858631252679
+      Iron_Flower_Leaf_65: -8346182771516234182
+      Iron_Flower_Leaf_66: 8447579999652313272
+      Iron_Flower_Leaf_67: -159829070631609790
+      Iron_Flower_Leaf_68: -1568196546247472057
+      Iron_Flower_Leaf_69: -3901083169451671668
+      Iron_Flower_Leaf_7: -5158799554081213023
+      Iron_Flower_Leaf_70: 6178399544436104670
+      Iron_Flower_Leaf_71: 3971862094617906490
+      Iron_Flower_Leaf_72: -5393042081825495644
+      Iron_Flower_Leaf_73: -3109710457498645436
+      Iron_Flower_Leaf_74: 3217299851329569276
+      Iron_Flower_Leaf_75: 1740785901534547598
+      Iron_Flower_Leaf_76: -6478314752306150926
+      Iron_Flower_Leaf_77: 5818810420717554996
+      Iron_Flower_Leaf_78: -7845455462518274002
+      Iron_Flower_Leaf_79: -678797841997447248
+      Iron_Flower_Leaf_8: -3749652134652463832
+      Iron_Flower_Leaf_80: 309351110972095112
+      Iron_Flower_Leaf_81: -4291256625453529069
+      Iron_Flower_Leaf_82: 4025916114776109660
+      Iron_Flower_Leaf_83: -2433492017421055713
+      Iron_Flower_Leaf_84: 2477863269363359692
+      Iron_Flower_Leaf_85: -6015708554580492794
+      Iron_Flower_Leaf_86: 1000420566915795675
+      Iron_Flower_Leaf_87: 470469547490089735
+      Iron_Flower_Leaf_88: -1890082820976673547
+      Iron_Flower_Leaf_89: 2603076114995611481
+      Iron_Flower_Leaf_9: -5633801081554975955
+      Iron_Flower_Leaf_90: -3364302452913531051
+      Iron_Flower_Leaf_91: -3806358513679937416
+      Iron_Flower_Leaf_92: -8172918561299751742
+      Iron_Flower_Leaf_93: 3130909375830493961
+      Iron_Flower_Leaf_94: 1296029337323721446
+      Iron_Flower_Leaf_95: -5378107901052651521
+      Iron_Flower_Leaf_96: 5057043236073905089
+      Iron_Flower_Leaf_97: -6563266518995919738
+      Iron_Flower_Leaf_98: -3751875921107594571
+      Iron_Flower_Leaf_99: 3353547329827480869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

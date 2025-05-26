@@ -4947,6 +4947,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player2 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5819043865148467395, guid: 5b20119592c3b9d4e893990d15d26073, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.9700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819043865148467395, guid: 5b20119592c3b9d4e893990d15d26073, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 8.536001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819043865148467395, guid: 5b20119592c3b9d4e893990d15d26073, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.4831998
+      objectReference: {fileID: 0}
+    - target: {fileID: 5819043865148467395, guid: 5b20119592c3b9d4e893990d15d26073, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.18
+      objectReference: {fileID: 0}
     - target: {fileID: 7107103462921043286, guid: 5b20119592c3b9d4e893990d15d26073, type: 3}
       propertyPath: dust
       value: 

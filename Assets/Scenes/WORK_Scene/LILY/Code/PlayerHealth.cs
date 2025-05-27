@@ -13,6 +13,8 @@ public class PlayerHealth : MonoBehaviour
 
     public Animator animator;
 
+    public AudioClip damage; 
+
     void Start()
     {
         currentLives = maxLives;
@@ -40,6 +42,7 @@ public class PlayerHealth : MonoBehaviour
             SceneManager.LoadScene(5);
         }
 
+        print(currentLives);
         animator.SetInteger("currentLives", currentLives);
 
 

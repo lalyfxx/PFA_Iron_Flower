@@ -11,6 +11,8 @@ public class FakeJump : MonoBehaviour
     public float minYScale = 1f;
     public float jumpForce = 5f;
     public Animator animator;
+    public AudioSource hitting_the_floor;
+    public AudioSource LegsExtended; 
 
     private Vector3 scale;
     private bool wasAboveMinY = false;
@@ -21,6 +23,8 @@ public class FakeJump : MonoBehaviour
     public LayerMask layerCeil;
     public float raycastCeilDistance;
     private bool _isCeilling;
+
+
 
     void Start()
     {
@@ -55,6 +59,7 @@ public class FakeJump : MonoBehaviour
         {
             scale.y += growSpeed * Time.deltaTime;
             scale.y = Mathf.Min(scale.y, maxYScale);
+            LegsExtended.Play();
         }
         else
         {
@@ -101,6 +106,7 @@ public class FakeJump : MonoBehaviour
     void EvaluateCollision(ContactPoint2D pointHit)
     {
         CreateDust();
+        hitting_the_floor.Play();
         Debug.Log(pointHit.normal.y);
         if (pointHit.normal.y == 1)
         {

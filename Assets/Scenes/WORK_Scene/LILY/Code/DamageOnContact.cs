@@ -7,7 +7,7 @@ public class DamageOnContact : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.attachedRigidbody.CompareTag("Player"))
+        if (other.CompareTag("Player"))
         {
             PlayerHealth health = other.GetComponent<PlayerHealth>();
             if (health != null)

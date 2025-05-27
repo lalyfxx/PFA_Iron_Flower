@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b1b06a629a71307409e01dd08218fe27
+guid: 16efe2b6c33ecbe4d9f77ce469ccd868
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4479300131705793681
-    second: Iron_Flower_Aseprite_Sparkle_2_0
+      213: -6201801163783838715
+    second: Iron_Flower_Aseprite_Sparkle_2 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Iron_Flower_Aseprite_Sparkle_2_0
+      name: Iron_Flower_Aseprite_Sparkle_2 1_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19c2fa8ccbba92e30800000000000000
-      internalID: 4479300131705793681
+      spriteID: 5046f0933b6cee9a0800000000000000
+      internalID: -6201801163783838715
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a6f4b755f06966e489928d0cbf138337
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Iron_Flower_Aseprite_Sparkle_2_0: 4479300131705793681
+      Iron_Flower_Aseprite_Sparkle_2 1_0: -6201801163783838715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

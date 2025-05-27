@@ -7,11 +7,12 @@ public class Checkpoint : MonoBehaviour
 
     public AudioSource checkpoint;
 
+    public ParticleSystem paillettes;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.attachedRigidbody.CompareTag("Player"))
         {
-            Debug.Log("Hello");
             RespawnController.Instance.respawnPoint = transform;
             trigger.enabled = false;
             FindAnyObjectByType<PlayerUI>().lastCheckpointPos = transform.position;
@@ -25,6 +26,7 @@ public class Checkpoint : MonoBehaviour
         if (checkpoint != null)
         {
             checkpoint.Play();
+            paillettes.Play();
         }
     }
 }

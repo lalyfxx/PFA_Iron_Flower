@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: a637db4b3d8de8a4187b4df552f9a011
+guid: 3df0bb936d522dd49bc303ac936edb1c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8028446487810858020
-    second: Iron_Flower_Iron_0
-  - first:
-      213: -8647143478792147381
-    second: Iron_Flower_Iron_1
-  - first:
-      213: 790084770454257145
-    second: Iron_Flower_Iron_2
-  - first:
-      213: 4004019146248224358
-    second: Iron_Flower_Iron_3
+      213: -5368506715079131765
+    second: Petal_Icon 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Iron_Flower_Iron_0
+      name: Petal_Icon 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 125
-        height: 49
+        width: 40
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 42cd23c4b85ca6f60800000000000000
-      internalID: 8028446487810858020
+      spriteID: 00d64f1fecb8e274c9e1bbed1181cbc0
+      internalID: 1617174003
       vertices: []
       indices: 
       edges: []
@@ -134,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d37d9bb783e7ac24e8b16fa6c25e8c7e
+    spriteID: 8bc0a3df8d4295e4f83f2eb1f2eebc4b
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Iron_Flower_Iron_0: 8028446487810858020
+      Petal_Icon 1_0: 1617174003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

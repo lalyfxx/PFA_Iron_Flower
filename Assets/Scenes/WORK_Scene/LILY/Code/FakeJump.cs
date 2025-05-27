@@ -12,9 +12,11 @@ public class FakeJump : MonoBehaviour
     public float jumpForce = 5f;
     public Animator animator;
 
+    public AudioSource HittingFloor; 
+    public AudioSource LegsGrowing;
+
     private Vector3 scale;
     private bool wasAboveMinY = false;
-
     private Rigidbody2D rbParent;
 
     [Header("Hit")]
@@ -55,6 +57,7 @@ public class FakeJump : MonoBehaviour
         {
             scale.y += growSpeed * Time.deltaTime;
             scale.y = Mathf.Min(scale.y, maxYScale);
+            LegsGrowing.Play();
         }
         else
         {
@@ -101,6 +104,7 @@ public class FakeJump : MonoBehaviour
     void EvaluateCollision(ContactPoint2D pointHit)
     {
         CreateDust();
+        HittingFloor.Play();
         Debug.Log(pointHit.normal.y);
         if (pointHit.normal.y == 1)
         {

@@ -1,16 +1,16 @@
 using UnityEngine;
 
-public class Audio_Ext : MonoBehaviour
+public class Audio_Int : MonoBehaviour
 {
-    public AudioSource Wind;
-    public AudioSource music;
+    public AudioSource Music;
+    public AudioSource ecran;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.attachedRigidbody.CompareTag("Player"))
         {
-            Wind.Stop();
-            music.Stop();
+            Music.Play();
+            ecran.Play();
         }
     }
 

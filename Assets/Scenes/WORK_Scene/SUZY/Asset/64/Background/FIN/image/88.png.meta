@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: d1a8c88f2a3d1a24e9839e82e4d2aae1
+guid: 007aa6eadc67a6048a42d34418f640e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8284592128738373919
-    second: buisson_0
-  - first:
-      213: 2116277607762759407
-    second: buisson_1
-  - first:
-      213: -4051592244521885737
-    second: buisson_2
-  - first:
-      213: 7365566591427175892
-    second: buisson_3
-  - first:
-      213: -7986719013481580343
-    second: buisson_4
+      213: -5789677524543127715
+    second: 88_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -112,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: buisson_0
+      name: 88_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 525
-        width: 110
-        height: 314
+        x: 0
+        y: 0
+        width: 640
+        height: 1440
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f11b27eb5a8c8f270800000000000000
-      internalID: 8284592128738373919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buisson_1
-      rect:
-        serializedVersion: 2
-        x: 315
-        y: 731
-        width: 62
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fee00d095478e5d10800000000000000
-      internalID: 2116277607762759407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buisson_2
-      rect:
-        serializedVersion: 2
-        x: 110
-        y: 263
-        width: 73
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7df9b82e15ad5c7c0800000000000000
-      internalID: -4051592244521885737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buisson_3
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 266
-        width: 56
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d5608b5acfb73660800000000000000
-      internalID: 7365566591427175892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: buisson_4
-      rect:
-        serializedVersion: 2
-        x: 316
-        y: 30
-        width: 92
-        height: 121
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c872986f59792190800000000000000
-      internalID: -7986719013481580343
+      spriteID: d5f3b8967fee6afa0800000000000000
+      internalID: -5789677524543127715
       vertices: []
       indices: 
       edges: []
@@ -234,12 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      buisson_0: 8284592128738373919
-      buisson_1: 2116277607762759407
-      buisson_2: -4051592244521885737
-      buisson_3: 7365566591427175892
-      buisson_4: -7986719013481580343
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

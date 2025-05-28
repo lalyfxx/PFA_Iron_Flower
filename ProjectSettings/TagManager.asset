@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - touched_checkpoint
   - Enemy
+  - fall
   layers:
   - Default
   - TransparentFX

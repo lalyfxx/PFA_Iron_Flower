@@ -67080,7 +67080,7 @@ GameObject:
   - component: {fileID: 438987388}
   m_Layer: 0
   m_Name: RespawnTrigger (1)
-  m_TagString: Untagged
+  m_TagString: fall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -429698,7 +429698,7 @@ GameObject:
   - component: {fileID: 2142116863}
   m_Layer: 0
   m_Name: RespawnTrigger
-  m_TagString: Untagged
+  m_TagString: fall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

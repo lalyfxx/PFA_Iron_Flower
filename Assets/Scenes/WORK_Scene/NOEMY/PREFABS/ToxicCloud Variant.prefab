@@ -12,13 +12,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: ToxicCloud Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 320074148309138438, guid: 702324f35bf76a340a2be78b77dce7cd, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 5042011289938746574, guid: 702324f35bf76a340a2be78b77dce7cd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.3870382
+      value: -0.88
       objectReference: {fileID: 0}
     - target: {fileID: 5042011289938746574, guid: 702324f35bf76a340a2be78b77dce7cd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.24950814
+      value: 13.41
       objectReference: {fileID: 0}
     - target: {fileID: 5042011289938746574, guid: 702324f35bf76a340a2be78b77dce7cd, type: 3}
       propertyPath: m_LocalPosition.z

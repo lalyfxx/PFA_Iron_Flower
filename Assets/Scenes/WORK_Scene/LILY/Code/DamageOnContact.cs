@@ -25,6 +25,5 @@ public class DamageOnContact : MonoBehaviour
             return;
 
         particle.Play();
-
     }
 }

@@ -1,9 +1,8 @@
 using UnityEngine;
-using TMPro;
 
 public class PlayerUI : MonoBehaviour
 {
-    public TMP_Text livesText;
+    public Animator flowerAnimator; // Assigne dans l’inspecteur
     private PlayerMovment_2 player;
     public Vector3 lastCheckpointPos;
 
@@ -11,19 +10,18 @@ public class PlayerUI : MonoBehaviour
     {
         player = FindAnyObjectByType<PlayerMovment_2>();
     }
+
     public void UpdateLives(int lives)
     {
-        livesText.text = "Vies : " + lives.ToString();
+        // Met à jour le paramètre de l’Animator
+        flowerAnimator.SetInteger("currentLives", lives);
+
+        // Remet le joueur au checkpoint
         player.transform.position = lastCheckpointPos;
     }
 
     public int GetCurrentLives()
     {
-        string[] parts = livesText.text.Split(':');
-        if (parts.Length > 1 && int.TryParse(parts[1], out int currentLives))
-        {
-            return currentLives;
-        }
-        return 0;
+        return flowerAnimator.GetInteger("currentLives");
     }
 }

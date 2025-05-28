@@ -261,28 +261,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3540687030625232522, guid: af8ce518b68b7424e959e9b772cf3051, type: 3}
-      insertIndex: 5
-      addedObject: {fileID: 48783000}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af8ce518b68b7424e959e9b772cf3051, type: 3}
---- !u!1 &48782993 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3540687030625232522, guid: af8ce518b68b7424e959e9b772cf3051, type: 3}
-  m_PrefabInstance: {fileID: 35553216}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &48783000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 48782993}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7903a0a5ca05bce4da0f6e8bf22587bf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &49853836
 GameObject:
   m_ObjectHideFlags: 0
@@ -190307,7 +190287,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 0e72f367502113541b840dd3b86d4d02, type: 3}
   m_Resource: {fileID: 8300000, guid: 0e72f367502113541b840dd3b86d4d02, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.37
+  m_Volume: 0.61
   m_Pitch: 1
   Loop: 1
   Mute: 0

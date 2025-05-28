@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0386ad012861db8448670ba5aeff3e24
+guid: 1669395454517f7409c1b645703fe4de
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4263280965001008725
-    second: Iron_Flower_UI_Bared_Flower_0_0
+      213: 8071057349142812409
+    second: Flower_Juice_FX_3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Iron_Flower_UI_Bared_Flower_0_0
+      name: Flower_Juice_FX_3_0
       rect:
         serializedVersion: 2
-        x: 38
-        y: 38
-        width: 21
-        height: 21
+        x: 12
+        y: 18
+        width: 47
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba92e67dc88c5d4c0800000000000000
-      internalID: -4263280965001008725
+      spriteID: 9f6967195e7220070800000000000000
+      internalID: 8071057349142812409
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Iron_Flower_UI_Bared_Flower_0_0: -4263280965001008725
+      Flower_Juice_FX_3_0: 8071057349142812409
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

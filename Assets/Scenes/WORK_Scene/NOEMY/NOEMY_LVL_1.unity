@@ -46083,7 +46083,7 @@ Canvas:
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
-  m_PixelPerfect: 0
+  m_PixelPerfect: 1
   m_ReceivesEvents: 1
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
@@ -46092,7 +46092,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &188626480
 RectTransform:
@@ -188796,6 +188796,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2314386782283589675, guid: 744b5c3e6cdbe054da5b50b88644a1d0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6892119712008850693, guid: 744b5c3e6cdbe054da5b50b88644a1d0, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6892119712008850693, guid: 744b5c3e6cdbe054da5b50b88644a1d0, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6892119712008850693, guid: 744b5c3e6cdbe054da5b50b88644a1d0, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6892119712008850693, guid: 744b5c3e6cdbe054da5b50b88644a1d0, type: 3}
+      propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8746044377523725300, guid: 744b5c3e6cdbe054da5b50b88644a1d0, type: 3}

@@ -3,6 +3,7 @@ using UnityEngine;
 public class LegsDamageForwarder : MonoBehaviour
 {
     private PlayerHealth playerHealth;
+    public AudioSource hittingLegs;
 
     void Start()
     {
@@ -16,6 +17,7 @@ public class LegsDamageForwarder : MonoBehaviour
             if (playerHealth != null)
             {
                 playerHealth.TakeDamage(1);
+                hittingLegs.Play();
             }
         }
     }

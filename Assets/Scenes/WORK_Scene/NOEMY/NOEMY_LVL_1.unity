@@ -218,6 +218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1286769066459438641, guid: af8ce518b68b7424e959e9b772cf3051, type: 3}
+      propertyPath: hittingLegs
+      value: 
+      objectReference: {fileID: 515406707}
     - target: {fileID: 4105010332824073717, guid: af8ce518b68b7424e959e9b772cf3051, type: 3}
       propertyPath: damageSound
       value: 

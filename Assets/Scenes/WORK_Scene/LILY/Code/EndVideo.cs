@@ -5,6 +5,7 @@ using UnityEngine.Video;
 public class EndVideo : MonoBehaviour
 {
     private VideoPlayer videoPlayer;
+    public KeyCode key = KeyCode.Space;
     private bool hasEnded = false;
 
     void Start()
@@ -23,7 +24,7 @@ public class EndVideo : MonoBehaviour
 
     void Update()
     {
-        if (!hasEnded && (Input.anyKeyDown || Input.GetMouseButtonDown(0)))
+        if (!hasEnded && (Input.GetKey(key) || Input.GetMouseButtonDown(0)))
         {
             LoadScene();
         }

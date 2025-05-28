@@ -2,13 +2,18 @@ using UnityEngine;
 
 public class Audio_Ext : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
+    public AudioSource Wind;
+    public AudioSource music;
+
+    private void OnTriggerEnter2D(Collider2D other){
         
+        if (other.attachedRigidbody.CompareTag("Player"))
+        {
+            Wind.Stop();
+            music.Stop();
+        }
     }
 
-    // Update is called once per frame
     void Update()
     {
         

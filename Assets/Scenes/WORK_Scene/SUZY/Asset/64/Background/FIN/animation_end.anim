@@ -20,8 +20,6 @@ AnimationClip:
   m_PPtrCurves:
   - serializedVersion: 2
     curve:
-    - time: 0
-      value: {fileID: -470884732477857976, guid: 2959183ef6bc6244a9f1a93fc32c97cf, type: 3}
     - time: 0.11666667
       value: {fileID: 1771138838, guid: 51f99e6d711015d41a4ea1cfe7ded675, type: 3}
     - time: 0.2
@@ -206,7 +204,6 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -470884732477857976, guid: 2959183ef6bc6244a9f1a93fc32c97cf, type: 3}
     - {fileID: 1771138838, guid: 51f99e6d711015d41a4ea1cfe7ded675, type: 3}
     - {fileID: -4592854847177415028, guid: ffa430f427b7b984aa955ff4461e6938, type: 3}
     - {fileID: -351400724, guid: ffa430f427b7b984aa955ff4461e6938, type: 3}
@@ -293,7 +290,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 7.95
+    m_StopTime: 10
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -313,7 +310,7 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 7.95
+  - time: 10
     functionName: ChangeScene
     data: 
     objectReferenceParameter: {fileID: 0}

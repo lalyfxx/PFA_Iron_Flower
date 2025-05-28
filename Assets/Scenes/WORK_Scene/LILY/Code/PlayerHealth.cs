@@ -13,7 +13,7 @@ public class PlayerHealth : MonoBehaviour
 
     public Animator animator;
 
-    public AudioClip damage; 
+    public AudioSource damageSound; 
 
     void Start()
     {
@@ -44,6 +44,8 @@ public class PlayerHealth : MonoBehaviour
 
         print(currentLives);
         animator.SetInteger("currentLives", currentLives);
+
+        damageSound.Play();
 
 
 

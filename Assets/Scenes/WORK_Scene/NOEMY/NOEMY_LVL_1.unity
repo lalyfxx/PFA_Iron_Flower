@@ -67975,7 +67975,7 @@ Transform:
   m_GameObject: {fileID: 469949171}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 24.439995, y: -86.68, z: 0}
+  m_LocalPosition: {x: 24, y: -86.68, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -190858,7 +190858,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1447535086066363600, guid: fc475516a00fbed488c6b110d89493fe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -86.1142
+      value: -87.4
       objectReference: {fileID: 0}
     - target: {fileID: 1447535086066363600, guid: fc475516a00fbed488c6b110d89493fe, type: 3}
       propertyPath: m_LocalPosition.z
@@ -190912,6 +190912,10 @@ PrefabInstance:
       propertyPath: pointB
       value: 
       objectReference: {fileID: 469949171}
+    - target: {fileID: 9201844106159404689, guid: fc475516a00fbed488c6b110d89493fe, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -855298285791758126, guid: 3e65e3544f41c3e4da887c6d898da04a, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 1678308624471288877, guid: fc475516a00fbed488c6b110d89493fe, type: 3}
@@ -194068,7 +194072,7 @@ Transform:
   m_GameObject: {fileID: 1554271343}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16.489998, y: -86.68, z: 0}
+  m_LocalPosition: {x: 17.5, y: -86.68, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -199082,7 +199086,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 6
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
